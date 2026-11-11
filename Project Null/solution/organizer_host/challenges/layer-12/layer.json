@@ -1,0 +1,20 @@
+{
+  "layer": 12,
+  "id": "layer-12",
+  "title": "Foreign Voice",
+  "act": 3,
+  "timer_seconds": 180,
+  "public_asset": "relay_message.eml",
+  "canonical_key": "received_headers_tell_truth",
+  "canonical_aliases": [
+    "received_headers_tell_truth",
+    "received-headers-tell-truth"
+  ],
+  "false_positive_key": "dkim_means_internal",
+  "false_positive_aliases": [
+    "dkim_means_internal",
+    "dkim-means-internal"
+  ],
+  "verified_fragment": "shard::12::relay-audit",
+  "poison_fragment": "shard::12::dkim-audit"
+}

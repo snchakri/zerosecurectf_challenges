@@ -1,0 +1,2 @@
+Hint 2:
+After one decode you still get encoded text. Keep decoding the output repeatedly.

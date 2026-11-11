@@ -1,0 +1,2 @@
+zerosecure{simd_avx2_vectorized_mask_comparison_66aa}
+zerosecurectf{simd_avx2_vectorized_mask_comparison_66aa}

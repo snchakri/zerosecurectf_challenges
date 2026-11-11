@@ -1,0 +1,9 @@
+Title: Backup Appetite
+Category: Web Security
+Points: 110
+
+An internal admin portal source bundle was leaked during a deployment cleanup. The current route looks harmless, but old files and forgotten backups have a habit of surviving longer than they should.
+
+Audit the archive and recover the flag.
+
+Flag format: ZeroSecureCTF{...}

@@ -1,0 +1,2 @@
+zerosecure{seccomp_bpf_syscall_architecture_bypass_91fe}
+zerosecurectf{seccomp_bpf_syscall_architecture_bypass_91fe}

@@ -1,0 +1,2 @@
+zerosecure{poly1305_nonce_reuse_mac_forgery_81bc}
+zerosecurectf{poly1305_nonce_reuse_mac_forgery_81bc}

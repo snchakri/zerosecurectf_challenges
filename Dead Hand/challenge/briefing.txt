@@ -1,0 +1,12 @@
+=============================================================
+  PROJECT DEAD HAND  //  INTERCEPT BRIEFING  //  EYES ONLY
+=============================================================
+
+Two encrypted transmissions, ALPHA and BRAVO, were pulled off
+the silo's buried landline on the same night (see the two
+transmission_*.txt files, hex-encoded).
+
+The station's cipher used a "single-use" key tape. Discipline
+on the final night was... not what it should have been.
+
+Recover the launch authorization.

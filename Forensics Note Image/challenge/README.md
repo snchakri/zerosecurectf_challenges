@@ -1,0 +1,14 @@
+# Forensics Note Image
+
+**Category:** Forensics
+
+Category: Forensics
+Difficulty: Beginner
+
+ZeroSecure recovered an image from a workstation.
+Find the hidden flag inside the file.
+
+Hint: Start with basic file forensics (metadata and readable strings) before trying advanced steganography tools.
+
+Flag format: ZeroSecure_CTF{...}
+

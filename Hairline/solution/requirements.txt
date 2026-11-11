@@ -1,0 +1,5 @@
+# Serving dependency for Hairline. Pinned so that a given ZSCTF_SEED derives the
+# SAME model weights on every host (numpy's PCG64 bit stream is version-stable,
+# but we pin the version to remove any doubt). The live service needs only numpy;
+# scipy is used solely by the reference solver (solve/solve.py), not by the server.
+numpy==2.4.2

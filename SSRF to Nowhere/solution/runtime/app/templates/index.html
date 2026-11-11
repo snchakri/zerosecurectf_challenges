@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>SENSOR FEED PREVIEW</title>
+<style>body{background:#0b0d0f;color:#9fb4a0;font-family:monospace;margin:0;padding:2rem}
+input{width:28rem;background:#111;color:#cfe;border:1px solid #333;padding:.4rem}
+.box{border:1px solid #223;padding:1rem;max-width:720px}pre{white-space:pre-wrap;color:#cfe}
+.err{color:#e67}</style></head>
+<body><div class="box">
+<h1>SENSOR FEED PREVIEW</h1>
+<p>enter the URL of a sensor feed to preview it:</p>
+<form method="get" action="/">
+  <input name="url" value="{{ url|e }}" placeholder="http://sensor.local/feed">
+  <button>preview</button>
+</form>
+{% if error %}<p class="err">error: {{ error }}</p>{% endif %}
+{% if fetched is not none %}<h2>feed:</h2><pre>{{ fetched }}</pre>{% endif %}
+</div>
+<!-- internal admin panel lives at /admin/flag (restricted to localhost) -->
+<p style="color:#556">sensor mesh offline since 2019 &middot; admin: localhost only</p>
+</body></html>

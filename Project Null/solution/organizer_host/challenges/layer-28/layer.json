@@ -1,0 +1,20 @@
+{
+  "layer": 28,
+  "id": "layer-28",
+  "title": "Planted Fragments",
+  "act": 5,
+  "timer_seconds": 210,
+  "public_asset": "fragment_audit.log",
+  "canonical_key": "poisoned_shards_sound_smoother",
+  "canonical_aliases": [
+    "poisoned_shards_sound_smoother",
+    "poisoned-shards-sound-smoother"
+  ],
+  "false_positive_key": "oldest_fragment_is_safe",
+  "false_positive_aliases": [
+    "oldest_fragment_is_safe",
+    "oldest-fragment-is-safe"
+  ],
+  "verified_fragment": "shard::28::audit-bloom",
+  "poison_fragment": "shard::28::old-bloom"
+}

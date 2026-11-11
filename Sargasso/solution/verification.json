@@ -1,0 +1,14 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zer0securectf{decoy_export_b6ff246a}",
+      "zerosecurectf{DECOY-NO-FLAG-B6FF246A}"
+    ],
+    "elapsed_seconds": 0.04
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

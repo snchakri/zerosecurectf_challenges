@@ -1,0 +1,20 @@
+{
+  "layer": 10,
+  "id": "layer-10",
+  "title": "Surface Confidence",
+  "act": 2,
+  "timer_seconds": 210,
+  "public_asset": "pulse_subtitles.vtt",
+  "canonical_key": "silence_marks_the_words",
+  "canonical_aliases": [
+    "silence_marks_the_words",
+    "silence-marks-the-words"
+  ],
+  "false_positive_key": "subtitles_are_enough",
+  "false_positive_aliases": [
+    "subtitles_are_enough",
+    "subtitles-are-enough"
+  ],
+  "verified_fragment": "shard::10::hush-vector",
+  "poison_fragment": "shard::10::caption-vector"
+}

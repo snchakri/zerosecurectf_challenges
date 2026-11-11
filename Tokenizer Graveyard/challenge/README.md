@@ -1,0 +1,14 @@
+# Tokenizer Graveyard
+
+**Category:** Ai
+
+Title: Tokenizer Graveyard
+Category: AI & ML
+Points: 140
+
+A model export and one debug trace were left behind after an internal experiment. The visible output is gone, but the tokenizer still remembers more than it should.
+
+Use the artifacts to reconstruct the hidden payload and recover the flag.
+
+Flag format: ZeroSecureCTF{...}
+

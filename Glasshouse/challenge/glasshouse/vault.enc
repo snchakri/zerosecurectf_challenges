@@ -1,0 +1,7 @@
+{
+  "scheme": "glasshouse-v1",
+  "kdf": "sha256(handle:place:author:serial)",
+  "note": "ciphertext of the field-notes vault; key = cross-artifact correlation",
+  "ciphertext": "nAN5MsLOHu5diIPQ3BsKz2L8yXcuEqTD7f1oJk53Et6TreaWBso=",
+  "tag": "db07645d99b0d230c4e94d7afb19912c6f2a14097a82b8155671211ce8eff892"
+}

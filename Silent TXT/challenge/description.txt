@@ -1,0 +1,9 @@
+Title: Silent TXT
+Category: Network Sec
+Points: 130
+
+The packet capture is short, but it includes a burst of suspicious DNS activity. Most of the traffic is noise. Somewhere inside the queries, a message was smuggled out in pieces.
+
+Reconstruct the hidden payload and recover the flag.
+
+Flag format: ZeroSecureCTF{...}

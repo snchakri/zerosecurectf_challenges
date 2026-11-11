@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecure{wasm_linear_memory_stack_validator_31cb}"
+    ],
+    "elapsed_seconds": 0.06
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

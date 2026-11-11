@@ -1,0 +1,13 @@
+{
+  "status": "artifact flag derived; event answer differs or absent",
+  "execution": {
+    "phase": "continuation checks",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecurectf{th3_rupture_d3v14t3s}"
+    ],
+    "elapsed_seconds": 0.46
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

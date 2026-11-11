@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecurectf{twotimepad_789d9e34b8b2}"
+    ],
+    "elapsed_seconds": 0.07
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

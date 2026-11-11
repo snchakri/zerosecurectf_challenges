@@ -1,0 +1,14 @@
+{
+  "scheme": "ERC20-like token; exploit batchTransfer overflow to mint beyond supply.",
+  "initial_balances": {
+    "vault": 1000000,
+    "atkA": 1,
+    "atkB": 0
+  },
+  "total_supply": 1000001,
+  "attacker_addresses": [
+    "atkA",
+    "atkB"
+  ],
+  "goal": "Make an attacker address hold more than total_supply. Submit tx.json to contract.py."
+}

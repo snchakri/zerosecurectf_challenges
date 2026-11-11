@@ -1,0 +1,6 @@
+{
+  "EventID": 4104,
+  "Provider": "Microsoft-Windows-PowerShell",
+  "TimeCreated": "2026-10-15T14:22:10.123456Z",
+  "Message": "ScriptBlock text: $SecretAuthKey = 'zerosecure{event_4104_powershell_scriptblock_83a1}'; Start-Process -FilePath 'update.exe'"
+}

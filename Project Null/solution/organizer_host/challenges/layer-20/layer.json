@@ -1,0 +1,20 @@
+{
+  "layer": 20,
+  "id": "layer-20",
+  "title": "Scripted Prophecy",
+  "act": 3,
+  "timer_seconds": 210,
+  "public_asset": "oracle_replay.log",
+  "canonical_key": "replay_reveals_the_script",
+  "canonical_aliases": [
+    "replay_reveals_the_script",
+    "replay-reveals-the-script"
+  ],
+  "false_positive_key": "live_messages_predict",
+  "false_positive_aliases": [
+    "live_messages_predict",
+    "live-messages-predict"
+  ],
+  "verified_fragment": "shard::20::oracle-shell",
+  "poison_fragment": "shard::20::future-shell"
+}

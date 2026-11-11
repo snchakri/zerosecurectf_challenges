@@ -1,0 +1,20 @@
+{
+  "layer": 3,
+  "id": "layer-03",
+  "title": "Breath Discipline",
+  "act": 1,
+  "timer_seconds": 195,
+  "public_asset": "pulse_field.txt",
+  "canonical_key": "breath_means_break",
+  "canonical_aliases": [
+    "breath_means_break",
+    "breath-means-break"
+  ],
+  "false_positive_key": "follow_the_pulse",
+  "false_positive_aliases": [
+    "follow_the_pulse",
+    "follow-the-pulse"
+  ],
+  "verified_fragment": "shard::03::cinder-lattice",
+  "poison_fragment": "shard::03::cinder-loop"
+}

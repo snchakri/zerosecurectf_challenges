@@ -1,0 +1,214 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+2 0 obj
+<< /Length 2866 >>
+stream
+BT
+/F1 10 Tf
+42 752 Td
+14 TL
+(ZeroSecure Beginner CTF Pack - Detailed Solutions) Tj
+T*
+() Tj
+T*
+(Bundle: /Users/sathwikareddy/Documents/CSI26/ZeroSecure_CTF7_Direct_Upload) Tj
+T*
+(Generated: 2026-04-17) Tj
+T*
+(Flag format: ZeroSecure_CTF{...}) Tj
+T*
+() Tj
+T*
+(This PDF is the only detailed writeup document for the upload bundle.) Tj
+T*
+(Challenge folders include metadata and player files only.) Tj
+T*
+() Tj
+T*
+(ZeroSecure site verification:) Tj
+T*
+(The official public challenge matrix on https://www.zerosecurectf.online/ lists Cryptography,) Tj
+T*
+(Web Security, Reverse Eng, Forensics, and OSINT.) Tj
+T*
+(The same site shows PLUS: 7GJQ+P44 in the LOCATION VECTOR section on April 17, 2026.) Tj
+T*
+() Tj
+T*
+(1. Staff Route \(Web Security\)) Tj
+T*
+(Flag: ZeroSecure_CTF{robots_txt_to_release_view}) Tj
+T*
+(Files: index.html, robots.txt, staff-only.html, app.js) Tj
+T*
+(Detailed solve path:) Tj
+T*
+(Open index.html. The page explicitly tells the player to start with robots.txt.) Tj
+T*
+(Open robots.txt and observe the disallowed route /staff-only.html.) Tj
+T*
+(Open staff-only.html. The page says the release dashboard depends on the URL view.) Tj
+T*
+(Inspect app.js. It reads the query parameter named view and unlocks the page only when) Tj
+T*
+(view=release.) Tj
+T*
+(Visit staff-only.html?view=release or reason it out from the script.) Tj
+T*
+(The page assembles data-piece attributes in order and prints the final flag.) Tj
+T*
+() Tj
+T*
+(2. Mirror Walk \(Cryptography\)) Tj
+T*
+(Flag: ZeroSecure_CTF{mirror_and_shift}) Tj
+T*
+(Files: index.html, note.txt, cipher.txt) Tj
+T*
+(Detailed solve path:) Tj
+T*
+(Read note.txt. It says: Three steps forward. Then stand in front of the mirror. What comes) Tj
+T*
+(back is the message.) Tj
+T*
+(The intended interpretation is Caesar shift by 3 and then Atbash mirror.) Tj
+T*
+(Take the ciphertext from cipher.txt: XsfiEsucfs_UDR{koffif_wjt_epord}) Tj
+T*
+(Apply the mirror first and then shift back by 3, or equivalently shift forward by 3 and then) Tj
+T*
+(mirror. The decoded result is ZeroSecure_CTF{mirror_and_shift}.) Tj
+T*
+(A quick verified route is Atbash\(ciphertext\) => ChurVhfxuh_FWI{pluuru_dqg_vkliw}, then Caesar) Tj
+T*
+(shift -3 => ZeroSecure_CTF{mirror_and_shift}.) Tj
+T*
+() Tj
+T*
+(3. USB Night Shift \(Forensics\)) Tj
+T*
+(Flag: ZeroSecure_CTF{nightshift_badge_roster}) Tj
+T*
+(Files: incident_auth.log, usb_audit.log, analyst_note.txt) Tj
+T*
+(Detailed solve path:) Tj
+T*
+(Read analyst_note.txt first. It says the suspicious access happened after the front desk login) Tj
+T*
+(and that the flag should combine the suspicious username and the more sensitive copied file.) Tj
+T*
+(Open incident_auth.log. The suspicious successful login is nightshift at 08:03:55, followed by) Tj
+T*
+(privilege escalation at 08:04:07.) Tj
+T*
+(Open usb_audit.log. The suspicious removable media is IRONKEY mounted by nightshift at) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Length 1792 >>
+stream
+BT
+/F1 10 Tf
+42 752 Td
+14 TL
+(08:05:42.) Tj
+T*
+(Two files are copied after that, but badge_roster.csv is clearly the more sensitive file than) Tj
+T*
+(lobby_music.m3u.) Tj
+T*
+(Remove the extension and combine the values as instructed: nightshift + badge_roster.) Tj
+T*
+(Final flag: ZeroSecure_CTF{nightshift_badge_roster}.) Tj
+T*
+() Tj
+T*
+(4. Tiny Gate \(Reverse Engineering\)) Tj
+T*
+(Flag: ZeroSecure_CTF{mirror_then_xor}) Tj
+T*
+(Files: gate.py) Tj
+T*
+(Detailed solve path:) Tj
+T*
+(Read gate.py. The encode function reverses the candidate string, then for each byte adds i +) Tj
+T*
+(3, XORs the result with 0x2A, and compares against TARGET.) Tj
+T*
+(To solve it, reverse the transformation instead of brute forcing it.) Tj
+T*
+(For each TARGET byte at index i, compute \(\(byte XOR 0x2A\) - i - 3\) & 0xFF.) Tj
+T*
+(Convert the recovered byte list to text and reverse the full string at the end.) Tj
+T*
+(That produces ZeroSecure_CTF{mirror_then_xor}.) Tj
+T*
+() Tj
+T*
+(5. Signal Vector \(OSINT\)) Tj
+T*
+(Flag: ZeroSecure_CTF{7GJQ+P44}) Tj
+T*
+(Files: hint.txt) Tj
+T*
+(Detailed solve path:) Tj
+T*
+(Read hint.txt. It sends the player to the official ZeroSecure website and specifically points) Tj
+T*
+(to the LOCATION VECTOR section.) Tj
+T*
+(Open https://www.zerosecurectf.online/. In the public event information, the location section) Tj
+T*
+(lists MVSR ENGINEERING COLLEGE, HYDERABAD and shows PLUS: 7GJQ+P44.) Tj
+T*
+(Use the plus code as the flag body exactly as instructed.) Tj
+T*
+(Final flag: ZeroSecure_CTF{7GJQ+P44}.) Tj
+T*
+() Tj
+T*
+(Final verified answers:) Tj
+T*
+(1. ZeroSecure_CTF{robots_txt_to_release_view}) Tj
+T*
+(2. ZeroSecure_CTF{mirror_and_shift}) Tj
+T*
+(3. ZeroSecure_CTF{nightshift_badge_roster}) Tj
+T*
+(4. ZeroSecure_CTF{mirror_then_xor}) Tj
+T*
+(5. ZeroSecure_CTF{7GJQ+P44}) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 6 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 6 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 3 0 R >>
+endobj
+6 0 obj
+<< /Type /Pages /Count 2 /Kids [ 4 0 R 5 0 R ] >>
+endobj
+7 0 obj
+<< /Type /Catalog /Pages 6 0 R >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000003001 00000 n 
+0000004845 00000 n 
+0000004971 00000 n 
+0000005097 00000 n 
+0000005162 00000 n 
+trailer
+<< /Size 8 /Root 7 0 R >>
+startxref
+5211
+%%EOF

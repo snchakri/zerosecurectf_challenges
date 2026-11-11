@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecure{wireguard_preshared_key_tunnel_09ab}"
+    ],
+    "elapsed_seconds": 0.05
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

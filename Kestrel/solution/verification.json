@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecurectf{kestrel_c23ec91103f1}"
+    ],
+    "elapsed_seconds": 0.02
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

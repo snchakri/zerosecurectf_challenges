@@ -1,0 +1,24 @@
+rev_06 -- WebAssembly linear-memory gate validator
+===================================================
+
+FILES
+  validator.wasm   A WebAssembly module (hand-assembled). It exports:
+                     - memory  (1 page of linear memory)
+                     - validate(len: i32) -> i32
+  run.js           A small Node harness that loads validator.wasm, writes the
+                   candidate bytes into linear memory at offset 0, calls
+                   validate(length), and reports the result.
+
+HOW VALIDATION WORKS (from the module)
+  The candidate is written to linear memory starting at offset 0. validate()
+  walks it byte by byte on the operand stack, folding each byte through a
+  state-driven transform, and compares the result against a target block held
+  in a data segment higher in linear memory. It returns 1 to accept, 0 to
+  reject. There is no stored passphrase -- only what the passphrase becomes.
+
+RUN
+  node run.js '<candidate>'                 # candidate as argv, or:
+  printf '%s' '<candidate>' | node run.js
+
+Requires Node (any recent version with WebAssembly support). The module
+accepts exactly one input. Recover it.

@@ -1,0 +1,6 @@
+{
+  "status": "incomplete source",
+  "execution": null,
+  "archive_note": "incomplete prototype: no generated transcript; original generator requires Python 3.9/3.10 and omits the global payload constant",
+  "event_answer_file": null
+}

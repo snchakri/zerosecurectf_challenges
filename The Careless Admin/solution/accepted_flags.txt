@@ -1,0 +1,1 @@
+zerosecurectf{basic_auth_leaks_secrets}

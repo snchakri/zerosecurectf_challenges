@@ -1,0 +1,20 @@
+{
+  "layer": 29,
+  "id": "layer-29",
+  "title": "Recursive Candidate",
+  "act": 5,
+  "timer_seconds": 180,
+  "public_asset": "activation_order.txt",
+  "canonical_key": "state_order_unlocks_truth",
+  "canonical_aliases": [
+    "state_order_unlocks_truth",
+    "state-order-unlocks-truth"
+  ],
+  "false_positive_key": "linear_progress_is_required",
+  "false_positive_aliases": [
+    "linear_progress_is_required",
+    "linear-progress-is-required"
+  ],
+  "verified_fragment": "shard::29::state-lens",
+  "poison_fragment": "shard::29::linear-lens"
+}

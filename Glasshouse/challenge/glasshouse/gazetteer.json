@@ -1,0 +1,75 @@
+{
+  "_note": "Offline reverse-geocode table. Public landmark coordinates only.",
+  "landmarks": [
+    {
+      "slug": "eiffel_tower",
+      "name": "Eiffel Tower",
+      "city": "Paris",
+      "lat": 48.8584,
+      "lon": 2.2945
+    },
+    {
+      "slug": "statue_of_liberty",
+      "name": "Statue of Liberty",
+      "city": "New York",
+      "lat": 40.6892,
+      "lon": -74.0445
+    },
+    {
+      "slug": "marina_bay_sands",
+      "name": "Marina Bay Sands",
+      "city": "Singapore",
+      "lat": 1.2834,
+      "lon": 103.8607
+    },
+    {
+      "slug": "sydney_opera_house",
+      "name": "Sydney Opera House",
+      "city": "Sydney",
+      "lat": -33.8568,
+      "lon": 151.2153
+    },
+    {
+      "slug": "christ_redeemer",
+      "name": "Christ the Redeemer",
+      "city": "Rio",
+      "lat": -22.9519,
+      "lon": -43.2105
+    },
+    {
+      "slug": "colosseum",
+      "name": "Colosseum",
+      "city": "Rome",
+      "lat": 41.8902,
+      "lon": 12.4922
+    },
+    {
+      "slug": "table_mountain",
+      "name": "Table Mountain",
+      "city": "Cape Town",
+      "lat": -33.9628,
+      "lon": 18.4098
+    },
+    {
+      "slug": "gateway_of_india",
+      "name": "Gateway of India",
+      "city": "Mumbai",
+      "lat": 18.922,
+      "lon": 72.8347
+    },
+    {
+      "slug": "india_gate",
+      "name": "India Gate",
+      "city": "New Delhi",
+      "lat": 28.6129,
+      "lon": 77.2295
+    },
+    {
+      "slug": "charminar",
+      "name": "Charminar",
+      "city": "Hyderabad",
+      "lat": 17.3616,
+      "lon": 78.4747
+    }
+  ]
+}

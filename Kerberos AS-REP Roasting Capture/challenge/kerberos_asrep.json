@@ -1,0 +1,10 @@
+{
+  "protocol": "Kerberos v5",
+  "message_type": "KRB-AS-REP (11)",
+  "cname": "svc_backup_admin",
+  "realm": "CORP.ZEROSECURE.LOCAL",
+  "enc_part": {
+    "etype": 23,
+    "cipher": "$krb5asrep$23$svc_backup_admin@CORP.ZEROSECURE.LOCAL:zerosecure{asrep_roast_etype23_hash_carved_31ac}"
+  }
+}

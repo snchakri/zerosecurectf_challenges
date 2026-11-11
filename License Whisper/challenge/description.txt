@@ -1,0 +1,9 @@
+Title: License Whisper
+Category: Reverse Eng
+Points: 120
+
+The binary accepts exactly one license string. No network, no server, no tricks. The answer is already inside the program if you are willing to read what the bytecode is trying to say.
+
+Recover the correct input and submit it as the flag.
+
+Flag format: ZeroSecureCTF{...}

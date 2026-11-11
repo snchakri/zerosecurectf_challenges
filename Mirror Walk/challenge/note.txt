@@ -1,0 +1,4 @@
+To decode this message:
+1) Stand in front of the mirror first (reverse the full ciphertext).
+2) Then walk three steps back (shift letters by -3).
+3) Keep symbols like braces and underscores unchanged.

@@ -1,0 +1,13 @@
+{
+  "archive_format": "PKZip v2.0",
+  "entries": [
+    {
+      "filename": "app/main.py",
+      "content": "print('hello')"
+    },
+    {
+      "filename": "../../../../etc/cron.d/malicious_job",
+      "content": "# Flag: zerosecure{zip_slip_path_traversal_symlink_72cd}\n* * * * * root /bin/sync\n"
+    }
+  ]
+}

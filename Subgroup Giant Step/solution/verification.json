@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecure{bsgs_discrete_log_subgroup_90da}"
+    ],
+    "elapsed_seconds": 1.19
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

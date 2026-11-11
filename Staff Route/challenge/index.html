@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Northstar Public Portal</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #0f172a;
+        --bg2: #111827;
+        --card: rgba(15, 23, 42, 0.72);
+        --card-border: rgba(148, 163, 184, 0.22);
+        --text: #e2e8f0;
+        --muted: #94a3b8;
+        --accent: #38bdf8;
+        --accent2: #f59e0b;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        background:
+          radial-gradient(circle at top, rgba(56, 189, 248, 0.18), transparent 35%),
+          radial-gradient(circle at bottom right, rgba(245, 158, 11, 0.16), transparent 32%),
+          linear-gradient(160deg, var(--bg), var(--bg2));
+        font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+        color: var(--text);
+      }
+
+      main {
+        width: min(720px, calc(100vw - 28px));
+        background: var(--card);
+        border: 1px solid var(--card-border);
+        border-radius: 24px;
+        box-shadow: 0 24px 80px rgba(2, 6, 23, 0.45);
+        padding: 32px;
+        backdrop-filter: blur(16px);
+      }
+
+      h1 {
+        margin: 0 0 12px;
+        font-size: clamp(2rem, 5vw, 3.2rem);
+        line-height: 1.05;
+      }
+
+      p {
+        margin: 0 0 14px;
+        line-height: 1.6;
+        color: var(--muted);
+        max-width: 62ch;
+      }
+
+      .panel {
+        margin-top: 22px;
+        padding: 18px;
+        border-radius: 18px;
+        border: 1px solid rgba(148, 163, 184, 0.18);
+        background: rgba(15, 23, 42, 0.5);
+      }
+
+      .meta {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+        gap: 12px;
+        margin-top: 18px;
+      }
+
+      .chip {
+        padding: 12px 14px;
+        border-radius: 14px;
+        background: rgba(15, 23, 42, 0.8);
+        border: 1px solid rgba(148, 163, 184, 0.15);
+      }
+
+      .chip strong {
+        display: block;
+        color: var(--text);
+        margin-bottom: 4px;
+      }
+
+      a {
+        color: var(--accent);
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      .note {
+        margin-top: 20px;
+        padding: 14px 16px;
+        border-left: 4px solid var(--accent2);
+        background: rgba(245, 158, 11, 0.08);
+        border-radius: 12px;
+        color: var(--text);
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Northstar Public Portal</h1>
+      <p>
+        This tiny site has a public landing page, a robot policy, and one internal page
+        that the front desk does not advertise.
+      </p>
+      <p>
+        Everything is local, everything is tiny, and the intended path is the same kind of
+        thing you would check on a real site when you suspect there is a hidden admin view.
+      </p>
+
+      <div class="panel">
+        <strong>Public artifacts</strong>
+        <div class="meta">
+          <div class="chip">
+            <strong>Site map</strong>
+            There is a robot policy in this folder.
+          </div>
+          <div class="chip">
+            <strong>Internal page</strong>
+            One route is intentionally kept off the public path.
+          </div>
+          <div class="chip">
+            <strong>Hint</strong>
+            The release view depends on the URL, not a password.
+          </div>
+        </div>
+      </div>
+
+      <div class="note">
+        Start with <a href="./robots.txt">robots.txt</a> and follow the hidden staff route from
+        there.
+      </div>
+    </main>
+  </body>
+</html>

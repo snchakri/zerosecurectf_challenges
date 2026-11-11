@@ -1,0 +1,24 @@
+{
+  "count": 4,
+  "paths": {
+    "A": {
+      "hint": "retrain branch unlock",
+      "share_id": 1
+    },
+    "B": {
+      "hint": "offline weight decrypt path",
+      "share_id": 2
+    },
+    "C": {
+      "hint": "membership + mantissa lane",
+      "share_id": 3
+    },
+    "D": {
+      "hint": "adversarial skew lane",
+      "share_id": 4
+    }
+  },
+  "scheme": "shamir-gf256",
+  "share_bytes": 48,
+  "threshold": 4
+}

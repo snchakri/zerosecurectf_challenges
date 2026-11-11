@@ -1,0 +1,11 @@
+numpy
+pycryptodome
+sympy
+fpylll
+cysignals
+z3-solver
+Pillow
+scapy
+pwntools
+requests
+PyYAML

@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecure{mersenne_twister_untemper_state_33bb}"
+    ],
+    "elapsed_seconds": 0.07
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

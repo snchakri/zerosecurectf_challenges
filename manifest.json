@@ -1,0 +1,3903 @@
+{
+  "format_version": 1,
+  "prepared_date": "2026-11-11",
+  "challenge_count": 233,
+  "layout": {
+    "challenge": "Player brief and handouts",
+    "solution": "Walkthrough, code, runtime, author references, and verification notes"
+  },
+  "scan_scope": [
+    "Documents",
+    "OneDrive/Documents"
+  ],
+  "counts_by_status": {
+    "author reference retained; not rerun": 40,
+    "reference run completed": 156,
+    "incomplete source": 20,
+    "original source rebuilt": 3,
+    "original mismatch": 1,
+    "forged token generated; private verifier key absent": 1,
+    "artifact flag derived; event answer differs or absent": 4,
+    "event/manual procedure": 8
+  },
+  "challenges": [
+    {
+      "id": "legacy-65",
+      "title": "Tokenizer Graveyard",
+      "folder": "Tokenizer Graveyard",
+      "category": "Ai",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_12/zeroeasy/challenges/08_ai_tokenizer-graveyard",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-55",
+      "title": "Broken Switchboard - Control Room Calculator",
+      "folder": "Broken Switchboard - Control Room Calculator",
+      "category": "Binary Exploitation",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/binary_exploitation/ch2_broken_switchboard",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-56",
+      "title": "Echo Chamber - Legacy Console",
+      "folder": "Echo Chamber - Legacy Console",
+      "category": "Binary Exploitation",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/binary_exploitation/ch3_echo_chamber",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-57",
+      "title": "Frankenstein's Byte - Revival Lab",
+      "folder": "Frankenstein's Byte - Revival Lab",
+      "category": "Binary Exploitation",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/binary_exploitation/ch3_frankensteins_byte",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-54",
+      "title": "ZeroMart Marketplace - Negative Balance",
+      "folder": "ZeroMart Marketplace - Negative Balance",
+      "category": "Binary Exploitation",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/binary_exploitation/ch1_negative_balance",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-64",
+      "title": "Private Means Private?",
+      "folder": "Private Means Private -",
+      "category": "Blockchain",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_12/zeroeasy/challenges/07_blockchain_private-means-private",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-19",
+      "title": "Crypto Double Wrap",
+      "folder": "Crypto Double Wrap",
+      "category": "Crypto",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_6/ZeroSecure_Beginner_CTF_Pack/01_crypto_double_wrap",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "original beginner artifacts retained; independent solution documented during archive review",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "ZeroSecure_CTF{part1_double_wrap}"
+        ],
+        "elapsed_seconds": 0.02
+      }
+    },
+    {
+      "id": "legacy-58",
+      "title": "Reused Signal",
+      "folder": "Reused Signal",
+      "category": "Crypto",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_12/zeroeasy/challenges/01_crypto_reused-signal",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-25",
+      "title": "Broken Typewriter (Spatial Cryptography)",
+      "folder": "Broken Typewriter (Spatial Cryptography)",
+      "category": "Cryptography",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_7/c2",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "XrtpDrvitr_VYG{LRUNPSTF_DJOGY_TOHJY}",
+          "ZeroSecure_CTF{KEYBOARD_SHIFT_RIGHT}"
+        ],
+        "elapsed_seconds": null
+      }
+    },
+    {
+      "id": "legacy-26",
+      "title": "Format String Illusion",
+      "folder": "Format String Illusion",
+      "category": "Cryptography",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_7/c3",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "ZeroSecure_CTF{FORMAT_STRING_ILLUSION}"
+        ],
+        "elapsed_seconds": null
+      }
+    },
+    {
+      "id": "legacy-27",
+      "title": "Format String Illusion - Reimplemented",
+      "folder": "Format String Illusion - Reimplemented",
+      "category": "Cryptography",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_7/c4",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "ZeroSecure_CTF{CASE_CHANNEL_BACON}"
+        ],
+        "elapsed_seconds": null
+      }
+    },
+    {
+      "id": "legacy-15",
+      "title": "Mirror Walk",
+      "folder": "Mirror Walk",
+      "category": "Cryptography",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_5/ZeroSecure_CTF7_Direct_Upload/02_crypto_mirror_walk",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-28",
+      "title": "RSA Broadcast",
+      "folder": "RSA Broadcast",
+      "category": "Cryptography",
+      "collection": "Local legacy collections",
+      "status": "incomplete source",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_7/c5/brodcast",
+      "solution_command": null,
+      "verification_note": "incomplete public handout: only author solver and hints found; solver constants are illustrative"
+    },
+    {
+      "id": "legacy-29",
+      "title": "Tenfold Base8000 Descent",
+      "folder": "Tenfold Base8000 Descent",
+      "category": "Cryptography",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_7/c6",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "ZeroSecure_CTF{caught_it_ten}"
+        ],
+        "elapsed_seconds": null
+      }
+    },
+    {
+      "id": "legacy-24",
+      "title": "Triple Base64 Relay",
+      "folder": "Triple Base64 Relay",
+      "category": "Cryptography",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_7/c1",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "ZeroSecure_CTF{TRIPLE_BASE64_CHAIN}"
+        ],
+        "elapsed_seconds": null
+      }
+    },
+    {
+      "id": "legacy-11",
+      "title": "Entropy Grave",
+      "folder": "Entropy Grave",
+      "category": "Digital Forensics",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/CTF_CHALLENGES - Copy/c7_ENTROPY_GRAVE",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "flag{close_primes_leave_shallow_graves}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": "legacy-12",
+      "title": "Null Stream",
+      "folder": "Null Stream",
+      "category": "Digital Forensics",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/CTF_CHALLENGES - Copy/c8_NULL_STREAM",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "flag{static_is_just_a_keystream_waiting_to_be_read}"
+        ],
+        "elapsed_seconds": 0.04
+      }
+    },
+    {
+      "id": "legacy-13",
+      "title": "Phantom Ledger",
+      "folder": "Phantom Ledger",
+      "category": "Digital Forensics",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/CTF_CHALLENGES - Copy/c9_PHANTOM_LEDGER",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "FLAG{wh3n_th3_n0nc3_n3v3r_ch4ng3s_th3_s3cr3t_sl1ps}"
+        ],
+        "elapsed_seconds": 0.04
+      }
+    },
+    {
+      "id": "legacy-3",
+      "title": "Simulation — Archive Forensics",
+      "folder": "Simulation — Archive Forensics",
+      "category": "Digital Forensics",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/final_deliverables/c3_DigitalForensics",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{simulation_flag}"
+        ],
+        "elapsed_seconds": 0.03
+      }
+    },
+    {
+      "id": "legacy-5",
+      "title": "Vessel in the Void",
+      "folder": "Vessel in the Void",
+      "category": "Digital Forensics",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/final_deliverables/c5_DigitalForensicsREcrypto",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "32mzerosecurectf{caught_final_void}",
+          "zerosecurectf{caught_final_void}"
+        ],
+        "elapsed_seconds": 0.1
+      }
+    },
+    {
+      "id": "legacy-10",
+      "title": "Ward 7",
+      "folder": "Ward 7",
+      "category": "Digital Forensics",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/CTF_CHALLENGES - Copy/c10_WARD_7",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "GUEJ{vqf_aifqae_fev_pnwnv_fqasngwgm}",
+          "FLAG{the_record_was_never_corrected}"
+        ],
+        "elapsed_seconds": 0.05
+      }
+    },
+    {
+      "id": "legacy-6",
+      "title": "Whispers in the Void",
+      "folder": "Whispers in the Void",
+      "category": "Digital Forensics",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/final_deliverables/c6_DigitalForensics_Networks_Stego",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{the_real_deadend}"
+        ],
+        "elapsed_seconds": 1.21
+      }
+    },
+    {
+      "id": "legacy-70",
+      "title": "Project Null",
+      "folder": "Project Null",
+      "category": "Final Chain",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_13",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-71",
+      "title": "The LWE Lockbox",
+      "folder": "The LWE Lockbox",
+      "category": "Final Chain",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/final1",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-22",
+      "title": "Forensics Note Image",
+      "folder": "Forensics Note Image",
+      "category": "Forensics",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_6/ZeroSecure_Beginner_CTF_Pack/04_forensics_note_image",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "original beginner artifacts retained; independent solution documented during archive review",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "ZeroSecure_CTF{part4_metadata_note}"
+        ],
+        "elapsed_seconds": 0.02
+      }
+    },
+    {
+      "id": "legacy-61",
+      "title": "Trailing Memory",
+      "folder": "Trailing Memory",
+      "category": "Forensics",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_12/zeroeasy/challenges/04_forensics_trailing-memory",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-16",
+      "title": "USB Night Shift",
+      "folder": "USB Night Shift",
+      "category": "Forensics",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_5/ZeroSecure_CTF7_Direct_Upload/03_forensics_usb_night_shift",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-66",
+      "title": "Hold Music",
+      "folder": "Hold Music",
+      "category": "Misc",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_12/zeroeasy/challenges/09_misc_hold-music",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-62",
+      "title": "Silent TXT",
+      "folder": "Silent TXT",
+      "category": "Network",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_12/zeroeasy/challenges/05_network_silent-txt",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-51",
+      "title": "Fragmented Whispers",
+      "folder": "Fragmented Whispers",
+      "category": "Network Forensics",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/networking/ch3_fragmented_whispers",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "ZeroSecure_CTF{ip_fragment_whispers_overlap_1337}"
+        ],
+        "elapsed_seconds": 0.7
+      }
+    },
+    {
+      "id": "legacy-52",
+      "title": "Knock Knock Joke",
+      "folder": "Knock Knock Joke",
+      "category": "Network Forensics",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/networking/ch4_knock_knock_joke",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "ZeroSecure_CTF{tcp_knock_knock_rst_ack}"
+        ],
+        "elapsed_seconds": 0.83
+      }
+    },
+    {
+      "id": "legacy-53",
+      "title": "Mirage Resolver",
+      "folder": "Mirage Resolver",
+      "category": "Network Forensics",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/networking/ch5_mirage_resolver",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "ZeroSecure_CTF{mirage_resolver_a_record_whisper_1337}"
+        ],
+        "elapsed_seconds": 0.81
+      }
+    },
+    {
+      "id": "legacy-50",
+      "title": "Ping Pong Exfiltration",
+      "folder": "Ping Pong Exfiltration",
+      "category": "Network Forensics",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/networking/ch2_ping_pong_exfiltration",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "ZeroSecure_CTF{icmp_zip_chain_signal_1337}"
+        ],
+        "elapsed_seconds": 0.83
+      }
+    },
+    {
+      "id": "legacy-49",
+      "title": "Rogue Edge Sensor",
+      "folder": "Rogue Edge Sensor",
+      "category": "Network Forensics",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/networking/ch1_rogue_edge_sensor",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "ZeroSecure_CTF{mqtt_decimal_whisper_win}"
+        ],
+        "elapsed_seconds": 0.6
+      }
+    },
+    {
+      "id": "legacy-18",
+      "title": "Signal Vector",
+      "folder": "Signal Vector",
+      "category": "OSINT",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_5/ZeroSecure_CTF7_Direct_Upload/05_osint_signal_vector",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-63",
+      "title": "Badge Trail",
+      "folder": "Badge Trail",
+      "category": "Osint",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_12/zeroeasy/challenges/06_osint_badge-trail",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-23",
+      "title": "Osint Event Trace",
+      "folder": "Osint Event Trace",
+      "category": "Osint",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_6/ZeroSecure_Beginner_CTF_Pack/05_osint_event_trace",
+      "solution_command": null,
+      "verification_note": "archived solution inferred from local event venue source; old external page not replayed"
+    },
+    {
+      "id": "legacy-60",
+      "title": "License Whisper",
+      "folder": "License Whisper",
+      "category": "Reverse",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_12/zeroeasy/challenges/03_reverse_license-whisper",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-21",
+      "title": "Reverse Tiny Lock",
+      "folder": "Reverse Tiny Lock",
+      "category": "Reverse",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_6/ZeroSecure_Beginner_CTF_Pack/03_reverse_tiny_lock",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "original beginner artifacts retained; independent solution documented during archive review",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "ZeroSecure_CTF{part3_tiny_lock}"
+        ],
+        "elapsed_seconds": 0.02
+      }
+    },
+    {
+      "id": "legacy-40",
+      "title": "Challenge 1: The Fragmented Stack (Anti-Strings)",
+      "folder": "Challenge 1 -  The Fragmented Stack (Anti-Strings)",
+      "category": "Reverse Engineering",
+      "collection": "Local legacy collections",
+      "status": "original source rebuilt",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_9/triple_crypto/challenge_1_fragmented_stack",
+      "solution_command": null,
+      "verification_note": "original source rebuilt locally; reference checker retained"
+    },
+    {
+      "id": "legacy-41",
+      "title": "Challenge 2: The Stubborn Bouncer (Intro to Binary Patching)",
+      "folder": "Challenge 2 -  The Stubborn Bouncer (Intro to Binary Patching)",
+      "category": "Reverse Engineering",
+      "collection": "Local legacy collections",
+      "status": "original source rebuilt",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_9/triple_crypto/challenge_2_stubborn_bouncer",
+      "solution_command": null,
+      "verification_note": "original source rebuilt locally; reference checker retained"
+    },
+    {
+      "id": "legacy-42",
+      "title": "Challenge 3: The Forgotten EEPROM (IoT Firmware Dump)",
+      "folder": "Challenge 3 -  The Forgotten EEPROM (IoT Firmware Dump)",
+      "category": "Reverse Engineering",
+      "collection": "Local legacy collections",
+      "status": "original source rebuilt",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_9/triple_crypto/challenge_3_forgotten_eeprom",
+      "solution_command": null,
+      "verification_note": "original source rebuilt locally; reference checker retained"
+    },
+    {
+      "id": "legacy-43",
+      "title": "Challenge 4: The Python Disassembly Puzzle",
+      "folder": "Challenge 4 -  The Python Disassembly Puzzle",
+      "category": "Reverse Engineering",
+      "collection": "Local legacy collections",
+      "status": "incomplete source",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_9/triple_crypto/challenge_4_python_disassembly",
+      "solution_command": null,
+      "verification_note": "incomplete prototype: no generated transcript; original generator requires Python 3.9/3.10 and omits the global payload constant"
+    },
+    {
+      "id": "legacy-48",
+      "title": "Corrupted Save State",
+      "folder": "Corrupted Save State",
+      "category": "Reverse Engineering",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/reverse_eng/ch5_corrupted_save_state",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-9",
+      "title": "Fractured VoidMind",
+      "folder": "Fractured VoidMind",
+      "category": "Reverse Engineering",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/final_deliverables/c13_FracturedVoidMind",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-47",
+      "title": "Ghost in the Machine",
+      "folder": "Ghost in the Machine",
+      "category": "Reverse Engineering",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/reverse_eng/ch4_ghost_in_the_machine",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-8",
+      "title": "MasterBaiter",
+      "folder": "MasterBaiter",
+      "category": "Reverse Engineering",
+      "collection": "Local legacy collections",
+      "status": "original mismatch",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/final_deliverables/c12_masterbaiterctf",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "source/checker mismatch: accepted input reaches success branch but output differs from the author flag",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [],
+        "elapsed_seconds": 7.04
+      }
+    },
+    {
+      "id": "legacy-45",
+      "title": "Matryoshka Protocol",
+      "folder": "Matryoshka Protocol",
+      "category": "Reverse Engineering",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/reverse_eng/ch2_matryoshka_protocol",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-46",
+      "title": "Polyglots Dilemma",
+      "folder": "Polyglots Dilemma",
+      "category": "Reverse Engineering",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/reverse_eng/ch3_polyglots_dilemma",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-44",
+      "title": "Schrodingers String: Access Denied, Emotionally",
+      "folder": "Schrodingers String -  Access Denied, Emotionally",
+      "category": "Reverse Engineering",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/reverse_eng/ch1_schrodingers_string",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-7",
+      "title": "Simple User Pass",
+      "folder": "Simple User Pass",
+      "category": "Reverse Engineering",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/final_deliverables/c11_simplelogin",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "archived reference; not rerun",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{you_keygend_me!}"
+        ],
+        "elapsed_seconds": 0.02
+      }
+    },
+    {
+      "id": "legacy-4",
+      "title": "Thermal Boundary",
+      "folder": "Thermal Boundary",
+      "category": "Reverse Engineering",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/final_deliverables/c4_ReverseEng",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-17",
+      "title": "Tiny Gate",
+      "folder": "Tiny Gate",
+      "category": "Reverse Engineering",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_5/ZeroSecure_CTF7_Direct_Upload/04_reverse_tiny_gate",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-67",
+      "title": "Invisible Ink",
+      "folder": "Invisible Ink",
+      "category": "Surprise",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_12/zeroeasy/challenges/10_surprise_invisible-ink",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-69",
+      "title": "Alexandria Mausoleum of the Dead",
+      "folder": "Alexandria Mausoleum of the Dead",
+      "category": "Web",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_11",
+      "solution_command": null,
+      "verification_note": "author runtime and foundation retained; not rerun"
+    },
+    {
+      "id": "legacy-59",
+      "title": "Backup Appetite",
+      "folder": "Backup Appetite",
+      "category": "Web",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_12/zeroeasy/challenges/02_web_backup-appetite",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-20",
+      "title": "Web Hidden Source",
+      "folder": "Web Hidden Source",
+      "category": "Web",
+      "collection": "Local legacy collections",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_6/ZeroSecure_Beginner_CTF_Pack/02_web_hidden_source",
+      "solution_command": "python solution/solve.py",
+      "verification_note": "original beginner artifacts retained; independent solution documented during archive review",
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "ZeroSecure_CTF{part2_source_secret}"
+        ],
+        "elapsed_seconds": 0.02
+      }
+    },
+    {
+      "id": "legacy-30",
+      "title": "Basic Web 1",
+      "folder": "Basic Web 1",
+      "category": "Web Exploitation",
+      "collection": "Local legacy collections",
+      "status": "incomplete source",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_8/basic_challenges/challenge_1",
+      "solution_command": null,
+      "verification_note": "incomplete historical HTML scaffold: no flag or complete author answer"
+    },
+    {
+      "id": "legacy-39",
+      "title": "Basic Web 10",
+      "folder": "Basic Web 10",
+      "category": "Web Exploitation",
+      "collection": "Local legacy collections",
+      "status": "incomplete source",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_8/basic_challenges/challenge_10",
+      "solution_command": null,
+      "verification_note": "incomplete historical HTML scaffold: no flag or complete author answer"
+    },
+    {
+      "id": "legacy-31",
+      "title": "Basic Web 2",
+      "folder": "Basic Web 2",
+      "category": "Web Exploitation",
+      "collection": "Local legacy collections",
+      "status": "incomplete source",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_8/basic_challenges/challenge_2",
+      "solution_command": null,
+      "verification_note": "incomplete historical HTML scaffold: no flag or complete author answer"
+    },
+    {
+      "id": "legacy-32",
+      "title": "Basic Web 3",
+      "folder": "Basic Web 3",
+      "category": "Web Exploitation",
+      "collection": "Local legacy collections",
+      "status": "incomplete source",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_8/basic_challenges/challenge_3",
+      "solution_command": null,
+      "verification_note": "incomplete historical HTML scaffold: no flag or complete author answer"
+    },
+    {
+      "id": "legacy-33",
+      "title": "Basic Web 4",
+      "folder": "Basic Web 4",
+      "category": "Web Exploitation",
+      "collection": "Local legacy collections",
+      "status": "incomplete source",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_8/basic_challenges/challenge_4",
+      "solution_command": null,
+      "verification_note": "incomplete historical HTML scaffold: no flag or complete author answer"
+    },
+    {
+      "id": "legacy-34",
+      "title": "Basic Web 5",
+      "folder": "Basic Web 5",
+      "category": "Web Exploitation",
+      "collection": "Local legacy collections",
+      "status": "incomplete source",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_8/basic_challenges/challenge_5",
+      "solution_command": null,
+      "verification_note": "incomplete historical HTML scaffold: no flag or complete author answer"
+    },
+    {
+      "id": "legacy-35",
+      "title": "Basic Web 6",
+      "folder": "Basic Web 6",
+      "category": "Web Exploitation",
+      "collection": "Local legacy collections",
+      "status": "incomplete source",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_8/basic_challenges/challenge_6",
+      "solution_command": null,
+      "verification_note": "incomplete historical HTML scaffold: no flag or complete author answer"
+    },
+    {
+      "id": "legacy-36",
+      "title": "Basic Web 7",
+      "folder": "Basic Web 7",
+      "category": "Web Exploitation",
+      "collection": "Local legacy collections",
+      "status": "incomplete source",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_8/basic_challenges/challenge_7",
+      "solution_command": null,
+      "verification_note": "incomplete historical HTML scaffold: no flag or complete author answer"
+    },
+    {
+      "id": "legacy-37",
+      "title": "Basic Web 8",
+      "folder": "Basic Web 8",
+      "category": "Web Exploitation",
+      "collection": "Local legacy collections",
+      "status": "incomplete source",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_8/basic_challenges/challenge_8",
+      "solution_command": null,
+      "verification_note": "incomplete historical HTML scaffold: no flag or complete author answer"
+    },
+    {
+      "id": "legacy-38",
+      "title": "Basic Web 9",
+      "folder": "Basic Web 9",
+      "category": "Web Exploitation",
+      "collection": "Local legacy collections",
+      "status": "incomplete source",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_8/basic_challenges/challenge_9",
+      "solution_command": null,
+      "verification_note": "incomplete historical HTML scaffold: no flag or complete author answer"
+    },
+    {
+      "id": "legacy-2",
+      "title": "HydraCore",
+      "folder": "HydraCore",
+      "category": "Web Exploitation",
+      "collection": "Local legacy collections",
+      "status": "incomplete source",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/final_deliverables/c2_WebExploitation",
+      "solution_command": null,
+      "verification_note": "incomplete local archive: player narrative and link only; application source and full author solve were not found"
+    },
+    {
+      "id": "legacy-1",
+      "title": "StarkID",
+      "folder": "StarkID",
+      "category": "Web Exploitation",
+      "collection": "Local legacy collections",
+      "status": "incomplete source",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/final_deliverables/c1_WebExploitation",
+      "solution_command": null,
+      "verification_note": "incomplete runtime: lib/keys, JWKS route, and key-generation script missing; full author exploit sketch preserved"
+    },
+    {
+      "id": "legacy-14",
+      "title": "Staff Route",
+      "folder": "Staff Route",
+      "category": "Web Security",
+      "collection": "Local legacy collections",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_5/ZeroSecure_CTF7_Direct_Upload/01_web_staff_route",
+      "solution_command": null,
+      "verification_note": "archived reference; not rerun"
+    },
+    {
+      "id": "legacy-68",
+      "title": "Alexandria Mausoleum",
+      "folder": "Alexandria Mausoleum",
+      "category": "web",
+      "collection": "Local legacy collections",
+      "status": "incomplete source",
+      "source": "zsctf2_challenges_chakri/_external/zerosecurectf2026/challenge_10",
+      "solution_command": null,
+      "verification_note": "incomplete local runtime: original foundation document only"
+    },
+    {
+      "id": 152,
+      "title": "The Perfect Fake",
+      "folder": "The Perfect Fake",
+      "category": "AI & ML",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "incomplete source",
+      "source": "zsctf2_srinikesh/13_the_perfect_fake",
+      "solution_command": null,
+      "verification_note": "incomplete author material: The loader/runtime and the vault encryption specification are absent from the preserved handout. The local archive contains the model and accepted answer, but no independently verified complete recovery procedure."
+    },
+    {
+      "id": 109,
+      "title": "Cat The Wrong Flag",
+      "folder": "Cat The Wrong Flag",
+      "category": "Binary Exploitation",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_broken/08-pwn-catwrongflag",
+      "solution_command": null,
+      "verification_note": null
+    },
+    {
+      "id": 50,
+      "title": "GridLink",
+      "folder": "GridLink",
+      "category": "Binary Exploitation",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/pwn/gridlink",
+      "solution_command": "python solution/solve.py --local challenge/gridlink",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{gridlink_a8fdb403349d}"
+        ],
+        "elapsed_seconds": 0.11
+      }
+    },
+    {
+      "id": 51,
+      "title": "Helios Relay",
+      "folder": "Helios Relay",
+      "category": "Binary Exploitation",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/pwn/helios_relay",
+      "solution_command": "python solution/solve.py --local challenge/helios_relay",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{helios_relay_7ef30a5be45c}"
+        ],
+        "elapsed_seconds": 0.05
+      }
+    },
+    {
+      "id": 108,
+      "title": "Ret2Win",
+      "folder": "Ret2Win",
+      "category": "Binary Exploitation",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_broken/07-pwn-ret2win",
+      "solution_command": null,
+      "verification_note": null
+    },
+    {
+      "id": 52,
+      "title": "Revenant",
+      "folder": "Revenant",
+      "category": "Binary Exploitation",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/pwn/revenant",
+      "solution_command": "python solution/solve.py --local challenge/revenant",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecureCTF{LEGACY_BUILD_TAG_IGNORE}",
+          "zerosecurectf{SESS-f21fcc4c4e735963}",
+          "zerosecurectf{revenant_4ff16d84116c}"
+        ],
+        "elapsed_seconds": 0.04
+      }
+    },
+    {
+      "id": 146,
+      "title": "The Chamber of Echoes",
+      "folder": "The Chamber of Echoes",
+      "category": "Binary Exploitation",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_srinikesh/07_the_chamber_of_echoes",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{chamber_0f_echo3s}"
+        ],
+        "elapsed_seconds": 0.56
+      }
+    },
+    {
+      "id": 53,
+      "title": "Warden",
+      "folder": "Warden",
+      "category": "Binary Exploitation",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/pwn/warden",
+      "solution_command": "python solution/solve.py --local challenge/warden",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{warden_61918ab00da1}"
+        ],
+        "elapsed_seconds": 0.1
+      }
+    },
+    {
+      "id": 164,
+      "title": "The Overflow Vault",
+      "folder": "The Overflow Vault",
+      "category": "Blockchain",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_srinikesh/18_the_overflow_vault",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{b4tch_0v3rfl0w_v4ult}",
+          "zerosecure{b4tch_0v3rfl0w_v4ult}"
+        ],
+        "elapsed_seconds": 0.08
+      }
+    },
+    {
+      "id": 148,
+      "title": "The Static",
+      "folder": "The Static",
+      "category": "Blockchain",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_srinikesh/09_the_static",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{byz4nt1ne_bl00m}"
+        ],
+        "elapsed_seconds": 0.05
+      }
+    },
+    {
+      "id": 9,
+      "title": "Affine Lock",
+      "folder": "Affine Lock",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/affine",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{affine_9d681522dc61}"
+        ],
+        "elapsed_seconds": 0.11
+      }
+    },
+    {
+      "id": 117,
+      "title": "Blind Electronic Token",
+      "folder": "Blind Electronic Token",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/crypto_10_chaum_blind_signature",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{chaum_blind_signature_unblind_token_67b3}"
+        ],
+        "elapsed_seconds": 0.12
+      }
+    },
+    {
+      "id": 24,
+      "title": "Cube",
+      "folder": "Cube",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/rsacube",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{rsacube_bc234c7e5116}"
+        ],
+        "elapsed_seconds": 0.34
+      }
+    },
+    {
+      "id": 102,
+      "title": "Dead Hand",
+      "folder": "Dead Hand",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_broken/01-crypto-deadhand",
+      "solution_command": null,
+      "verification_note": null
+    },
+    {
+      "id": 12,
+      "title": "Fermat",
+      "folder": "Fermat",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/fermat",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{fermat_423b8f7fce89}"
+        ],
+        "elapsed_seconds": 0.13
+      }
+    },
+    {
+      "id": 13,
+      "title": "Foretoken",
+      "folder": "Foretoken",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/foretoken",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{foretoken_2b4b156c4375}"
+        ],
+        "elapsed_seconds": 0.14
+      }
+    },
+    {
+      "id": 79,
+      "title": "Galois Field Logarithm Knapsack",
+      "folder": "Galois Field Logarithm Knapsack",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/crypto_13_knapsack_chor_rivest",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{finite_field_log_algebra_chor_rivest_22ad}"
+        ],
+        "elapsed_seconds": 0.14
+      }
+    },
+    {
+      "id": 14,
+      "title": "Gemini",
+      "folder": "Gemini",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/gemini",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{gemini_1f9fe6c7f09f}"
+        ],
+        "elapsed_seconds": 0.26
+      }
+    },
+    {
+      "id": 15,
+      "title": "Keygen Slip",
+      "folder": "Keygen Slip",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/keyslip",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{keyslip_3f1f96f8ca3e}"
+        ],
+        "elapsed_seconds": 0.58
+      }
+    },
+    {
+      "id": 16,
+      "title": "Knapsack",
+      "folder": "Knapsack",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/knapsack",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{knapsack_1a450c6e0acc}"
+        ],
+        "elapsed_seconds": 0.08
+      }
+    },
+    {
+      "id": 18,
+      "title": "Lopsided",
+      "folder": "Lopsided",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/lopsided",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{lopsided_5c398e080a35}"
+        ],
+        "elapsed_seconds": 11.19
+      }
+    },
+    {
+      "id": 19,
+      "title": "Many Hands",
+      "folder": "Many Hands",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/manyhands",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{manyhands_bed94919737c}"
+        ],
+        "elapsed_seconds": 0.08
+      }
+    },
+    {
+      "id": 74,
+      "title": "Matrix Field Linear Inversion",
+      "folder": "Matrix Field Linear Inversion",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/crypto_07_hill_cipher_known_plaintext",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{matrix_hill_known_plaintext_3x3_51ef}"
+        ],
+        "elapsed_seconds": 0.13
+      }
+    },
+    {
+      "id": 20,
+      "title": "Matryoshka",
+      "folder": "Matryoshka",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/matryoshka",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{matryoshka_97a2f4edc92d}"
+        ],
+        "elapsed_seconds": 0.07
+      }
+    },
+    {
+      "id": 103,
+      "title": "Matryoshka — Bunker",
+      "folder": "Matryoshka — Bunker",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_broken/02-crypto-matryoshka",
+      "solution_command": null,
+      "verification_note": null
+    },
+    {
+      "id": 21,
+      "title": "Noisefloor",
+      "folder": "Noisefloor",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/noisefloor",
+      "solution_command": "python solution/solve.py challenge/params.json",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{noisefloor_1db4cae944c4}"
+        ],
+        "elapsed_seconds": 10.74
+      }
+    },
+    {
+      "id": 22,
+      "title": "Nonce Reuse",
+      "folder": "Nonce Reuse",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/noncereuse",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{noncereuse_a2b34de48af8}"
+        ],
+        "elapsed_seconds": 0.09
+      }
+    },
+    {
+      "id": 26,
+      "title": "One Byte",
+      "folder": "One Byte",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/singlexor",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zer0securectf{019c188ad5a2}",
+          "zerosecurectf{singlexor_7e68455a4329}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 73,
+      "title": "One-Time Authenticator Failure",
+      "folder": "One-Time Authenticator Failure",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/crypto_06_poly1305_nonce_reuse",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{poly1305_nonce_reuse_mac_forgery_81bc}"
+        ],
+        "elapsed_seconds": 0.16
+      }
+    },
+    {
+      "id": 23,
+      "title": "Palimpsest",
+      "folder": "Palimpsest (Cryptography)",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/palimpsest",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{palimpsest_bc09eb30501f}"
+        ],
+        "elapsed_seconds": 1.26
+      }
+    },
+    {
+      "id": 71,
+      "title": "Predictable Entropy Leak",
+      "folder": "Predictable Entropy Leak",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/crypto_04_mersenne_twister_state_recovery",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{mersenne_twister_untemper_state_33bb}"
+        ],
+        "elapsed_seconds": 0.07
+      }
+    },
+    {
+      "id": 11,
+      "title": "Shards",
+      "folder": "Shards",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/crt",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{crt_ab74b628ed98}"
+        ],
+        "elapsed_seconds": 0.1
+      }
+    },
+    {
+      "id": 10,
+      "title": "Shared Primes",
+      "folder": "Shared Primes",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/commonfactor",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{commonfactor_66f0540d4236}"
+        ],
+        "elapsed_seconds": 0.35
+      }
+    },
+    {
+      "id": 116,
+      "title": "Side-Channel Padding Cryptanalysis",
+      "folder": "Side-Channel Padding Cryptanalysis",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/crypto_03_cbc_padding_oracle",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{cbc_padding_oracle_bitflip_02cf}"
+        ],
+        "elapsed_seconds": 0.09
+      }
+    },
+    {
+      "id": 25,
+      "title": "Signet",
+      "folder": "Signet",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/signet",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{signet_662d9b75fffb}"
+        ],
+        "elapsed_seconds": 0.23
+      }
+    },
+    {
+      "id": 77,
+      "title": "Stereotyped Message Oracle",
+      "folder": "Stereotyped Message Oracle",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/crypto_11_coppersmith_short_pad",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{coppersmith_stereotyped_message_leak_9921}"
+        ],
+        "elapsed_seconds": 24.48
+      }
+    },
+    {
+      "id": 75,
+      "title": "Subgroup Giant Step",
+      "folder": "Subgroup Giant Step",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/crypto_08_discrete_log_baby_step_giant_step",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{bsgs_discrete_log_subgroup_90da}"
+        ],
+        "elapsed_seconds": 1.19
+      }
+    },
+    {
+      "id": 70,
+      "title": "The Accelerating Decryptor",
+      "folder": "The Accelerating Decryptor",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/crypto_01_rsa_wiener_low_d",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{wieners_continued_fraction_d_leak_981a}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 143,
+      "title": "The Ash Gate Rings",
+      "folder": "The Ash Gate Rings",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_srinikesh/04_the_ash_gate",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{ash_g4te_r1ngs}"
+        ],
+        "elapsed_seconds": 1.27
+      }
+    },
+    {
+      "id": 72,
+      "title": "The Distributed Vault",
+      "folder": "The Distributed Vault",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/crypto_05_shamir_secret_sharing_interpolation",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{lagrange_polynomial_interpolation_44e1}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 165,
+      "title": "The Doombot Token",
+      "folder": "The Doombot Token",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "forged token generated; private verifier key absent",
+      "source": "zsctf2_srinikesh/19_the_doombot_token",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [],
+        "elapsed_seconds": 0.05
+      }
+    },
+    {
+      "id": 144,
+      "title": "The Hall of Wards",
+      "folder": "The Hall of Wards",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_srinikesh/05_the_hall_of_wards",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{wards}"
+        ],
+        "elapsed_seconds": 0.27
+      }
+    },
+    {
+      "id": 115,
+      "title": "The Lenient Verifier",
+      "folder": "The Lenient Verifier",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/crypto_02_bleichenbacher_signature_forge",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{bleichenbacher_e3_sig_forged_71a0}"
+        ],
+        "elapsed_seconds": 0.09
+      }
+    },
+    {
+      "id": 78,
+      "title": "The Linear Differential Trail",
+      "folder": "The Linear Differential Trail",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/crypto_12_feal4_cryptanalysis",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{differential_cryptanalysis_feal4_88ac}"
+        ],
+        "elapsed_seconds": 2.43
+      }
+    },
+    {
+      "id": 140,
+      "title": "The Prime Hour",
+      "folder": "The Prime Hour",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_srinikesh/01_the_prime_hour",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{pr1m3_h0ur_3301}"
+        ],
+        "elapsed_seconds": 0.23
+      }
+    },
+    {
+      "id": 141,
+      "title": "The Thirteenth Name",
+      "folder": "The Thirteenth Name",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_srinikesh/02_the_thirteenth_name",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{th1rt33nth_name}"
+        ],
+        "elapsed_seconds": 0.26
+      }
+    },
+    {
+      "id": 76,
+      "title": "The Trapdoor Knapsack",
+      "folder": "The Trapdoor Knapsack",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/crypto_09_knapsack_merkle_hellman",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{merkle_hellman_superincreasing_lattice_10f2}"
+        ],
+        "elapsed_seconds": 1.06
+      }
+    },
+    {
+      "id": 163,
+      "title": "The Unprovable Proof",
+      "folder": "The Unprovable Proof",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_srinikesh/17_the_unprovable_proof",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{w34k_f14t_sh4m1r_f0rg3ry}",
+          "zerosecure{w34k_f14t_sh4m1r_f0rg3ry}"
+        ],
+        "elapsed_seconds": 0.09
+      }
+    },
+    {
+      "id": 17,
+      "title": "Token Mint",
+      "folder": "Token Mint",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/lcg",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{lcg_836eb2d8c8da}"
+        ],
+        "elapsed_seconds": 0.09
+      }
+    },
+    {
+      "id": 27,
+      "title": "Tumbler",
+      "folder": "Tumbler",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/tumbler",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{tumbler_21c558a87337}"
+        ],
+        "elapsed_seconds": 1.26
+      }
+    },
+    {
+      "id": 28,
+      "title": "Two-Time Pad",
+      "folder": "Two-Time Pad",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/twotimepad",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{twotimepad_789d9e34b8b2}"
+        ],
+        "elapsed_seconds": 0.07
+      }
+    },
+    {
+      "id": 29,
+      "title": "Unison",
+      "folder": "Unison",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/unison",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{unison_cf65885fda46}"
+        ],
+        "elapsed_seconds": 1.0
+      }
+    },
+    {
+      "id": 30,
+      "title": "Vigenere",
+      "folder": "Vigenere",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/vigenere",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{vigenere_2613be3ad741}"
+        ],
+        "elapsed_seconds": 0.07
+      }
+    },
+    {
+      "id": 31,
+      "title": "Windage",
+      "folder": "Windage",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/windage",
+      "solution_command": "python solution/solve.py --local solution/runtime/beacon.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{windage_3c40635a7357}"
+        ],
+        "elapsed_seconds": 13.96
+      }
+    },
+    {
+      "id": 32,
+      "title": "Wren",
+      "folder": "Wren",
+      "category": "Cryptography",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/crypto/wren",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{WREN_7F423F690287}",
+          "zerosecurectf{wren_7f423f690287}"
+        ],
+        "elapsed_seconds": 0.26
+      }
+    },
+    {
+      "id": 33,
+      "title": "Bittern",
+      "folder": "Bittern",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/forensics/bittern",
+      "solution_command": "python solution/solve.py challenge/bittern.png",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{bittern_564321ba0e24}"
+        ],
+        "elapsed_seconds": 0.24
+      }
+    },
+    {
+      "id": 110,
+      "title": "Carved Polyglot",
+      "folder": "Carved Polyglot",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_broken/09-forensics-polyglot",
+      "solution_command": null,
+      "verification_note": null
+    },
+    {
+      "id": 123,
+      "title": "Container Layer Secret Residuals",
+      "folder": "Container Layer Secret Residuals",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/forensics_06_docker_layer_diff_secrets",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{docker_intermediate_layer_diff_63c2}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 111,
+      "title": "Disk Slack",
+      "folder": "Disk Slack",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_broken/10-forensics-diskslack",
+      "solution_command": null,
+      "verification_note": null
+    },
+    {
+      "id": 125,
+      "title": "Embedded SquashFS Firmware Extraction",
+      "folder": "Embedded SquashFS Firmware Extraction",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/forensics_09_squashfs_firmware_carve",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{squashfs_shadow_backup_recovery_77fe}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 120,
+      "title": "Encrypted Tunnel Inspection",
+      "folder": "Encrypted Tunnel Inspection",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/forensics_03_tls_session_ticket_pcap",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{sslkeylog_master_secret_decrypted_11bc}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 46,
+      "title": "Flotsam",
+      "folder": "Flotsam",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/network/flotsam",
+      "solution_command": "python solution/solve.py challenge/flotsam.pcap",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{flotsam_a5157a512a27}"
+        ],
+        "elapsed_seconds": 0.02
+      }
+    },
+    {
+      "id": 81,
+      "title": "ICMP Inter-Arrival Covert Timing",
+      "folder": "ICMP Inter-Arrival Covert Timing",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/forensics_12_icmp_timing_covert_channel",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{icmp_covert_timing_channel_delta_10f0}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 126,
+      "title": "Kerberos AS-REP Roasting Capture",
+      "folder": "Kerberos AS-REP Roasting Capture",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/forensics_10_kerberos_asrep_roast_pcap",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{asrep_roast_etype23_hash_carved_31ac}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 34,
+      "title": "Kestrel",
+      "folder": "Kestrel",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/forensics/kestrel",
+      "solution_command": "python solution/solve.py challenge/kestrel.png",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{kestrel_c23ec91103f1}"
+        ],
+        "elapsed_seconds": 0.02
+      }
+    },
+    {
+      "id": 118,
+      "title": "Noise Protocol Tunnel Triage",
+      "folder": "Noise Protocol Tunnel Triage",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/forensics_01_wireguard_handshake_and_traffic",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{wireguard_preshared_key_tunnel_09ab}"
+        ],
+        "elapsed_seconds": 0.05
+      }
+    },
+    {
+      "id": 121,
+      "title": "NTFS Alternate Data Streams",
+      "folder": "NTFS Alternate Data Streams",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/forensics_04_ntfs_usnjrnl_and_mft",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{ntfs_alternate_data_stream_zone_4210}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 35,
+      "title": "Palimpsest",
+      "folder": "Palimpsest (Digital Forensics)",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/forensics/palimpsest",
+      "solution_command": "python solution/solve.py challenge/palimpsest.zip",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{palimpsest_d62ed79f02d7}"
+        ],
+        "elapsed_seconds": 0.04
+      }
+    },
+    {
+      "id": 158,
+      "title": "Ping of Secrets",
+      "folder": "Ping of Secrets",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "CTFd event export",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{icmp_exfiltration_is_fun}"
+        ],
+        "elapsed_seconds": 1.75
+      }
+    },
+    {
+      "id": 124,
+      "title": "PowerShell Script Block Logging",
+      "folder": "PowerShell Script Block Logging",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/forensics_08_windows_event_log_evtx",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{event_4104_powershell_scriptblock_83a1}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 80,
+      "title": "SCADA ICS Telemetry Extraction",
+      "folder": "SCADA ICS Telemetry Extraction",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/forensics_07_modbus_scada_pcap",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{modbus_scada_holding_registers_51aa}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 47,
+      "title": "Shallows",
+      "folder": "Shallows",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/network/shallows",
+      "solution_command": "python solution/solve.py challenge/shallows.pcap",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{shallows_a80b482790f0}"
+        ],
+        "elapsed_seconds": 0.05
+      }
+    },
+    {
+      "id": 127,
+      "title": "SQLite Write-Ahead Log Rollback",
+      "folder": "SQLite Write-Ahead Log Rollback",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/forensics_11_sqlite_wal_journal_rollback",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{sqlite_wal_rollback_frame_recovered_29cd}"
+        ],
+        "elapsed_seconds": 0.07
+      }
+    },
+    {
+      "id": 157,
+      "title": "The Careless Admin",
+      "folder": "The Careless Admin",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "CTFd event export",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{basic_auth_leaks_secrets}"
+        ],
+        "elapsed_seconds": 1.92
+      }
+    },
+    {
+      "id": 154,
+      "title": "The Forgotten Status Page",
+      "folder": "The Forgotten Status Page",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "CTFd event export",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{hidden_in_http_response}"
+        ],
+        "elapsed_seconds": 0.66
+      }
+    },
+    {
+      "id": 156,
+      "title": "The Fragmented Query",
+      "folder": "The Fragmented Query",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "CTFd event export",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{dns_fragments_reveal_truth}"
+        ],
+        "elapsed_seconds": 1.99
+      }
+    },
+    {
+      "id": 122,
+      "title": "The Ghost in Git Objects",
+      "folder": "The Ghost in Git Objects",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/forensics_05_git_dangling_commit_reflog",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{git_dangling_blob_unreachable_commit_91ad}"
+        ],
+        "elapsed_seconds": 0.07
+      }
+    },
+    {
+      "id": 155,
+      "title": "The Suspicious Lookup",
+      "folder": "The Suspicious Lookup",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "CTFd event export",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{dns_query_reveals_secret}"
+        ],
+        "elapsed_seconds": 0.66
+      }
+    },
+    {
+      "id": 151,
+      "title": "The Thirteenth Crossing",
+      "folder": "The Thirteenth Crossing",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "incomplete source",
+      "source": "zsctf2_srinikesh/12_the_thirteenth_crossing",
+      "solution_command": null,
+      "verification_note": "incomplete author material: The residual cipher envelope and key derivation are not specified by the preserved handout. No complete author decoder was found locally. The unmatched record and accepted answer are preserved; decryption was not verified."
+    },
+    {
+      "id": 48,
+      "title": "Undertow",
+      "folder": "Undertow",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/network/undertow",
+      "solution_command": "python solution/solve.py challenge/undertow.pcap",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{undertow_1c4b42ef7ea0}"
+        ],
+        "elapsed_seconds": 0.03
+      }
+    },
+    {
+      "id": 119,
+      "title": "Unlinked Ext4 Inode Recovery",
+      "folder": "Unlinked Ext4 Inode Recovery",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/forensics_02_ext4_deleted_inode_carving",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{ext4_extent_tree_carved_inode_8871}"
+        ],
+        "elapsed_seconds": 0.05
+      }
+    },
+    {
+      "id": 36,
+      "title": "Whistler",
+      "folder": "Whistler",
+      "category": "Digital Forensics",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/forensics/whistler",
+      "solution_command": "python solution/solve.py challenge/whistler.wav",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{whistler_d971e5f2bae2}"
+        ],
+        "elapsed_seconds": 0.15
+      }
+    },
+    {
+      "id": 4,
+      "title": "Cenotaph",
+      "folder": "Cenotaph",
+      "category": "Final Chain",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/broken/cenotaph",
+      "solution_command": "python solution/solve.py --bin challenge/cenotaph",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{ARCHIVE_SEALED_C6706ADF}"
+        ],
+        "elapsed_seconds": 0.07
+      }
+    },
+    {
+      "id": 61,
+      "title": "Janus",
+      "folder": "Janus",
+      "category": "Final Chain",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/surprise/janus",
+      "solution_command": "python solution/solve.py challenge/janus.png",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{janus_04ecf3639a15}"
+        ],
+        "elapsed_seconds": 0.05
+      }
+    },
+    {
+      "id": 5,
+      "title": "Mirage",
+      "folder": "Mirage",
+      "category": "Final Chain",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/broken/mirage",
+      "solution_command": "python solution/solve.py --url http://127.0.0.1:8000",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zer0securectf{env_promoted_48df0198}",
+          "zerosecurectf{BUILD_ARTIFACT_C18663A1}",
+          "zerosecurectf{deploy-token-b025fcef}"
+        ],
+        "elapsed_seconds": 0.31
+      }
+    },
+    {
+      "id": 6,
+      "title": "Oubliette",
+      "folder": "Oubliette",
+      "category": "Final Chain",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/broken/oubliette",
+      "solution_command": "python solution/solve.py --url http://127.0.0.1:8000",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zer0securectf{s3ss10n_restored_0e409c5d}",
+          "zerosecurectf{ARCHIVE_UNSEALED_426B6E07}",
+          "zerosecurectf{imds-token-68097cbe}"
+        ],
+        "elapsed_seconds": 0.3
+      }
+    },
+    {
+      "id": 7,
+      "title": "Pyrite",
+      "folder": "Pyrite",
+      "category": "Final Chain",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/broken/pyrite",
+      "solution_command": "python solution/solve.py --url http://127.0.0.1:8000",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zer0securectf{rsa_modulus_factored_036e41bf}",
+          "zerosecurectf{NONCE_REUSE_RECOVERED_FF56E727}",
+          "zerosecurectf{partial-key-completed-6d664098}"
+        ],
+        "elapsed_seconds": 0.79
+      }
+    },
+    {
+      "id": 8,
+      "title": "Sargasso",
+      "folder": "Sargasso",
+      "category": "Final Chain",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/broken/sargasso",
+      "solution_command": "python solution/solve.py challenge/sargasso.pcap",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zer0securectf{decoy_export_b6ff246a}",
+          "zerosecurectf{DECOY-NO-FLAG-B6FF246A}"
+        ],
+        "elapsed_seconds": 0.04
+      }
+    },
+    {
+      "id": 153,
+      "title": "The Mask's Bell",
+      "folder": "The Mask's Bell",
+      "category": "Final Chain",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "incomplete source",
+      "source": "zsctf2_srinikesh/99_the_masks_bell",
+      "solution_command": null,
+      "verification_note": "incomplete author material: The sealed payload is preserved, but its key derivation, cipher mode, and serialization were not documented in the available author files. The registered answer is retained; a full independent decryption was not verified."
+    },
+    {
+      "id": 83,
+      "title": "Adversarial Machine Learning Classifier Evasion",
+      "folder": "Adversarial Machine Learning Classifier Evasion",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/misc_02_adversarial_ml_feature_perturbation",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{adversarial_perturbation_classifier_evasion_32ba}"
+        ],
+        "elapsed_seconds": 0.23
+      }
+    },
+    {
+      "id": 88,
+      "title": "Algorithmic Esoteric Bytecode Optimizer",
+      "folder": "Algorithmic Esoteric Bytecode Optimizer",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/misc_12_esoteric_brainfuck_jit_transpiler",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{brainfuck_jit_peephole_optimizer_90ff}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 37,
+      "title": "Babel",
+      "folder": "Babel",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/misc/babel",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{babel_ddb356c7d0ab}"
+        ],
+        "elapsed_seconds": 0.08
+      }
+    },
+    {
+      "id": 38,
+      "title": "Brainfuck",
+      "folder": "Brainfuck",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/misc/brainfuck",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{brainfuck_196979ef5ac2}"
+        ],
+        "elapsed_seconds": 0.07
+      }
+    },
+    {
+      "id": 39,
+      "title": "Columnar",
+      "folder": "Columnar",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/misc/columnar",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{columnar_b3b56ac18aad}"
+        ],
+        "elapsed_seconds": 0.16
+      }
+    },
+    {
+      "id": 40,
+      "title": "Confidant",
+      "folder": "Confidant",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/misc/confidant",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{local_review_flag}"
+        ],
+        "elapsed_seconds": 0.16
+      }
+    },
+    {
+      "id": 149,
+      "title": "Crossed Signals",
+      "folder": "Crossed Signals",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "incomplete source",
+      "source": "zsctf2_srinikesh/10_crossed_signals",
+      "solution_command": null,
+      "verification_note": "incomplete author material: The player handout gives dependencies but omits the exact key derivation, nonce layout, and fragment envelope. No author implementation or complete writeup was found locally. The accepted answer is retained, but an independent artifact-to-flag solve was not verified."
+    },
+    {
+      "id": 129,
+      "title": "DNS Zone Transfer",
+      "folder": "DNS Zone Transfer",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/misc_08_dns_zone_transfer_axfr_file",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{dns_axfr_zone_file_loc_and_txt_88ef}"
+        ],
+        "elapsed_seconds": 0.04
+      }
+    },
+    {
+      "id": 41,
+      "title": "Dunderdome",
+      "folder": "Dunderdome",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/misc/dunderdome",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{dunderdome_3f6c7e347849}"
+        ],
+        "elapsed_seconds": 0.11
+      }
+    },
+    {
+      "id": 42,
+      "title": "Hairline",
+      "folder": "Hairline",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/misc/hairline",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{hairline_019c3da5e1cc}"
+        ],
+        "elapsed_seconds": 1.22
+      }
+    },
+    {
+      "id": 84,
+      "title": "Invisible Unicode Steganography",
+      "folder": "Invisible Unicode Steganography",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/misc_03_zero_width_steganography_unicode",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{unicode_zero_width_stego_hidden_bits_11ff}"
+        ],
+        "elapsed_seconds": 0.05
+      }
+    },
+    {
+      "id": 43,
+      "title": "Morse",
+      "folder": "Morse",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/misc/morse",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{morse_bba1ee57d77e}"
+        ],
+        "elapsed_seconds": 0.1
+      }
+    },
+    {
+      "id": 2,
+      "title": "Origami",
+      "folder": "Origami",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/ai-ml/origami",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{origami_624642a3e545}"
+        ],
+        "elapsed_seconds": 0.53
+      }
+    },
+    {
+      "id": 44,
+      "title": "Rail Fence",
+      "folder": "Rail Fence",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/misc/railfence",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{railfence_bdbad13633da}"
+        ],
+        "elapsed_seconds": 0.09
+      }
+    },
+    {
+      "id": 87,
+      "title": "Regular Expression Constraint Satisfaction",
+      "folder": "Regular Expression Constraint Satisfaction",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/misc_07_regex_crossword_hexagonal",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{regex_crossword_satisfying_assignment_41bc}"
+        ],
+        "elapsed_seconds": 0.08
+      }
+    },
+    {
+      "id": 85,
+      "title": "Restricted Python AST Jail Break",
+      "folder": "Restricted Python AST Jail Break",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/misc_04_pyjail_ast_restricted_subset",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{pyjail_subclasses_builtin_traversal_78ac}"
+        ],
+        "elapsed_seconds": 0.08
+      }
+    },
+    {
+      "id": 82,
+      "title": "Seccomp BPF Sandbox Policy Audit",
+      "folder": "Seccomp BPF Sandbox Policy Audit",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/misc_01_bpf_seccomp_policy_auditing",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{seccomp_bpf_syscall_architecture_bypass_91fe}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 45,
+      "title": "Short Hash",
+      "folder": "Short Hash",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/misc/shorthash",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{shorthash_5b158d7b76eb}"
+        ],
+        "elapsed_seconds": 0.15
+      }
+    },
+    {
+      "id": 131,
+      "title": "Statistical Anomaly & Telemetry Z-Score Detection",
+      "folder": "Statistical Anomaly & Telemetry Z-Score Detection",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/misc_10_csv_outlier_zscore_detection",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{zscore_statistical_anomaly_sensor_outlier_34aa}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 128,
+      "title": "Systemd Journal Transient Service Triage",
+      "folder": "Systemd Journal Transient Service Triage",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/misc_06_systemd_journal_slice_forensics",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{systemd_cgroup_environ_transient_leak_55da}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 132,
+      "title": "Telephony DTMF Dual-Tone Signal Recovery",
+      "folder": "Telephony DTMF Dual-Tone Signal Recovery",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/misc_11_audio_dual_tone_dtmf_decoder",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{dtmf_dual_tone_frequencies_telephony_18bb}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 160,
+      "title": "The Heat Sink",
+      "folder": "The Heat Sink",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "artifact flag derived; event answer differs or absent",
+      "source": "zsctf2_srinikesh/14_the_heat_sink",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{rub1x_h34t_s1nk_3301}"
+        ],
+        "elapsed_seconds": 0.14
+      }
+    },
+    {
+      "id": 162,
+      "title": "The Long Count",
+      "folder": "The Long Count",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "artifact flag derived; event answer differs or absent",
+      "source": "zsctf2_srinikesh/16_the_long_count",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{brut3_f0rc3_l0ng_c0unt}"
+        ],
+        "elapsed_seconds": 0.75
+      }
+    },
+    {
+      "id": 145,
+      "title": "The Mandala Sigils",
+      "folder": "The Mandala Sigils",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "artifact flag derived; event answer differs or absent",
+      "source": "zsctf2_srinikesh/06_the_mandala_sigils",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{s1g1l_1nt3rs3ct10n}"
+        ],
+        "elapsed_seconds": 0.04
+      }
+    },
+    {
+      "id": 159,
+      "title": "The Prime Concord",
+      "folder": "The Prime Concord",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_srinikesh/00_the_prime_concord",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{tw1n_pr1m3_c0nc0rd_3301}"
+        ],
+        "elapsed_seconds": 0.04
+      }
+    },
+    {
+      "id": 161,
+      "title": "The Rupture",
+      "folder": "The Rupture",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "artifact flag derived; event answer differs or absent",
+      "source": "zsctf2_srinikesh/15_the_rupture",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{th3_rupture_d3v14t3s}"
+        ],
+        "elapsed_seconds": 0.46
+      }
+    },
+    {
+      "id": 86,
+      "title": "UART Hardware Logic Analyzer Trace",
+      "folder": "UART Hardware Logic Analyzer Trace",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/misc_05_serial_uart_logic_analyzer_vcd",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{uart_vcd_timing_signal_decoded_92ee}"
+        ],
+        "elapsed_seconds": 0.07
+      }
+    },
+    {
+      "id": 3,
+      "title": "Understudy",
+      "folder": "Understudy",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/ai-ml/understudy",
+      "solution_command": "python solution/solve.py --local solution/runtime/server.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{understudy_3c5aebd213bd}"
+        ],
+        "elapsed_seconds": 3.34
+      }
+    },
+    {
+      "id": 1,
+      "title": "Welcome",
+      "folder": "Welcome",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "event/manual procedure",
+      "source": "CTFd event export",
+      "solution_command": null,
+      "verification_note": "event answer retained; in-person activity not replayable"
+    },
+    {
+      "id": 130,
+      "title": "Zip Slip Directory Traversal Audit",
+      "folder": "Zip Slip Directory Traversal Audit",
+      "category": "Miscellaneous",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/misc_09_zip_slip_path_traversal_archive",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{zip_slip_path_traversal_symlink_72cd}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 49,
+      "title": "Glasshouse",
+      "folder": "Glasshouse",
+      "category": "OSINT",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/osint/glasshouse",
+      "solution_command": "python solution/solve.py --bundle challenge/glasshouse",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{glasshouse_223cfe50a748}"
+        ],
+        "elapsed_seconds": 0.04
+      }
+    },
+    {
+      "id": 113,
+      "title": "Find_the_flag#1",
+      "folder": "Find_the_flag#1",
+      "category": "Physical Osint",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "event/manual procedure",
+      "source": "CTFd event export",
+      "solution_command": null,
+      "verification_note": "event answer retained; in-person activity not replayable"
+    },
+    {
+      "id": 114,
+      "title": "Find_the_flag#2",
+      "folder": "Find_the_flag#2",
+      "category": "Physical Osint",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "event/manual procedure",
+      "source": "CTFd event export",
+      "solution_command": null,
+      "verification_note": "event answer retained; in-person activity not replayable"
+    },
+    {
+      "id": 137,
+      "title": "Find_the_flag#4",
+      "folder": "Find_the_flag#4",
+      "category": "Physical Osint",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "event/manual procedure",
+      "source": "CTFd event export",
+      "solution_command": null,
+      "verification_note": "event answer retained; in-person activity not replayable"
+    },
+    {
+      "id": 136,
+      "title": "Dance Dance Dance",
+      "folder": "Dance Dance Dance",
+      "category": "Physical challenge",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "event/manual procedure",
+      "source": "CTFd event export",
+      "solution_command": null,
+      "verification_note": "event answer retained; in-person activity not replayable"
+    },
+    {
+      "id": 133,
+      "title": "Push Ups",
+      "folder": "Push Ups",
+      "category": "Physical challenge",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "event/manual procedure",
+      "source": "CTFd event export",
+      "solution_command": null,
+      "verification_note": "event answer retained; in-person activity not replayable"
+    },
+    {
+      "id": 135,
+      "title": "Songer Singer Sunger",
+      "folder": "Songer Singer Sunger",
+      "category": "Physical challenge",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "event/manual procedure",
+      "source": "CTFd event export",
+      "solution_command": null,
+      "verification_note": "event answer retained; in-person activity not replayable"
+    },
+    {
+      "id": 98,
+      "title": "Asynchronous Coroutine Trampoline",
+      "folder": "Asynchronous Coroutine Trampoline",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/rev_10_coroutine_generator_trampoline",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{coroutine_yield_trampoline_scheduler_77ff}"
+        ],
+        "elapsed_seconds": 0.07
+      }
+    },
+    {
+      "id": 97,
+      "title": "Branchless AVX2 SIMD Vectorization",
+      "folder": "Branchless AVX2 SIMD Vectorization",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/rev_09_branchless_avx2_simd_checker",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{simd_avx2_vectorized_mask_comparison_66aa}"
+        ],
+        "elapsed_seconds": 0.07
+      }
+    },
+    {
+      "id": 54,
+      "title": "Carillon",
+      "folder": "Carillon",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/rev/carillon",
+      "solution_command": "python solution/solve.py --image challenge/challenge.car --bin challenge/carillon",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{carillon_f06045e91984}",
+          "zerosecurectf{pmw29tgyAf41n45ll5ph}"
+        ],
+        "elapsed_seconds": 0.09
+      }
+    },
+    {
+      "id": 55,
+      "title": "Cogwork",
+      "folder": "Cogwork",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/rev/cogwork",
+      "solution_command": "python solution/solve.py --image challenge/challenge.cog --bin challenge/cog",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{cogwork_a2ca44d4e5ea}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 90,
+      "title": "Direct Syscall Invocation & API Hashing",
+      "folder": "Direct Syscall Invocation & API Hashing",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/rev_02_dynamic_anti_hooking_syscalls",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{direct_system_call_djb2_hashing_47ba}"
+        ],
+        "elapsed_seconds": 0.08
+      }
+    },
+    {
+      "id": 56,
+      "title": "Ferrule",
+      "folder": "Ferrule",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/rev/ferrule",
+      "solution_command": "python solution/solve.py --local challenge/ferrule",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{ferrule_3083b267eb52}"
+        ],
+        "elapsed_seconds": 0.12
+      }
+    },
+    {
+      "id": 91,
+      "title": "Golang Concurrent Channel Pipeline",
+      "folder": "Golang Concurrent Channel Pipeline",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/rev_03_go_runtime_goroutine_channels",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{golang_concurrent_channel_pipeline_82cd}"
+        ],
+        "elapsed_seconds": 0.07
+      }
+    },
+    {
+      "id": 92,
+      "title": "Hardware Trap & Signal Redirection",
+      "folder": "Hardware Trap & Signal Redirection",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/rev_04_signal_handler_control_flow",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{signal_handler_trap_redirection_55ef}"
+        ],
+        "elapsed_seconds": 0.07
+      }
+    },
+    {
+      "id": 57,
+      "title": "Keywright",
+      "folder": "Keywright",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/rev/keywright",
+      "solution_command": "python solution/solve.py --image challenge/license.kwl --bin challenge/keywright",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{keywright_ad0cbf87645c}"
+        ],
+        "elapsed_seconds": 0.55
+      }
+    },
+    {
+      "id": 58,
+      "title": "Lacquerbox",
+      "folder": "Lacquerbox",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/rev/lacquerbox",
+      "solution_command": "python solution/solve.py --image challenge/challenge.lacq --bin challenge/lacq",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{lacquerbox_a41cf329aa29}"
+        ],
+        "elapsed_seconds": 0.05
+      }
+    },
+    {
+      "id": 96,
+      "title": "Linux Kernel eBPF Packet Filter",
+      "folder": "Linux Kernel eBPF Packet Filter",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/rev_08_ebpf_packet_filter_bytecode",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{ebpf_xdp_packet_inspector_bpf_filter_49de}"
+        ],
+        "elapsed_seconds": 0.07
+      }
+    },
+    {
+      "id": 93,
+      "title": "Mixed Boolean-Arithmetic",
+      "folder": "Mixed Boolean-Arithmetic",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/rev_05_mixed_boolean_arithmetic_mba",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{mba_linear_boolean_simplification_19af}"
+        ],
+        "elapsed_seconds": 0.08
+      }
+    },
+    {
+      "id": 101,
+      "title": "Multi-Stage Dynamic Runtime Code Decryption",
+      "folder": "Multi-Stage Dynamic Runtime Code Decryption",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/rev_13_dynamic_code_decryption_stages",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{staged_memory_code_decryption_runtime_04de}"
+        ],
+        "elapsed_seconds": 0.08
+      }
+    },
+    {
+      "id": 59,
+      "title": "Oxbow",
+      "folder": "Oxbow",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/rev/oxbow",
+      "solution_command": "python solution/solve.py --image challenge/challenge.oxb",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{oxbow_84a6ebbfe9ed}"
+        ],
+        "elapsed_seconds": 0.08
+      }
+    },
+    {
+      "id": 107,
+      "title": "Packed Ghost",
+      "folder": "Packed Ghost",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_broken/06-re-packedghost",
+      "solution_command": null,
+      "verification_note": null
+    },
+    {
+      "id": 60,
+      "title": "Palimpsest",
+      "folder": "Palimpsest (Reverse Engineering)",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/rev/palimpsest",
+      "solution_command": "python3.13 solution/solve.py --image challenge/palimpsest.pyc --run",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{palimpsest_231055fd1423}"
+        ],
+        "elapsed_seconds": 0.31
+      }
+    },
+    {
+      "id": 95,
+      "title": "Rule 30 Dynamical System Reversal",
+      "folder": "Rule 30 Dynamical System Reversal",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/rev_07_cellular_automata_rule30",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{rule30_1d_cellular_automaton_step_82bd}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 89,
+      "title": "Rust Enum State Machine",
+      "folder": "Rust Enum State Machine",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/rev_01_rust_binary_state_machine",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{rust_enum_pattern_match_transitions_91da}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 142,
+      "title": "The Bridge of Bells",
+      "folder": "The Bridge of Bells",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_srinikesh/03_the_bridge_of_bells",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{br1dge_0f_b3lls}"
+        ],
+        "elapsed_seconds": 0.35
+      }
+    },
+    {
+      "id": 106,
+      "title": "The Check That Lies",
+      "folder": "The Check That Lies",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_broken/05-re-checklies",
+      "solution_command": null,
+      "verification_note": null
+    },
+    {
+      "id": 150,
+      "title": "The Hundred Steps",
+      "folder": "The Hundred Steps",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "incomplete source",
+      "source": "zsctf2_srinikesh/11_the_hundred_steps",
+      "solution_command": null,
+      "verification_note": "incomplete author material: The archive preserves the kernel and image, but no sector layout, key derivation, or extraction implementation. The cycle is reproducible; decoding the image to the accepted answer was not verified."
+    },
+    {
+      "id": 147,
+      "title": "The Keystone Seal",
+      "folder": "The Keystone Seal",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_srinikesh/08_the_keystone_seal",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "continuation checks",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{keyst0ne_seal}"
+        ],
+        "elapsed_seconds": 0.08
+      }
+    },
+    {
+      "id": 100,
+      "title": "Thompson NFA with Epsilon Transitions",
+      "folder": "Thompson NFA with Epsilon Transitions",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/rev_12_non_deterministic_finite_automaton_nfa",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{thompson_nfa_epsilon_transition_regex_99cb}"
+        ],
+        "elapsed_seconds": 0.08
+      }
+    },
+    {
+      "id": 99,
+      "title": "Trie Prefix Tree Graph Traversal",
+      "folder": "Trie Prefix Tree Graph Traversal",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/rev_11_trie_prefix_tree_graph_validator",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{trie_prefix_graph_path_traversal_12ee}"
+        ],
+        "elapsed_seconds": 0.08
+      }
+    },
+    {
+      "id": 94,
+      "title": "WebAssembly Linear Memory Validation",
+      "folder": "WebAssembly Linear Memory Validation",
+      "category": "Reverse Engineering",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_easymed_fixed/rev_06_wasm_bytecode_parser",
+      "solution_command": "python solution/solve.py",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecure{wasm_linear_memory_stack_validator_31cb}"
+        ],
+        "elapsed_seconds": 0.06
+      }
+    },
+    {
+      "id": 62,
+      "title": "Amalgam",
+      "folder": "Amalgam",
+      "category": "Web Exploitation",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/web/amalgam",
+      "solution_command": "python solution/solve.py --url http://127.0.0.1:8000",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{STREAM_9A1BA9E96EE3}",
+          "zerosecurectf{amalgam_0614c9e45d59}"
+        ],
+        "elapsed_seconds": 0.25
+      }
+    },
+    {
+      "id": 63,
+      "title": "Barbican",
+      "folder": "Barbican",
+      "category": "Web Exploitation",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/web/barbican",
+      "solution_command": "python solution/solve.py --url http://127.0.0.1:8000",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{barbican_98d3e5ccc876}"
+        ],
+        "elapsed_seconds": 0.1
+      }
+    },
+    {
+      "id": 64,
+      "title": "Broadsheet",
+      "folder": "Broadsheet",
+      "category": "Web Exploitation",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/web/broadsheet",
+      "solution_command": "python solution/solve.py --url http://127.0.0.1:8000",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{PREVIEW-FIXTURE-E6A2823F-NOT-LIVE}",
+          "zerosecurectf{broadsheet_2f297f877e66}"
+        ],
+        "elapsed_seconds": 0.23
+      }
+    },
+    {
+      "id": 65,
+      "title": "Palisade",
+      "folder": "Palisade",
+      "category": "Web Exploitation",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/web/palisade",
+      "solution_command": "python solution/solve.py --url http://127.0.0.1:8000",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{STAGING-FIXTURE-59971F6B-DO-NOT-SUBMIT}",
+          "zerosecurectf{palisade_8461606363a2}"
+        ],
+        "elapsed_seconds": 0.29
+      }
+    },
+    {
+      "id": 66,
+      "title": "Portcullis",
+      "folder": "Portcullis",
+      "category": "Web Exploitation",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/web/portcullis",
+      "solution_command": "python solution/solve.py --url http://127.0.0.1:8000",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{portcullis_1b0e4e6d4be4}"
+        ],
+        "elapsed_seconds": 0.61
+      }
+    },
+    {
+      "id": 67,
+      "title": "Postern",
+      "folder": "Postern",
+      "category": "Web Exploitation",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/web/postern",
+      "solution_command": "python solution/solve.py --url http://127.0.0.1:8000",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{postern_b2bb2b8ef3ca}"
+        ],
+        "elapsed_seconds": 0.42
+      }
+    },
+    {
+      "id": 68,
+      "title": "Quartermaster",
+      "folder": "Quartermaster",
+      "category": "Web Exploitation",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/web/quartermaster",
+      "solution_command": "python solution/solve.py --url http://127.0.0.1:8000",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zerosecurectf{quartermaster_daab80420377}",
+          "zerosecurectf{94b0ac51f5464db0-leak}"
+        ],
+        "elapsed_seconds": 2.82
+      }
+    },
+    {
+      "id": 69,
+      "title": "Ravelin",
+      "folder": "Ravelin",
+      "category": "Web Exploitation",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "reference run completed",
+      "source": "zsctf2_challenges_chakri/challenges/web/ravelin",
+      "solution_command": "python solution/solve.py --url http://127.0.0.1:8000",
+      "verification_note": null,
+      "execution": {
+        "phase": "prior session",
+        "returncode": 0,
+        "observed_flags": [
+          "zer0securectf{ARCHIVED_AD16D06B7E}",
+          "zerosecurectf{WRONG_ORDER_dd6558fb093c}",
+          "zerosecurectf{ravelin_177339b472d5}"
+        ],
+        "elapsed_seconds": 0.4
+      }
+    },
+    {
+      "id": 104,
+      "title": "Robots Of The Apocalypse",
+      "folder": "Robots Of The Apocalypse",
+      "category": "Web Exploitation",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_broken/03-web-robots",
+      "solution_command": null,
+      "verification_note": null
+    },
+    {
+      "id": 105,
+      "title": "SSRF to Nowhere",
+      "folder": "SSRF to Nowhere",
+      "category": "Web Exploitation",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "author reference retained; not rerun",
+      "source": "zsctf2_broken/04-web-ssrf",
+      "solution_command": null,
+      "verification_note": null
+    },
+    {
+      "id": 139,
+      "title": "singerss",
+      "folder": "singerss",
+      "category": "for singers",
+      "collection": "ZeroSecureCTF 2.0",
+      "status": "event/manual procedure",
+      "source": "CTFd event export",
+      "solution_command": null,
+      "verification_note": "event answer retained; in-person activity not replayable"
+    }
+  ]
+}

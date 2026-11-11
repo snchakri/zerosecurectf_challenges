@@ -1,0 +1,15 @@
+{
+  "p": "629958113225759",
+  "field": "GF(p^2) = GF(p)[t]/(t^2 - nr)",
+  "nr": 13,
+  "g": [
+    "201601106978633",
+    "106853359521532"
+  ],
+  "y": [
+    "578420161945619",
+    "453385675729490"
+  ],
+  "sealed_flag_hex": "185a737fecc2e424b7292875337d4deb1762e49a5e207dff16722fa61b9a63285a08755ada854e6313cadf760b49a58fc6c78786ff7bbbe7ca90ca5dca636a006293d7d45cb3f277eba7b9cecb48680e49",
+  "note": "Elements are [a,b] = a + b*t with t^2 = nr (mod p). g is a generator of GF(p^2)* and y = g^x. Recover x, then flag = AES-256-GCM decrypt of (nonce||ct||tag)=sealed_flag_hex with key=SHA256(b'zsctf-chorrivest|key|'+ascii(decimal(x))) and nonce=SHA256(b'zsctf-chorrivest|nonce|'+ascii(decimal(x)))[:12]."
+}

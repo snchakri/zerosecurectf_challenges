@@ -1,0 +1,7 @@
+# Serving dependency for Origami. Pinned so that a given ZSCTF_SEED derives the
+# SAME ReLU network (first-layer weights W, biases b, output layer v, c) on every
+# host. numpy's default_rng (PCG64) is a version-stable bit stream, but we pin the
+# version to remove any doubt about per-seed reproducibility.
+# The live service needs ONLY numpy (pure numpy + stdlib ReLU network). scipy is
+# NOT required by the server or the reference solver.
+numpy==2.4.2

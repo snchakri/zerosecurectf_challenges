@@ -1,0 +1,2 @@
+zerosecure{adversarial_perturbation_classifier_evasion_32ba}
+zerosecurectf{adversarial_perturbation_classifier_evasion_32ba}

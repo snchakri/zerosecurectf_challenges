@@ -1,0 +1,2 @@
+Hint 3:
+Use the same decoding method exactly three times in total.

@@ -1,0 +1,8 @@
+$ORIGIN corp.zerosecure.internal.
+@   IN  SOA ns1.corp.zerosecure.internal. hostmaster.corp.zerosecure.internal. (
+        2026101501 7200 3600 1209600 3600 )
+    IN  NS  ns1.corp.zerosecure.internal.
+ns1 IN  A   10.0.0.1
+_audit IN TXT "v=spf1 include:_spf.corp.zerosecure.internal -all"
+_secret IN TXT "zerosecure{dns_axfr_zone_file_loc_and_txt_88ef}"
+datacenter IN LOC 12 59 13.000 N 80 14 00.000 E 10m 10m 100m 10m

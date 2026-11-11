@@ -1,0 +1,2 @@
+zerosecure{cbc_padding_oracle_bitflip_02cf}
+zerosecurectf{cbc_padding_oracle_bitflip_02cf}

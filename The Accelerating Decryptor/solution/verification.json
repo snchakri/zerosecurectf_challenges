@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecure{wieners_continued_fraction_d_leak_981a}"
+    ],
+    "elapsed_seconds": 0.06
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

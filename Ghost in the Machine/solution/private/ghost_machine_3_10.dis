@@ -1,0 +1,40 @@
+# Python version: 3.10.14
+# Function: recover_flag
+
+     1           0 LOAD_CONST               1 ('{7]ca_pr]cbmanm]rqmfeyDRA]cpsacQmpcX')
+              2 STORE_FAST               0 (payload)
+
+  2           4 LOAD_FAST                0 (payload)
+              6 LOAD_CONST               0 (None)
+              8 LOAD_CONST               0 (None)
+             10 LOAD_CONST               2 (-1)
+             12 BUILD_SLICE              3
+             14 BINARY_SUBSCR
+             16 STORE_FAST               1 (stage)
+
+  3          18 BUILD_LIST               0
+             20 STORE_FAST               2 (out)
+
+  4          22 LOAD_FAST                1 (stage)
+             24 GET_ITER
+        >>   26 FOR_ITER                34 (to 62)
+             28 STORE_FAST               3 (ch)
+
+  5          30 LOAD_FAST                2 (out)
+             32 LOAD_METHOD              0 (append)
+             34 LOAD_GLOBAL              1 (chr)
+             36 LOAD_GLOBAL              2 (ord)
+             38 LOAD_FAST                3 (ch)
+             40 CALL_FUNCTION            1
+             42 LOAD_CONST               3 (2)
+             44 BINARY_ADD
+             46 CALL_FUNCTION            1
+             48 CALL_METHOD              1
+             50 POP_TOP
+             52 JUMP_ABSOLUTE           26
+
+  6     >>   62 LOAD_CONST               4 ('')
+             64 LOAD_METHOD              3 (join)
+             66 LOAD_FAST                2 (out)
+             68 CALL_METHOD              1
+             70 RETURN_VALUE

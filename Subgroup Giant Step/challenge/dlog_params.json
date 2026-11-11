@@ -1,0 +1,8 @@
+{
+  "p": 1724825017391822113639969,
+  "g": 619286289428009936038643,
+  "h": 452130070861571783430872,
+  "subgroup_order": 2199023255579,
+  "sealed_flag_hex": "57e1e5ca4cdd64123e736c698cf29817f8dbda9f76ef828be29775ab94c18e050e2ab18a642baacca22c1e2a1b438758e5b8bae5375cf972ce72c40c71826dbe28c3620f762136",
+  "sealing": "flag = AES-256-GCM decrypt of (nonce||ct||tag) = sealed_flag_hex, key = SHA256(b'zsctf-dlog|key|'  + ascii(decimal(x))), nonce = SHA256(b'zsctf-dlog|nonce|' + ascii(decimal(x)))[:12], where x is the discrete log of h to base g in the order-q subgroup."
+}

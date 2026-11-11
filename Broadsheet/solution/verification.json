@@ -1,0 +1,14 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecurectf{PREVIEW-FIXTURE-E6A2823F-NOT-LIVE}",
+      "zerosecurectf{broadsheet_2f297f877e66}"
+    ],
+    "elapsed_seconds": 0.23
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

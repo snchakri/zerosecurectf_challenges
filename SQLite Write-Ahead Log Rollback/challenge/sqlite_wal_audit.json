@@ -1,0 +1,18 @@
+{
+  "database": "identity_vault.db",
+  "wal_header": {
+    "magic": "0x377f0682",
+    "version": 3007000
+  },
+  "wal_frames": [
+    {
+      "page_num": 1,
+      "status": "COMMITTED"
+    },
+    {
+      "page_num": 2,
+      "status": "ROLLED_BACK",
+      "data": "INSERT INTO secrets VALUES ('admin', 'zerosecure{sqlite_wal_rollback_frame_recovered_29cd}');"
+    }
+  ]
+}

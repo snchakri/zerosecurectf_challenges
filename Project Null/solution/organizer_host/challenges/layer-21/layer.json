@@ -1,0 +1,20 @@
+{
+  "layer": 21,
+  "id": "layer-21",
+  "title": "Broken Arithmetic of Trust",
+  "act": 4,
+  "timer_seconds": 210,
+  "public_asset": "reserve_key.txt",
+  "canonical_key": "rsa_failed_before_factoring",
+  "canonical_aliases": [
+    "rsa_failed_before_factoring",
+    "rsa-failed-before-factoring"
+  ],
+  "false_positive_key": "modulus_must_fall",
+  "false_positive_aliases": [
+    "modulus_must_fall",
+    "modulus-must-fall"
+  ],
+  "verified_fragment": "shard::21::fault-modulus",
+  "poison_fragment": "shard::21::brute-modulus"
+}

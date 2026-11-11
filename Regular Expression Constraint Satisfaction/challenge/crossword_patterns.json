@@ -1,0 +1,833 @@
+{
+  "description": "Three-axis regex crossword. Fill the 6x9 grid so that every row, every column and every '\\'-diagonal (cells sharing j-i) fully matches its regex. The solution is unique; read the grid row by row, top to bottom, left to right, to recover the flag string.",
+  "grid": {
+    "rows": 6,
+    "cols": 9
+  },
+  "alphabet": "#&012345678@ACDFGHJKLM_abcdefghijklmnopqrstuvwxyz{}",
+  "read_order": "rows top-to-bottom, each row left-to-right",
+  "lines": [
+    {
+      "name": "row_0",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          0,
+          7
+        ],
+        [
+          0,
+          8
+        ]
+      ],
+      "pattern": "^[bfglpz][defhlq][gjkmpr][fgjmoq][ghjksv][befmpv][bcdmpq][dgkmqu][bdjkpr]$"
+    },
+    {
+      "name": "row_1",
+      "cells": [
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ]
+      ],
+      "pattern": "^[begmpq][fhkmv{][bfgjpr][beflmv][bdgkmp][begjkl][bhkmvx][_gjmqv][bcfhjm]$"
+    },
+    {
+      "name": "row_2",
+      "cells": [
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "pattern": "^[bdhjlr][hjmopv][bfhkqs][bhkqsv][djkqvw][gjopqv][dfgmpr][dhjkmp][_bdklv]$"
+    },
+    {
+      "name": "row_3",
+      "cells": [
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          3,
+          8
+        ]
+      ],
+      "pattern": "^[fhkmsv][abhkmq][dfhkpt][bfilmv][bfjpsv][dfmpqv][dglmqy][fijkmv][fghjln]$"
+    },
+    {
+      "name": "row_4",
+      "cells": [
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          4,
+          7
+        ],
+        [
+          4,
+          8
+        ]
+      ],
+      "pattern": "^[dfglpq][_dfhkm][abflmv][dhjlps][fglmsv][fikmpq][fghlmq][bdjmnp][bfgjmv]$"
+    },
+    {
+      "name": "row_5",
+      "cells": [
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          5,
+          7
+        ],
+        [
+          5,
+          8
+        ]
+      ],
+      "pattern": "^[befhkv][dfghjn][dhjkpt][_hjkpq][4dfhlv][1bgjlm][bghmpq][cdfglv][bgkqv}]$"
+    },
+    {
+      "name": "col_0",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "pattern": "^[$2567z][$3567e][#&023r][#368@s][#&56@g][$368@e]$"
+    },
+    {
+      "name": "col_1",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          5,
+          1
+        ]
+      ],
+      "pattern": "^[&2568e][#&078{][#&367o][$256@a][$&356_][#$&08n]$"
+    },
+    {
+      "name": "col_2",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "pattern": "^[23678r][$&36@r][$&568s][2368@t][#367@a][&2578t]$"
+    },
+    {
+      "name": "col_3",
+      "cells": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          3
+        ]
+      ],
+      "pattern": "^[#&378o][$&038e][&0238s][0367@i][$3567s][$&256_]$"
+    },
+    {
+      "name": "col_4",
+      "cells": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "pattern": "^[23578s][$078@g][#$&38w][#&38@s][$&023s][#&0248]$"
+    },
+    {
+      "name": "col_5",
+      "cells": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          5
+        ]
+      ],
+      "pattern": "^[#$26@e][&258@e][$&067o][#2368f][#0568i][123578]$"
+    },
+    {
+      "name": "col_6",
+      "cells": [
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          5,
+          6
+        ]
+      ],
+      "pattern": "^[2356@c][$357@x][#358@r][$&026y][&0258g][$238@b]$"
+    },
+    {
+      "name": "col_7",
+      "cells": [
+        [
+          0,
+          7
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          7
+        ],
+        [
+          5,
+          7
+        ]
+      ],
+      "pattern": "^[#$028u][$&27@_][#$78@d][#2356i][#$367n][#$068c]$"
+    },
+    {
+      "name": "col_8",
+      "cells": [
+        [
+          0,
+          8
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          3,
+          8
+        ],
+        [
+          4,
+          8
+        ],
+        [
+          5,
+          8
+        ]
+      ],
+      "pattern": "^[$&267r][03567c][#&056_][0358@n][#&028m][#&678}]$"
+    },
+    {
+      "name": "diag_-5",
+      "cells": [
+        [
+          5,
+          0
+        ]
+      ],
+      "pattern": "^[AFGKLe]$"
+    },
+    {
+      "name": "diag_-4",
+      "cells": [
+        [
+          4,
+          0
+        ],
+        [
+          5,
+          1
+        ]
+      ],
+      "pattern": "^[ACGHMg][CGJLMn]$"
+    },
+    {
+      "name": "diag_-3",
+      "cells": [
+        [
+          3,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "pattern": "^[CDFGLs][AGHJM_][FHJKMt]$"
+    },
+    {
+      "name": "diag_-2",
+      "cells": [
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          3
+        ]
+      ],
+      "pattern": "^[ADHKMr][CFJKLa][ACJKMa][ADFJK_]$"
+    },
+    {
+      "name": "diag_-1",
+      "cells": [
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "pattern": "^[CFHLMe][CFHLMo][CFHKLt][ACFHKs][4CDGHK]$"
+    },
+    {
+      "name": "diag_0",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          5
+        ]
+      ],
+      "pattern": "^[ACDHMz][CDGLM{][ACGKLs][ACDGMi][AGHLMs][1ACGJM]$"
+    },
+    {
+      "name": "diag_1",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          6
+        ]
+      ],
+      "pattern": "^[ACDGKe][ACDFGr][ADFJLs][AGKLMs][ADGHLi][AGHJKb]$"
+    },
+    {
+      "name": "diag_2",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          5,
+          7
+        ]
+      ],
+      "pattern": "^[ADGJLr][CDGHLe][ACGKMw][CGJKLf][AFHJMg][ACGKLc]$"
+    },
+    {
+      "name": "diag_3",
+      "cells": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          7
+        ],
+        [
+          5,
+          8
+        ]
+      ],
+      "pattern": "^[ADFJMo][ACDGMg][CFGHKo][AFGKLy][CGHKMn][ADFJM}]$"
+    },
+    {
+      "name": "diag_4",
+      "cells": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          8
+        ]
+      ],
+      "pattern": "^[CDFGLs][ACDGMe][DFJKLr][FGJKMi][CDJKMm]$"
+    },
+    {
+      "name": "diag_5",
+      "cells": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          3,
+          8
+        ]
+      ],
+      "pattern": "^[CDHJMe][CFGHLx][CDHJKd][ADFHLn]$"
+    },
+    {
+      "name": "diag_6",
+      "cells": [
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          2,
+          8
+        ]
+      ],
+      "pattern": "^[ACDJLc][CDKLM_][ADGKL_]$"
+    },
+    {
+      "name": "diag_7",
+      "cells": [
+        [
+          0,
+          7
+        ],
+        [
+          1,
+          8
+        ]
+      ],
+      "pattern": "^[CGHKMu][ACDGKc]$"
+    },
+    {
+      "name": "diag_8",
+      "cells": [
+        [
+          0,
+          8
+        ]
+      ],
+      "pattern": "^[ADHJMr]$"
+    }
+  ]
+}

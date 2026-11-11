@@ -1,0 +1,2 @@
+zerosecure{modbus_scada_holding_registers_51aa}
+zerosecurectf{modbus_scada_holding_registers_51aa}

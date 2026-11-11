@@ -1,0 +1,14 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "continuation checks",
+    "returncode": 0,
+    "observed_flags": [
+      "XrtpDrvitr_VYG{LRUNPSTF_DJOGY_TOHJY}",
+      "ZeroSecure_CTF{KEYBOARD_SHIFT_RIGHT}"
+    ],
+    "elapsed_seconds": null
+  },
+  "archive_note": "archived reference; not rerun",
+  "event_answer_file": null
+}

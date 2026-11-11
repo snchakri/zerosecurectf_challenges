@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "continuation checks",
+    "returncode": 0,
+    "observed_flags": [
+      "ZeroSecure_CTF{tcp_knock_knock_rst_ack}"
+    ],
+    "elapsed_seconds": 0.83
+  },
+  "archive_note": "archived reference; not rerun",
+  "event_answer_file": null
+}

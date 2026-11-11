@@ -1,0 +1,2 @@
+zerosecure{matrix_hill_known_plaintext_3x3_51ef}
+zerosecurectf{matrix_hill_known_plaintext_3x3_51ef}

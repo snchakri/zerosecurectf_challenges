@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block body %}
+<h1>BUNKER TERMINAL</h1>
+<p>welcome, occupant. your records:</p>
+<ul>
+{% for id, r in records.items() %}
+  <li><a href="/record?id={{ id }}">#{{ id }} — {{ r.label }}</a></li>
+{% endfor %}
+</ul>
+<p class="muted">nothing else to see here. (is there?)</p>
+{% endblock %}

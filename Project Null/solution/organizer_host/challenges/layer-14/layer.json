@@ -1,0 +1,20 @@
+{
+  "layer": 14,
+  "id": "layer-14",
+  "title": "Object Stream Heresy",
+  "act": 3,
+  "timer_seconds": 210,
+  "public_asset": "redaction_map.txt",
+  "canonical_key": "objects_outlive_redaction",
+  "canonical_aliases": [
+    "objects_outlive_redaction",
+    "objects-outlive-redaction"
+  ],
+  "false_positive_key": "redactions_are_truth",
+  "false_positive_aliases": [
+    "redactions_are_truth",
+    "redactions-are-truth"
+  ],
+  "verified_fragment": "shard::14::stream-rivet",
+  "poison_fragment": "shard::14::bar-rivet"
+}

@@ -1,0 +1,20 @@
+{
+  "layer": 5,
+  "id": "layer-05",
+  "title": "Verification Ritual",
+  "act": 1,
+  "timer_seconds": 180,
+  "public_asset": "verification_memo.txt",
+  "canonical_key": "verify_before_belief",
+  "canonical_aliases": [
+    "verify_before_belief",
+    "verify-before-belief"
+  ],
+  "false_positive_key": "integrity_is_optional",
+  "false_positive_aliases": [
+    "integrity_is_optional",
+    "integrity-is-optional"
+  ],
+  "verified_fragment": "shard::05::marrow-signal",
+  "poison_fragment": "shard::05::paper-signal"
+}

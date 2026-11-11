@@ -1,0 +1,20 @@
+{
+  "layer": 16,
+  "id": "layer-16",
+  "title": "Route That Should Not Exist",
+  "act": 3,
+  "timer_seconds": 180,
+  "public_asset": "route_manifest.json",
+  "canonical_key": "routes_leak_the_staged_path",
+  "canonical_aliases": [
+    "routes_leak_the_staged_path",
+    "routes-leak-the-staged-path"
+  ],
+  "false_positive_key": "first_200_is_truth",
+  "false_positive_aliases": [
+    "first_200_is_truth",
+    "first-200-is-truth"
+  ],
+  "verified_fragment": "shard::16::route-fault",
+  "poison_fragment": "shard::16::route-smile"
+}

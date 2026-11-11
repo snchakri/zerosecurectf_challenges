@@ -1,0 +1,2 @@
+zerosecure{bsgs_discrete_log_subgroup_90da}
+zerosecurectf{bsgs_discrete_log_subgroup_90da}

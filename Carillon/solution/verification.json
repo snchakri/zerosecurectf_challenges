@@ -1,0 +1,14 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecurectf{carillon_f06045e91984}",
+      "zerosecurectf{pmw29tgyAf41n45ll5ph}"
+    ],
+    "elapsed_seconds": 0.09
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

@@ -1,0 +1,2 @@
+zerosecure{lagrange_polynomial_interpolation_44e1}
+zerosecurectf{lagrange_polynomial_interpolation_44e1}

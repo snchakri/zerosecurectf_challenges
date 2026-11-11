@@ -1,0 +1,20 @@
+{
+  "layer": 25,
+  "id": "layer-25",
+  "title": "Provenance or Obedience",
+  "act": 4,
+  "timer_seconds": 210,
+  "public_asset": "provenance_chain.json",
+  "canonical_key": "provenance_outranks_completeness",
+  "canonical_aliases": [
+    "provenance_outranks_completeness",
+    "provenance-outranks-completeness"
+  ],
+  "false_positive_key": "largest_dossier_wins",
+  "false_positive_aliases": [
+    "largest_dossier_wins",
+    "largest-dossier-wins"
+  ],
+  "verified_fragment": "shard::25::custody-mark",
+  "poison_fragment": "shard::25::volume-mark"
+}

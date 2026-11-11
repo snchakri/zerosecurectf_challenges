@@ -1,0 +1,2 @@
+Hint 3:
+You need exactly ten decode rounds. The tenth result is the final flag.

@@ -1,0 +1,2 @@
+zerosecure{zscore_statistical_anomaly_sensor_outlier_34aa}
+zerosecurectf{zscore_statistical_anomaly_sensor_outlier_34aa}

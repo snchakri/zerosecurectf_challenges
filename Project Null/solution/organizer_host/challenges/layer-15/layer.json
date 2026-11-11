@@ -1,0 +1,20 @@
+{
+  "layer": 15,
+  "id": "layer-15",
+  "title": "Mask of the Correct Cipher",
+  "act": 3,
+  "timer_seconds": 210,
+  "public_asset": "memory_frame.svg",
+  "canonical_key": "clean_extracts_can_lie",
+  "canonical_aliases": [
+    "clean_extracts_can_lie",
+    "clean-extracts-can-lie"
+  ],
+  "false_positive_key": "brightest_frame_is_real",
+  "false_positive_aliases": [
+    "brightest_frame_is_real",
+    "brightest-frame-is-real"
+  ],
+  "verified_fragment": "shard::15::mask-cinder",
+  "poison_fragment": "shard::15::bright-cinder"
+}

@@ -1,0 +1,2 @@
+ZeroSecure{ssrf_l00pback_4dm1n}
+zerosecurectf{ssrf_l00pback_4dm1n}

@@ -1,0 +1,2 @@
+Hint 2:
+After one successful decode, do not stop. You should still see another encoded-looking string.

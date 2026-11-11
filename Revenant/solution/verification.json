@@ -1,0 +1,15 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecureCTF{LEGACY_BUILD_TAG_IGNORE}",
+      "zerosecurectf{SESS-f21fcc4c4e735963}",
+      "zerosecurectf{revenant_4ff16d84116c}"
+    ],
+    "elapsed_seconds": 0.04
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

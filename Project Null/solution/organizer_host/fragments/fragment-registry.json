@@ -1,0 +1,155 @@
+{
+    "generated_at":  "2026-04-17T23:54:50.8638066+05:30",
+    "layers":  [
+                   {
+                       "layer":  1,
+                       "verified":  "shard::01::ivory-veil",
+                       "poison":  "shard::01::ghost-veil"
+                   },
+                   {
+                       "layer":  2,
+                       "verified":  "shard::02::amber-spline",
+                       "poison":  "shard::02::paper-spline"
+                   },
+                   {
+                       "layer":  3,
+                       "verified":  "shard::03::cinder-lattice",
+                       "poison":  "shard::03::cinder-loop"
+                   },
+                   {
+                       "layer":  4,
+                       "verified":  "shard::04::quartz-echo",
+                       "poison":  "shard::04::quartz-slogan"
+                   },
+                   {
+                       "layer":  5,
+                       "verified":  "shard::05::marrow-signal",
+                       "poison":  "shard::05::paper-signal"
+                   },
+                   {
+                       "layer":  6,
+                       "verified":  "shard::06::obsidian-clock",
+                       "poison":  "shard::06::director-clock"
+                   },
+                   {
+                       "layer":  7,
+                       "verified":  "shard::07::index-ember",
+                       "poison":  "shard::07::page-ember"
+                   },
+                   {
+                       "layer":  8,
+                       "verified":  "shard::08::sable-offset",
+                       "poison":  "shard::08::clean-offset"
+                   },
+                   {
+                       "layer":  9,
+                       "verified":  "shard::09::route-vellum",
+                       "poison":  "shard::09::pixel-vellum"
+                   },
+                   {
+                       "layer":  10,
+                       "verified":  "shard::10::hush-vector",
+                       "poison":  "shard::10::caption-vector"
+                   },
+                   {
+                       "layer":  11,
+                       "verified":  "shard::11::ivory-cell",
+                       "poison":  "shard::11::choir-cell"
+                   },
+                   {
+                       "layer":  12,
+                       "verified":  "shard::12::relay-audit",
+                       "poison":  "shard::12::dkim-audit"
+                   },
+                   {
+                       "layer":  13,
+                       "verified":  "shard::13::glyph-sever",
+                       "poison":  "shard::13::glyph-merge"
+                   },
+                   {
+                       "layer":  14,
+                       "verified":  "shard::14::stream-rivet",
+                       "poison":  "shard::14::bar-rivet"
+                   },
+                   {
+                       "layer":  15,
+                       "verified":  "shard::15::mask-cinder",
+                       "poison":  "shard::15::bright-cinder"
+                   },
+                   {
+                       "layer":  16,
+                       "verified":  "shard::16::route-fault",
+                       "poison":  "shard::16::route-smile"
+                   },
+                   {
+                       "layer":  17,
+                       "verified":  "shard::17::mirror-branch",
+                       "poison":  "shard::17::verbose-branch"
+                   },
+                   {
+                       "layer":  18,
+                       "verified":  "shard::18::cache-prism",
+                       "poison":  "shard::18::warning-prism"
+                   },
+                   {
+                       "layer":  19,
+                       "verified":  "shard::19::profile-needle",
+                       "poison":  "shard::19::leader-needle"
+                   },
+                   {
+                       "layer":  20,
+                       "verified":  "shard::20::oracle-shell",
+                       "poison":  "shard::20::future-shell"
+                   },
+                   {
+                       "layer":  21,
+                       "verified":  "shard::21::fault-modulus",
+                       "poison":  "shard::21::brute-modulus"
+                   },
+                   {
+                       "layer":  22,
+                       "verified":  "shard::22::chain-iron",
+                       "poison":  "shard::22::smooth-iron"
+                   },
+                   {
+                       "layer":  23,
+                       "verified":  "shard::23::prefix-ash",
+                       "poison":  "shard::23::prefix-calm"
+                   },
+                   {
+                       "layer":  24,
+                       "verified":  "shard::24::oracle-hollow",
+                       "poison":  "shard::24::private-hollow"
+                   },
+                   {
+                       "layer":  25,
+                       "verified":  "shard::25::custody-mark",
+                       "poison":  "shard::25::volume-mark"
+                   },
+                   {
+                       "layer":  26,
+                       "verified":  "shard::26::sync-spine",
+                       "poison":  "shard::26::audio-spine"
+                   },
+                   {
+                       "layer":  27,
+                       "verified":  "shard::27::seed-choir",
+                       "poison":  "shard::27::full-choir"
+                   },
+                   {
+                       "layer":  28,
+                       "verified":  "shard::28::audit-bloom",
+                       "poison":  "shard::28::old-bloom"
+                   },
+                   {
+                       "layer":  29,
+                       "verified":  "shard::29::state-lens",
+                       "poison":  "shard::29::linear-lens"
+                   },
+                   {
+                       "layer":  30,
+                       "verified":  "shard::30::lineage-sigil",
+                       "poison":  "shard::30::symmetric-sigil"
+                   }
+               ]
+}

@@ -1,0 +1,11 @@
+{
+  "status": "original mismatch",
+  "execution": {
+    "phase": "continuation checks",
+    "returncode": 0,
+    "observed_flags": [],
+    "elapsed_seconds": 7.04
+  },
+  "archive_note": "source/checker mismatch: accepted input reaches success branch but output differs from the author flag",
+  "event_answer_file": null
+}

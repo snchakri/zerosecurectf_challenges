@@ -1,0 +1,2 @@
+zerosecure{pyjail_subclasses_builtin_traversal_78ac}
+zerosecurectf{pyjail_subclasses_builtin_traversal_78ac}

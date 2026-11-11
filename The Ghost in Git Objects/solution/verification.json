@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecure{git_dangling_blob_unreachable_commit_91ad}"
+    ],
+    "elapsed_seconds": 0.07
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

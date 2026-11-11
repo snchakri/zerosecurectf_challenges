@@ -1,0 +1,16 @@
+{
+  "name": "ctf-starkid",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "gen-keys": "node scripts/generate-keys.js"
+  },
+  "dependencies": {
+    "next": "^14.2.0",
+    "jsonwebtoken": "^9.0.0",
+    "jws": "^3.2.2"
+  }
+}

@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  app:
+    build: ./app
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+    networks:
+      - ctf_net
+
+  bot:
+    build: ./bot
+    environment:
+      - APP_URL=http://app:3000
+    depends_on:
+      - app
+    networks:
+      - ctf_net
+    # Bot might need privileged mode or special capabilities depending on chrome sandbox
+    cap_add:
+      - SYS_ADMIN
+
+networks:
+  ctf_net:

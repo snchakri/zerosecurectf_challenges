@@ -1,0 +1,2 @@
+Hint 1:
+This is not Base64. The alphabet size is much larger and symbols look unusual.

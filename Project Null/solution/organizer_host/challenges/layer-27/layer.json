@@ -1,0 +1,20 @@
+{
+  "layer": 27,
+  "id": "layer-27",
+  "title": "Assigned Before Named",
+  "act": 5,
+  "timer_seconds": 210,
+  "public_asset": "symbol_manifest.txt",
+  "canonical_key": "five_symbols_make_the_seed",
+  "canonical_aliases": [
+    "five_symbols_make_the_seed",
+    "five-symbols-make-the-seed"
+  ],
+  "false_positive_key": "every_symbol_belongs",
+  "false_positive_aliases": [
+    "every_symbol_belongs",
+    "every-symbol-belongs"
+  ],
+  "verified_fragment": "shard::27::seed-choir",
+  "poison_fragment": "shard::27::full-choir"
+}

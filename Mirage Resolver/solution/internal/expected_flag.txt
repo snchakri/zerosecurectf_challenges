@@ -1,0 +1,1 @@
+ZeroSecure_CTF{mirage_resolver_a_record_whisper_1337}

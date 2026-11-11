@@ -1,0 +1,2 @@
+Hint 1:
+The characters in the payload match a very common text-based encoding used in CTF crypto warmups.

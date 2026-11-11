@@ -1,0 +1,2 @@
+zerosecure{signal_handler_trap_redirection_55ef}
+zerosecurectf{signal_handler_trap_redirection_55ef}

@@ -1,0 +1,6 @@
+{
+  "generated_at": "2026-04-17T19:00:58.118495+00:00",
+  "requires_all_verified_layers": 30,
+  "reject_if_any_poison_fragment": true,
+  "final_flag": "zerosec{verify_the_quiet_structure_reject_the_loud_signal}"
+}

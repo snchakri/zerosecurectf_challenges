@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecure{dns_axfr_zone_file_loc_and_txt_88ef}"
+    ],
+    "elapsed_seconds": 0.04
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

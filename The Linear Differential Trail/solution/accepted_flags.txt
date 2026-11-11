@@ -1,0 +1,2 @@
+zerosecure{differential_cryptanalysis_feal4_88ac}
+zerosecurectf{differential_cryptanalysis_feal4_88ac}

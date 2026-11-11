@@ -1,0 +1,14 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "continuation checks",
+    "returncode": 0,
+    "observed_flags": [
+      "GUEJ{vqf_aifqae_fev_pnwnv_fqasngwgm}",
+      "FLAG{the_record_was_never_corrected}"
+    ],
+    "elapsed_seconds": 0.05
+  },
+  "archive_note": "archived reference; not rerun",
+  "event_answer_file": null
+}

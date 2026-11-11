@@ -1,0 +1,55 @@
+{
+  "model_type": "debug-small",
+  "version": "0.3.4",
+  "added_tokens": [
+    {
+      "id": 50031,
+      "content": "<dbg_WmVyb1NlY3>",
+      "special": true
+    },
+    {
+      "id": 50009,
+      "content": "<dbg_VyZUNURnt0>",
+      "special": true
+    },
+    {
+      "id": 50044,
+      "content": "<dbg_b2tlbml6ZX>",
+      "special": true
+    },
+    {
+      "id": 50012,
+      "content": "<dbg_JzX3JlbWVt>",
+      "special": true
+    },
+    {
+      "id": 50027,
+      "content": "<dbg_YmVyX2RlYn>",
+      "special": true
+    },
+    {
+      "id": 50066,
+      "content": "<dbg_VnX2FydGlm>",
+      "special": true
+    },
+    {
+      "id": 50018,
+      "content": "<dbg_YWN0c30>",
+      "special": true
+    },
+    {
+      "id": 50100,
+      "content": "<tool_call_start>",
+      "special": true
+    },
+    {
+      "id": 50101,
+      "content": "<tool_call_end>",
+      "special": true
+    }
+  ],
+  "special_tokens_map": {
+    "bos_token": "<s>",
+    "eos_token": "</s>"
+  }
+}

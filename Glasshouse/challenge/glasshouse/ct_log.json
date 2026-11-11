@@ -1,0 +1,48 @@
+{
+  "_note": "Synthetic certificate-transparency style export. Offline. Fictional CA/domains.",
+  "query": "%.drift-lantern.example",
+  "generated_utc": "2020-06-27T00:00:00Z",
+  "entries": [
+    {
+      "serial_hex": "cbb3f59a20824f181a70",
+      "common_name": "www.drift-lantern.example",
+      "sans": [
+        "www.drift-lantern.example",
+        "drift-lantern.example"
+      ],
+      "issuer": "ZS Test Root CA",
+      "not_before": "2020-01-01",
+      "not_after": "2021-01-01"
+    },
+    {
+      "serial_hex": "97d61ccf3f2f510432f5",
+      "common_name": "drift_lantern.drift-lantern.example",
+      "sans": [
+        "drift_lantern.drift-lantern.example"
+      ],
+      "issuer": "ZS Test Root CA",
+      "not_before": "2020-03-01",
+      "not_after": "2021-03-01"
+    },
+    {
+      "serial_hex": "e783963016102ef21c42",
+      "common_name": "drift_lantern-official.drift-lantern.example",
+      "sans": [
+        "drift_lantern-official.drift-lantern.example"
+      ],
+      "issuer": "Lookalike Trust Services",
+      "not_before": "2020-07-01",
+      "not_after": "2021-07-01"
+    },
+    {
+      "serial_hex": "cfc46cf70ca926ab17b3",
+      "common_name": "mail.drift-lantern.example",
+      "sans": [
+        "mail.drift-lantern.example"
+      ],
+      "issuer": "ZS Test Root CA",
+      "not_before": "2020-02-01",
+      "not_after": "2021-02-01"
+    }
+  ]
+}

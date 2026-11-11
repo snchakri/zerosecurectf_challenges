@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "continuation checks",
+    "returncode": 0,
+    "observed_flags": [
+      "flag{static_is_just_a_keystream_waiting_to_be_read}"
+    ],
+    "elapsed_seconds": 0.04
+  },
+  "archive_note": "archived reference; not rerun",
+  "event_answer_file": null
+}

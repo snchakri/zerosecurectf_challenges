@@ -1,0 +1,5 @@
+[2026-04-16 07:59:18] device /Volumes/TEAMSHARE mounted by reception
+[2026-04-16 08:00:01] copied /srv/forms/frontdesk_checklist.txt -> /Volumes/TEAMSHARE/frontdesk_checklist.txt
+[2026-04-16 08:05:42] device /Volumes/IRONKEY mounted by nightshift
+[2026-04-16 08:06:03] copied /srv/shared/badge_roster.csv -> /Volumes/IRONKEY/badge_roster.csv
+[2026-04-16 08:06:21] copied /srv/shared/lobby_music.m3u -> /Volumes/IRONKEY/lobby_music.m3u

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alexandria Mausoleum of the Dead</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Alexandria Mausoleum of the Dead</h1>
+        <p>The ancient archives pulse with sealed memories. Five sigils guard the Sanctum.</p>
+        
+        <h2>The Oracle</h2>
+        <form id="oracleForm">
+            <textarea id="xmlInput" rows="5" placeholder="<root>Feed the oracle XML...</root>"></textarea>
+            <button type="button" onclick="queryOracle()">Consult Oracle</button>
+        </form>
+        <pre id="oracleOutput"></pre>
+        
+        <h2>The Scriptorium Exporter</h2>
+        <a href="/legacy/scriptorium/export?path=scrolls/intro.txt" class="export-link">Export Sample Scroll</a>
+
+        <h2>The Mirror Room</h2>
+        <form id="mirrorForm">
+            <textarea id="htmlInput" rows="5" placeholder="<b>Leave a mark for the Curator...</b>"></textarea>
+            <button type="button" onclick="submitMirror()">Submit to Mirror</button>
+        </form>
+        <div id="mirrorOutput"></div>
+    </div>
+
+    <script>
+        async function queryOracle() {
+            const data = document.getElementById('xmlInput').value;
+            const output = document.getElementById('oracleOutput');
+            try {
+                const response = await fetch('/legacy/oracle/preview', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({ xml: data })
+                });
+                output.innerText = await response.text();
+            } catch(e) {
+                output.innerText = "Oracle Error.";
+            }
+        }
+
+        async function submitMirror() {
+            const data = document.getElementById('htmlInput').value;
+            const output = document.getElementById('mirrorOutput');
+            try {
+                const response = await fetch('/legacy/mirror/submissions', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({ html: data })
+                });
+                const resData = await response.json();
+                output.innerHTML = `Submission successful. <a href="/legacy/mirror/submissions/${resData.id}">View ID ${resData.id}</a>`;
+            } catch(e) {
+                output.innerText = "Mirror Error.";
+            }
+        }
+    </script>
+</body>
+</html>

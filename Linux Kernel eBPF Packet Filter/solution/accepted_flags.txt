@@ -1,0 +1,2 @@
+zerosecure{ebpf_xdp_packet_inspector_bpf_filter_49de}
+zerosecurectf{ebpf_xdp_packet_inspector_bpf_filter_49de}

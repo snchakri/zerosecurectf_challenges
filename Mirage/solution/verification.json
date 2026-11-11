@@ -1,0 +1,15 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zer0securectf{env_promoted_48df0198}",
+      "zerosecurectf{BUILD_ARTIFACT_C18663A1}",
+      "zerosecurectf{deploy-token-b025fcef}"
+    ],
+    "elapsed_seconds": 0.31
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

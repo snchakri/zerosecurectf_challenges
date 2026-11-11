@@ -1,0 +1,20 @@
+{
+  "layer": 24,
+  "id": "layer-24",
+  "title": "Ciphertext Courtesy",
+  "act": 4,
+  "timer_seconds": 210,
+  "public_asset": "recovery_channel.txt",
+  "canonical_key": "recovery_channel_is_the_oracle",
+  "canonical_aliases": [
+    "recovery_channel_is_the_oracle",
+    "recovery-channel-is-the-oracle"
+  ],
+  "false_positive_key": "ciphertext_is_private",
+  "false_positive_aliases": [
+    "ciphertext_is_private",
+    "ciphertext-is-private"
+  ],
+  "verified_fragment": "shard::24::oracle-hollow",
+  "poison_fragment": "shard::24::private-hollow"
+}

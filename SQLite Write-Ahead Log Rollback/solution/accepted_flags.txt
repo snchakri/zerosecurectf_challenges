@@ -1,0 +1,2 @@
+zerosecure{sqlite_wal_rollback_frame_recovered_29cd}
+zerosecurectf{sqlite_wal_rollback_frame_recovered_29cd}

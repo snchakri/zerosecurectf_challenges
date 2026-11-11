@@ -1,0 +1,20 @@
+{
+  "layer": 9,
+  "id": "layer-09",
+  "title": "The Path Hidden in Coordinates",
+  "act": 2,
+  "timer_seconds": 180,
+  "public_asset": "coordinate_sprite.csv",
+  "canonical_key": "coordinates_draw_the_route",
+  "canonical_aliases": [
+    "coordinates_draw_the_route",
+    "coordinates-draw-the-route"
+  ],
+  "false_positive_key": "pixels_form_the_lie",
+  "false_positive_aliases": [
+    "pixels_form_the_lie",
+    "pixels-form-the-lie"
+  ],
+  "verified_fragment": "shard::09::route-vellum",
+  "poison_fragment": "shard::09::pixel-vellum"
+}

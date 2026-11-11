@@ -1,0 +1,24 @@
+{
+  "record_id": 1042,
+  "filename": "quarterly_budget.xlsx",
+  "streams": [
+    {
+      "type": "$DATA",
+      "name": "",
+      "size": 45000,
+      "content": "Standard spreadsheet payload..."
+    },
+    {
+      "type": "$DATA",
+      "name": "Zone.Identifier",
+      "size": 68,
+      "content": "[ZoneTransfer]\nZoneId=3\n"
+    },
+    {
+      "type": "$DATA",
+      "name": "payload.dat",
+      "size": 51,
+      "content": "zerosecure{ntfs_alternate_data_stream_zone_4210}"
+    }
+  ]
+}

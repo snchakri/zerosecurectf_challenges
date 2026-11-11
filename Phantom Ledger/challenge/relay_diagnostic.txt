@@ -1,0 +1,41 @@
+RELAY-03 DIAGNOSTIC LOG -- FRAGMENT
+recovered from: relay-03, pre-production test
+date: 2024-02-15 01:58 - 02:01 UTC  |  2024-03-20 01:58 - 02:01 UTC
+source: /var/log/phantom-relay/diag.log (partial, two sessions)
+------------------------------------------------------------
+
+--- SESSION 1: 2024-02-15 (connectivity test) ---
+
+[01:58:02] RELAY-03 boot sequence initiated
+[01:58:03] HSM slot 0: key provisioned, session bound
+[01:58:03] nonce counter: reset to 0
+[01:58:03] DEPLOY_EPOCH set: 1707955200
+[01:59:55] relay service listening on port 9441
+
+[02:00:01] inbound: AGENT=GHOST, pkg=1
+[02:00:01] MSG DECRYPTED (pre-encryption buffer):
+           b"PHANTOM-LEDGER // GHOST // 2024-02-15 // [STATUS-LINE] // [NOTES] // --G"
+[02:00:01] chain-of-custody check: coc_key=16 (derived: digit_sum(2024-02-15))
+[02:00:01] encrypted, dispatched
+
+--- SESSION 2: 2024-03-20 (production, first night on new instance) ---
+
+[01:58:09] RELAY-03 boot sequence initiated
+[01:58:10] HSM slot 0: key provisioned, session bound
+[01:58:10] nonce counter: reset to 0
+[01:59:47] relay service listening on port 9441
+
+[02:00:03] inbound: AGENT=GHOST, pkg=1
+[02:00:03] MSG DECRYPTED (pre-encryption buffer):
+           b"PHANTOM-LEDGER // GHOST // 2024-03-20 // Nothing to report. Swept the floor, all green. Watchdogs quiet. No positions flagged. Encrypted comms nominal. Running final integrity check. Signing off clean. --G"
+[02:00:03] chain-of-custody check: coc_key=? (derived: digit_sum(2024-03-20))
+[02:00:03] encrypted, dispatched
+
+------------------------------------------------------------
+NOTE: pre-encryption content visible only during diagnostic
+      mode. Session 1 was a controlled connectivity test.
+      Session 2 log fragment recovered from relay-03 backup.
+      Diagnostic mode disabled in production builds.
+      chain-of-custody keys are single-byte session identifiers
+      derived from the transmission date per relay spec v2.1.
+------------------------------------------------------------

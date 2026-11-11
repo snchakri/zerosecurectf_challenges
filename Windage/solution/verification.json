@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecurectf{windage_3c40635a7357}"
+    ],
+    "elapsed_seconds": 13.96
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

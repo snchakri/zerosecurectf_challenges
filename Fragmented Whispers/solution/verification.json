@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "continuation checks",
+    "returncode": 0,
+    "observed_flags": [
+      "ZeroSecure_CTF{ip_fragment_whispers_overlap_1337}"
+    ],
+    "elapsed_seconds": 0.7
+  },
+  "archive_note": "archived reference; not rerun",
+  "event_answer_file": null
+}

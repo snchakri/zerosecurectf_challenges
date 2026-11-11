@@ -1,0 +1,2 @@
+zerosecure{brainfuck_jit_peephole_optimizer_90ff}
+zerosecurectf{brainfuck_jit_peephole_optimizer_90ff}

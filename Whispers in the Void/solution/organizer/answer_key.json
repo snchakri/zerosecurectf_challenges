@@ -1,0 +1,13 @@
+{
+  "true_flag": "zerosecurectf{the_real_deadend}",
+  "key_hex": "95e5cd93519a9f36c92aeec1981375d0f7b46df70772182c77541d43d0de46b5",
+  "iv_hex": "b34955ac36c46f455aec930b1a553160",
+  "payload_size": 48,
+  "png_bytes": 396,
+  "covert_packets": 3168,
+  "timing_base_us": 9000,
+  "timing_quantum_us": 1400,
+  "timing_jitter_us": 120,
+  "total_packets_target": 3600,
+  "covert_packets_target": 3200
+}

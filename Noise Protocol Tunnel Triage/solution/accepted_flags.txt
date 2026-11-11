@@ -1,0 +1,2 @@
+zerosecure{wireguard_preshared_key_tunnel_09ab}
+zerosecurectf{wireguard_preshared_key_tunnel_09ab}

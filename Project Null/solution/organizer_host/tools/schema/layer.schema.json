@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://zerosec.local/schema/layer.schema.json",
+  "title": "Project Null Layer",
+  "type": "object",
+  "required": [
+    "layer",
+    "id",
+    "title",
+    "act",
+    "timer_seconds",
+    "public_asset",
+    "canonical_key",
+    "canonical_aliases",
+    "false_positive_key",
+    "false_positive_aliases",
+    "verified_fragment",
+    "poison_fragment"
+  ],
+  "properties": {
+    "layer": { "type": "integer", "minimum": 1, "maximum": 30 },
+    "id": { "type": "string", "pattern": "^layer-[0-9]{2}$" },
+    "title": { "type": "string", "minLength": 3 },
+    "act": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "timer_seconds": { "type": "integer", "enum": [180, 195, 210, 240] },
+    "public_asset": { "type": "string", "minLength": 3 },
+    "canonical_key": { "type": "string", "minLength": 3 },
+    "canonical_aliases": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "minLength": 3 }
+    },
+    "false_positive_key": { "type": "string", "minLength": 3 },
+    "false_positive_aliases": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "minLength": 3 }
+    },
+    "verified_fragment": { "type": "string", "pattern": "^shard::[0-9]{2}::[a-z0-9-]+$" },
+    "poison_fragment": { "type": "string", "pattern": "^shard::[0-9]{2}::[a-z0-9-]+$" }
+  },
+  "additionalProperties": true
+}

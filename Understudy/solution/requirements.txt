@@ -1,0 +1,7 @@
+# Serving dependency for Understudy. Pinned so that a given ZSCTF_SEED derives the
+# SAME model (background weights, secret boundary h/theta, foothold x0) on every
+# host. numpy's default_rng (PCG64) is a version-stable bit stream, but we pin the
+# version to remove any doubt about per-seed reproducibility.
+# The live service needs ONLY numpy (pure numpy + stdlib linear model). scipy is
+# not required by the server or the reference solver.
+numpy==2.4.2

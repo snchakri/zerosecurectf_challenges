@@ -1,0 +1,2 @@
+Hint 2:
+Keep only alphabetic characters, preserve order, and convert case into two symbols. Group into chunks of 5.

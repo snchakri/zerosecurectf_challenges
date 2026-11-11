@@ -1,0 +1,15 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zer0securectf{rsa_modulus_factored_036e41bf}",
+      "zerosecurectf{NONCE_REUSE_RECOVERED_FF56E727}",
+      "zerosecurectf{partial-key-completed-6d664098}"
+    ],
+    "elapsed_seconds": 0.79
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

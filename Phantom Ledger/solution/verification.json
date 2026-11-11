@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "continuation checks",
+    "returncode": 0,
+    "observed_flags": [
+      "FLAG{wh3n_th3_n0nc3_n3v3r_ch4ng3s_th3_s3cr3t_sl1ps}"
+    ],
+    "elapsed_seconds": 0.04
+  },
+  "archive_note": "archived reference; not rerun",
+  "event_answer_file": null
+}

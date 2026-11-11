@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecurectf{portcullis_1b0e4e6d4be4}"
+    ],
+    "elapsed_seconds": 0.61
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

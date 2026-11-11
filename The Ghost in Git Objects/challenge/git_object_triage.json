@@ -1,0 +1,6 @@
+{
+  "dangling_commit": "e83910f812391203810293810293810293810293",
+  "tree": "a918237192837192837192837192837192837192",
+  "message": "revert accidental secret commit",
+  "diff": "- API_SECRET_KEY=zerosecure{git_dangling_blob_unreachable_commit_91ad}\n+ API_SECRET_KEY=REDACTED_BEFORE_PUSH\n"
+}

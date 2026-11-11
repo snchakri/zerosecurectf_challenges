@@ -1,0 +1,2 @@
+zerosecure{regex_crossword_satisfying_assignment_41bc}
+zerosecurectf{regex_crossword_satisfying_assignment_41bc}

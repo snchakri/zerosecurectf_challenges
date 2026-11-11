@@ -1,0 +1,20 @@
+{
+  "layer": 30,
+  "id": "layer-30",
+  "title": "Initiation Never Ends",
+  "act": 5,
+  "timer_seconds": 240,
+  "public_asset": "lineage_board.txt",
+  "canonical_key": "lineage_orders_the_final",
+  "canonical_aliases": [
+    "lineage_orders_the_final",
+    "lineage-orders-the-final"
+  ],
+  "false_positive_key": "mathematics_crowns_the_voice",
+  "false_positive_aliases": [
+    "mathematics_crowns_the_voice",
+    "mathematics-crowns-the-voice"
+  ],
+  "verified_fragment": "shard::30::lineage-sigil",
+  "poison_fragment": "shard::30::symmetric-sigil"
+}

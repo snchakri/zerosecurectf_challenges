@@ -1,0 +1,1 @@
+zerosecurectf{icmp_exfiltration_is_fun}

@@ -1,0 +1,2 @@
+Hint 3:
+Use uppercase = A and lowercase = B for Baconian decoding. If decoded text contains X between words, convert X to _ in the final flag.

@@ -1,0 +1,20 @@
+{
+  "layer": 8,
+  "id": "layer-08",
+  "title": "Offset Loyalty",
+  "act": 2,
+  "timer_seconds": 180,
+  "public_asset": "byte_order.hex",
+  "canonical_key": "little_endian_stays_loyal",
+  "canonical_aliases": [
+    "little_endian_stays_loyal",
+    "little-endian-stays-loyal"
+  ],
+  "false_positive_key": "big_endian_is_cleaner",
+  "false_positive_aliases": [
+    "big_endian_is_cleaner",
+    "big-endian-is-cleaner"
+  ],
+  "verified_fragment": "shard::08::sable-offset",
+  "poison_fragment": "shard::08::clean-offset"
+}

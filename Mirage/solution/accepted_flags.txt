@@ -1,0 +1,4 @@
+zerosecurectf{doombot_mirage_9a6c27ce6c96}
+zer0securectf{env_promoted_48df0198}
+zerosecurectf{BUILD_ARTIFACT_C18663A1}
+zerosecurectf{deploy-token-b025fcef}

@@ -1,0 +1,2 @@
+zerosecure{merkle_hellman_superincreasing_lattice_10f2}
+zerosecurectf{merkle_hellman_superincreasing_lattice_10f2}

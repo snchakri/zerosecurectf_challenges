@@ -1,0 +1,2 @@
+zerosecure{ntfs_alternate_data_stream_zone_4210}
+zerosecurectf{ntfs_alternate_data_stream_zone_4210}

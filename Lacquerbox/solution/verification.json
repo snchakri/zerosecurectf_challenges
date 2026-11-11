@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecurectf{lacquerbox_a41cf329aa29}"
+    ],
+    "elapsed_seconds": 0.05
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

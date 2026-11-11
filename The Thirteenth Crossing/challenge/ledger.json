@@ -1,0 +1,2071 @@
+{
+  "crossings": 413,
+  "note": "413 crossings; 412 faces. The entry with no face is the ghost; its residual unseals with the Static's flag (B1).",
+  "entries": [
+    {
+      "name": "Kristoff Sandor",
+      "crossing": 251831,
+      "residual": "d6811f280a0336de92a499fa1aa82ff9bf434b7e9adcaeedf2d88b5b0dc9cc231de58769"
+    },
+    {
+      "name": "Sasha Stan",
+      "crossing": 837017,
+      "residual": "e19d20bb1a96341378642e30348b84d6012ae06b5d517ba84eb19e7ed68f44c2231bace0"
+    },
+    {
+      "name": "Stephen Ostrov",
+      "crossing": 219506,
+      "residual": "6dfd470c4ab83452e0c182b997b3f732eac7758f0a974db486ce73f84217d1a80b73e2b6"
+    },
+    {
+      "name": "Mira Kerras",
+      "crossing": 575177,
+      "residual": "470c28eaff90d04998b58170cab06d764ab10b0e4d9114630097dec0a07c03b2c1ae2d30"
+    },
+    {
+      "name": "Reed Lang",
+      "crossing": 522754,
+      "residual": "380577f6bffbe9083580e0f478c55d3ed35bb0c674513d93fa9e38b4b018c0efa5182975"
+    },
+    {
+      "name": "Yelena Varga",
+      "crossing": 541238,
+      "residual": "0159639a7c4155ba8c576d234faa847ad3d5a5bcb0e5c1213a854682c7f344a350c25772"
+    },
+    {
+      "name": "Orlek Radu",
+      "crossing": 433282,
+      "residual": "445263b5693de7bbea4e52d0cf6f9e32bb9afe1a99f0a439bf2f3e9e83fe0f8415bc04d1"
+    },
+    {
+      "name": "Wanda Antonescu",
+      "crossing": 812680,
+      "residual": "c10465bfec66d9e55ca91d74b90552a49d73e0c272deba2927e912ce70df29e3eaac8539"
+    },
+    {
+      "name": "Dragan Toth",
+      "crossing": 295458,
+      "residual": "23b965566cd7f954b58dfcce77f8a735e1428a62e83217ea7c6ccf7f0703a6bf0c8a7421"
+    },
+    {
+      "name": "Dalia Balan",
+      "crossing": 609808,
+      "residual": "6dede6c41a57701c6b786689098ee7f10ba448d91def4f3ae1261b029ab807de3bff5baa"
+    },
+    {
+      "name": "Kristoff Ostrov",
+      "crossing": 683236,
+      "residual": "5301aeab074e785d8196fc43c9671f126026b06e2d72b9636105535c659f02a5f5bb256f"
+    },
+    {
+      "name": "Kristoff Antonescu",
+      "crossing": 925845,
+      "residual": "94063e33a7f5f04280e484ecbe780193ea93da7afbd306d798d7cf7f391d2ceaa21c99d1"
+    },
+    {
+      "name": "Dragan Antonescu",
+      "crossing": 817580,
+      "residual": "e1a0828e293c7e7a2278b2a57c43e4c272e6c90f914cd322f24da40ee5644429c266ace4"
+    },
+    {
+      "name": "Victor Barbu",
+      "crossing": 180267,
+      "residual": "2516fdfb012f37fd2d0ed56cf88ecd301e4348d449ce854535687fdbba0a5f77d72657b0"
+    },
+    {
+      "name": "Emil Rusu",
+      "crossing": 557479,
+      "residual": "58cf3a6941df112b36f98c73e10626a0e1824a7718d27904777051e4db4faf87ab6ab8a5"
+    },
+    {
+      "name": "Petra Ilic",
+      "crossing": 181646,
+      "residual": "da7547e328a888c34307f2f5aec4e66822b080012ea924e02243772d19418a270415d166"
+    },
+    {
+      "name": "Ivo Balan",
+      "crossing": 910485,
+      "residual": "803637712fdc04f3fb782c83a2f28fa87b811511776501f34a1f3dedff7fbb9bce982b0e"
+    },
+    {
+      "name": "Yelena Lukic",
+      "crossing": 767150,
+      "residual": "0204ee6e2c3c2daa99c0c0e7373e8b6852a400034c6e28ec182b5b5a42929b818f9843fb"
+    },
+    {
+      "name": "Petra Rusu",
+      "crossing": 403477,
+      "residual": "2fd9c9021a1f67c9384724cf99cf89b4dfe6b9f63c35b8fa55e9e3c74232572c538c89c9"
+    },
+    {
+      "name": "Bogdan Radu",
+      "crossing": 634089,
+      "residual": "4edc5ee75ec178ea7bec332ae2922c22a68fbcb6bf6ada8441e87d50bb0b802a9308beb9"
+    },
+    {
+      "name": "Tomas Rusu",
+      "crossing": 284389,
+      "residual": "4e88f31eedbd374df2b9134b3fa7927d8ed060f390f2413b347670aea0bf4c0065516383"
+    },
+    {
+      "name": "Victor Kerras",
+      "crossing": 251490,
+      "residual": "d92689a53a1e8530210e9d6985b779c4f11e6fe26b697c89cfabebaeceba1fc05fe313bf"
+    },
+    {
+      "name": "Ivo Novak",
+      "crossing": 503324,
+      "residual": "cfc9feb518228566fb1b587f66708a61ae7f154c311c019bfbac073d9f571d890815fc68"
+    },
+    {
+      "name": "Ana Voss",
+      "crossing": 560701,
+      "residual": "c0ed3621cfe5cf2920c8950e8dfe6883f807eef1fd07e5df99b845ff8f79839e6a224818"
+    },
+    {
+      "name": "Goran Novac",
+      "crossing": 916637,
+      "residual": "56a18cfdc2cbb5a39f9c98cb3cfe35098402921f2784ceeb61f6bd502b528131a3d74993"
+    },
+    {
+      "name": "Nadia Varga",
+      "crossing": 855858,
+      "residual": "eaa8a9bfb54d55ca6780bd1fe4a71e4da3e882bb7a5ef8fb496f118d2976a59f47d6e351"
+    },
+    {
+      "name": "Vesna Craciun",
+      "crossing": 829672,
+      "residual": "8e94fdf9049c003e21dcb37cbcc1f87e6e66a7f3cf04738f7f67541b780efc0952bd104e"
+    },
+    {
+      "name": "Goran Balan",
+      "crossing": 113308,
+      "residual": "3e5f13aabe0ba87d567a53e931990b6b3f3d6a1eff1d97762abed6fbd796f3dc23cb9ad5"
+    },
+    {
+      "name": "Ivo Moldovan",
+      "crossing": 975449,
+      "residual": "659e9a57f9fd6ded98a2ab6b09c5e0038cfc6759a9a9c92c6ec97a66b9a8f13563782252"
+    },
+    {
+      "name": "Ana Petrov",
+      "crossing": 328137,
+      "residual": "681aba90fb684ea9527c68815892dc22efabc7a15b0ab0c93175d65ce799c4196aba4957"
+    },
+    {
+      "name": "Ruta Vural",
+      "crossing": 629607,
+      "residual": "b81fbb479c7a4bfe17d40d3d87eb0606e99510739b9162993ba6532264142861dc4d3a9b"
+    },
+    {
+      "name": "Nadia Radu",
+      "crossing": 627079,
+      "residual": "b6daa7841e8da1020e4ba2465dde1c7756ec7eb52af7e609cfdd01fcb6520f159f1dcd80"
+    },
+    {
+      "name": "Maren Dumitru",
+      "crossing": 590388,
+      "residual": "b74d82c9054d954d3af13d55c81e0047db90aaaa7e7f05ca96ea193403404563f6ae225e"
+    },
+    {
+      "name": "Goran Lang",
+      "crossing": 364541,
+      "residual": "a26d662795fb30d04111a63c3524831accf042e6198a2342206de468ba809ebde655e50a"
+    },
+    {
+      "name": "Elke Balan",
+      "crossing": 691612,
+      "residual": "4e68356582cc409e826f5dbf26f83ca0ec75707a9b61d0eb04011bcc233bbcdf494a9bd1"
+    },
+    {
+      "name": "Dalia Rusu",
+      "crossing": 375979,
+      "residual": "f89136f020ce637b9723c7bab6232d9874fc111044c91386ee7a571d58961a43ffadf34a"
+    },
+    {
+      "name": "Petra Maximoff",
+      "crossing": 874745,
+      "residual": "2fd02c8a639dc606a30496559c94df635d257b6bcff640170010077f0d1b4df970a2601d"
+    },
+    {
+      "name": "Nadia Vural",
+      "crossing": 293562,
+      "residual": "2a1e67352015cd5cf8639bac26e054923f0c2e58f47dc157f87a2dadd7ee23f4035fbeda"
+    },
+    {
+      "name": "Maren Sandor",
+      "crossing": 418466,
+      "residual": "4d9d72b22492a77161a56a23affca27cc84678667e52af9b3fb5eacb29100c2aa87ce383"
+    },
+    {
+      "name": "Ivo Ilic",
+      "crossing": 805127,
+      "residual": "deaf50588997e9a8b31c639d4ac62c94872a829a45b130c6ebfc2b3418304aecb0abf570"
+    },
+    {
+      "name": "Vesna Barbu",
+      "crossing": 420771,
+      "residual": "2dc49cf62219868b00257fa5fd5ad82e245bc8ee8bf186ecfe1ac249f46a8624315ddd19"
+    },
+    {
+      "name": "Kristoff Barbu",
+      "crossing": 195642,
+      "residual": "c5c60528c887ffb271b9d7df471a5a6373f2866bee2de0effc99e09fa72f1cc6e65d1fd3"
+    },
+    {
+      "name": "Goran Petrov",
+      "crossing": 101478,
+      "residual": "a6a4a8c0ce7602be90427e5bac5e9996f3ffc3bcb7ede12837a4c0e80957a31c7c150b40"
+    },
+    {
+      "name": "Ruta Richards",
+      "crossing": 422671,
+      "residual": "9bcdc866f5584efd249baec4eadc30259960e39f97c635fa0c1db8ca7d4333fb50423c02"
+    },
+    {
+      "name": "Pavel Strange",
+      "crossing": 475071,
+      "residual": "d623208ede486c4d696f80825b7966b007e5fed3dfa59f94f65f1698ddd7f8d487cb8f3b"
+    },
+    {
+      "name": "Ivo Horvat",
+      "crossing": 182544,
+      "residual": "6e785ea150dd60eda57ec6b8ad0d89fc3e6d29369142ae13094443aace37b8b846337c99"
+    },
+    {
+      "name": "Vesna Rusu",
+      "crossing": 462251,
+      "residual": "158ed712599676cf98914559a360b15c87e8ed25b8c64c766436f1b73deea42c7d66b41e"
+    },
+    {
+      "name": "Goran Ilic",
+      "crossing": 465221,
+      "residual": "944dcf8f906bccea45d48be33c2daf46663b7a5b6593f16b5b38275ecdfea918e0d57d25"
+    },
+    {
+      "name": "Sasha Novac",
+      "crossing": 393296,
+      "residual": "268c9017f0b7dedb3c8e4ea9890929ceef80fba6f79718b954d9b0c46196abc966a558c7"
+    },
+    {
+      "name": "Cynthia Dumitru",
+      "crossing": 794487,
+      "residual": "4b20e8b30f644bb76ac185fc9de0a93456d78a21371233d1f16a65a85b3c6989ad493a19"
+    },
+    {
+      "name": "Dragan Radu",
+      "crossing": 771081,
+      "residual": "2babb8cea77a54ea0bbc470e2d4d85dcc4d4619845465ead1b8cdda7b99cd73d0da180be"
+    },
+    {
+      "name": "Petra Novac",
+      "crossing": 832115,
+      "residual": "f64cb24674fabac9d090c1cbe57906738e5b12cd92bcb3af2d244eb502d925d4031e626a"
+    },
+    {
+      "name": "Nadia Strange",
+      "crossing": 164053,
+      "residual": "1aa66fbdd88b98ff0a1a11c2e29091ddd24680790d175719d7dd83e3fcd9187d0e087518"
+    },
+    {
+      "name": "Elke Novak",
+      "crossing": 399587,
+      "residual": "7ae8b5d54aa045b5b9e610f98ab4fbdbd8f2c3054cf00be39f1202778dfcab58d393a2f5"
+    },
+    {
+      "name": "Victor Novac",
+      "crossing": 193641,
+      "residual": "2e9807b6f0b0338045490064779c24f7917bce3af0f6ac15fcd8f6f0349f3b6cb45faada"
+    },
+    {
+      "name": "Mira Ostrov",
+      "crossing": 936747,
+      "residual": "063bd0d7167b1452aa370866a27a7786c7828475f780e52619fb7f024dcb49f69c3e470f"
+    },
+    {
+      "name": "Emil Petrov",
+      "crossing": 986212,
+      "residual": "2ff1ec9dcc0c28782a1f44561ff1fe8af78760c6ee92b2b645345ef4c364effa95e2a86b"
+    },
+    {
+      "name": "Vesna Toth",
+      "crossing": 184653,
+      "residual": "7b36f1816f00ccba99022e9530e5472222a1b4bbd61f9f4d2a6464df76f5dca46fcf857b"
+    },
+    {
+      "name": "Ivo Toth",
+      "crossing": 896002,
+      "residual": "8ed2f4809dc098b72c3768c1916e63c7c9a86786bd505bd626cd94a943fd3b7af342f50b"
+    },
+    {
+      "name": "Sasha Petrov",
+      "crossing": 661007,
+      "residual": "525ec7487b13002a9da3baf40486f894e88a2197b09655e449db5cc5dbfd9f7d72ae3f27"
+    },
+    {
+      "name": "Dalia Richards",
+      "crossing": 538312,
+      "residual": "c4e7613e09190c38fa496e1ed9939a6ff7d972d06bb7dce56cf445dc4c9b1ff399883c65"
+    },
+    {
+      "name": "Tomas Maximoff",
+      "crossing": 407188,
+      "residual": "e9b1b0c84cf75ddd15666211d2c05a98163959f99a8e559b85469e15e28625673b80afef"
+    },
+    {
+      "name": "Lena Kerras",
+      "crossing": 969233,
+      "residual": "b93aa2c1483071ecaee02ab82f81079d778022c33edcfdc8384bfd0ed786c2ee73e55a2e"
+    },
+    {
+      "name": "Lena Novac",
+      "crossing": 660075,
+      "residual": "197931f0e076723b7d0b318e6e6b6803cf34c44a374c573328d0209eba3c0b7d14bb5966"
+    },
+    {
+      "name": "Dragan Stan",
+      "crossing": 519681,
+      "residual": "9526513b9391ac0bb9964c3eaeed60a4e91b20cff1bef4dbc77d8dd6d8a16fa7967f801c"
+    },
+    {
+      "name": "Emil Horvat",
+      "crossing": 894730,
+      "residual": "7363fe413f03e3f34ae5589de55711e7510f689b3b826d5e915769f4e112f0fd54ca642f"
+    },
+    {
+      "name": "Orlek Antonescu",
+      "crossing": 212790,
+      "residual": "4c23e56aeb9b3cb23b588790674e204872192ae8ae29768f9234b92af3c0280ce01d827a"
+    },
+    {
+      "name": "Yelena Toth",
+      "crossing": 439160,
+      "residual": "b9d618ad6a4c2fbe67f38ed00afe1a1ce7ee0e392c2402e2a6277de0b713e2b57ccabb90"
+    },
+    {
+      "name": "Dragan Maximoff",
+      "crossing": 193988,
+      "residual": "c9a605fe00f93f951178313d6a1606029d1859b440cd01e60d020ccf77cff176e9a46977"
+    },
+    {
+      "name": "Dragan Dumitru",
+      "crossing": 672956,
+      "residual": "e5662a079cadb07ebd2784abc535c4b010145766431a36aeba7ed04fd0b6c887055c9ced"
+    },
+    {
+      "name": "Vesna Novac",
+      "crossing": 700278,
+      "residual": "8768fc36110cc06c8e0c8fa1158ded974316b3ee1e00bb6080a0c36afbe06d64ff121f0a"
+    },
+    {
+      "name": "Reed Novac",
+      "crossing": 775989,
+      "residual": "0f9c4997bf87a8e1698d7020294ad626c09e61cb25b41250220e76028aed773633975cbf"
+    },
+    {
+      "name": "Ruta Novak",
+      "crossing": 815117,
+      "residual": "78e28a6f44520a49d1a31c1bc5db380a3defc02b002d3a86c6536d00c49f69620888f237"
+    },
+    {
+      "name": "Kristoff Varga",
+      "crossing": 676203,
+      "residual": "499fbcb489b98f12b0d42de82c4b95e192017e1fa30fb8061c93def0f9d37c48125ed2b0"
+    },
+    {
+      "name": "Pavel Costa",
+      "crossing": 880351,
+      "residual": "e1a9bdbce6b8444e7a3d5eeb81e91ba1e33f15c82721698fcc6c08bf0ae3adb4108adfbf"
+    },
+    {
+      "name": "Maren Richards",
+      "crossing": 824492,
+      "residual": "0cc9f939cf5430715e238c263e3f11b129c0ae81e6982144021be67aebaf721abaab6ebb"
+    },
+    {
+      "name": "Bogdan Lukic",
+      "crossing": 408012,
+      "residual": "2cb6419b935adcd0581404a41a98b4e8cedae5f9a1e2215db41605567c319aca5ea3cc3c"
+    },
+    {
+      "name": "Elke Sandor",
+      "crossing": 467663,
+      "residual": "9c165fa5768dc6ada8269be0c59954ff70680a18238afee7ce987f0da037c23d2847821e"
+    },
+    {
+      "name": "Elke Vural",
+      "crossing": 288770,
+      "residual": "df2599992dd2a6d3aef9573e12c10d7a7a7055257307d290e1f3e761b2e7429a33605b62"
+    },
+    {
+      "name": "Nadia Costa",
+      "crossing": 375210,
+      "residual": "19118990f895cf665175eee4519b938f3c7239b38a0802cd0ccc277b8159648165910531"
+    },
+    {
+      "name": "Lena Stan",
+      "crossing": 371373,
+      "residual": "0159b80515953e9bbae49770b5f9a7c2056c6a0700bb63cd88dc361e6839a7ab99fb99cf"
+    },
+    {
+      "name": "Cynthia Radu",
+      "crossing": 668000,
+      "residual": "cd95863b1327395e4960b8db1015026ac214afe9a4fd625fe842ca56710b401b5f789118"
+    },
+    {
+      "name": "Dragan Lang",
+      "crossing": 934482,
+      "residual": "0efa26969ee5f6d9e45100dfff3953c2d5da9ba28539a6e4a30476c5200a344ef54b11ac"
+    },
+    {
+      "name": "Sasha Marek",
+      "crossing": 720054,
+      "residual": "93f7a71e0736afe261f2032d2240020ef335fbf2530e8c0f80a843beb5f6e0772eb2a3c0"
+    },
+    {
+      "name": "Mira Pavic",
+      "crossing": 900065,
+      "residual": "c38193e2510441642ab8f241edee03dd72d5f665344269ffa8515fa8f4a18d92d4e032a0"
+    },
+    {
+      "name": "Vesna Radu",
+      "crossing": 200754,
+      "residual": "6d7136a6d465c646a8f2450180d2c48cee50e7bab0804d4d6b0670bb3ef68c74da8569c8"
+    },
+    {
+      "name": "Sasha Craciun",
+      "crossing": 856268,
+      "residual": "d7cdd21d573ffc0bcf6b7110ab25ddcb38c334903c7a2dbe37e78a043582e8d95623299a"
+    },
+    {
+      "name": "Reed Vernard",
+      "crossing": 838571,
+      "residual": "1d739c47eb4257c836842c43988c528c286e63a7b22f7be9ac8c130c051337cc32356bd3"
+    },
+    {
+      "name": "Lukas Voss",
+      "crossing": 771481,
+      "residual": "62e63b838d4ff735c7a5befe0bc714820fbcf5b5195b617c466d13be43f04772263ab966"
+    },
+    {
+      "name": "Maren Varga",
+      "crossing": 662024,
+      "residual": "a765e5c3619e78ffb0834bee9d5db74b84075ee7b23ea4bdc95857cb14833ae630f0f6ad"
+    },
+    {
+      "name": "Elke Kerras",
+      "crossing": 553678,
+      "residual": "a1e21b6f968c2aff232206af0602879fa9519593783239d8bf8f894c57f141cb66c7df25"
+    },
+    {
+      "name": "Vesna Vural",
+      "crossing": 137731,
+      "residual": "cc89cf6e0bdaf77b9cffae40531c697cde2bbc0b3f6bdf6d20f94bdd02c44593b9a25e3c"
+    },
+    {
+      "name": "Cynthia Toth",
+      "crossing": 210268,
+      "residual": "86f1e64f6a6b2a5b08e59c1aaad864b099410cab9b4711e55ea3e03a3fe1fe155572ad03"
+    },
+    {
+      "name": "Reed Rusu",
+      "crossing": 780424,
+      "residual": "868404fa3c93479673b848a63a5dd0b243933b9e0917ee22468bf398b19cab4f735b2a0c"
+    },
+    {
+      "name": "Ruta Stan",
+      "crossing": 800783,
+      "residual": "7556a0aaaaa0c076d0ef3fc1d97ada7741e44ce337027a3213cf8ab83009379f3b0ce90f"
+    },
+    {
+      "name": "Sasha Lukic",
+      "crossing": 950907,
+      "residual": "6b756899bce19d872f5aa309dd1793dfb1dea87ba79f4f95a76fffda73ca4c99468a31f1"
+    },
+    {
+      "name": "Dragan Barbu",
+      "crossing": 747776,
+      "residual": "49ca434dc2a0e06124f5118e45bbe240cb0e6c559306c6912f7d917939266b6118a5572b"
+    },
+    {
+      "name": "Cynthia Moldovan",
+      "crossing": 842210,
+      "residual": "be145b4a70698c605e7bd010e116b60a12d1eb78e1fd39cbec284883bc9598287d30e515"
+    },
+    {
+      "name": "Wanda Dumitru",
+      "crossing": 182874,
+      "residual": "4149ba177f2e10f2698dc1f203c84b400dd13cfe9222c9ad8201eba03c80c47bc91e6dee"
+    },
+    {
+      "name": "Bogdan Costa",
+      "crossing": 587343,
+      "residual": "5adc4baa22dbd0a132793b774edbb1908c74d5970d470d6fbf3e7205de0b1192de608177"
+    },
+    {
+      "name": "Dalia Pavic",
+      "crossing": 923985,
+      "residual": "e121df5b859ca1b8846da0ca6f566b054d8822eed7f1a25afda19af2b261c34434cefba0"
+    },
+    {
+      "name": "Lena Sandor",
+      "crossing": 695000,
+      "residual": "8f5978e10dd5f768d7c65f6c7a0ff03cbf1900962be4cc57d038c2f23df7826352d047bf"
+    },
+    {
+      "name": "Ruta Kerras",
+      "crossing": 873942,
+      "residual": "f461bc17123757e0a975bbd0d7e9bfe760af6116accf9b880ad3de95c237b659ea71590f"
+    },
+    {
+      "name": "Wanda Vural",
+      "crossing": 610982,
+      "residual": "a5559b2e5a3e6741ea62186f4ca082c242b1c5b48ca09ac9c8f589722357464564de5f14"
+    },
+    {
+      "name": "Yelena Maximoff",
+      "crossing": 697124,
+      "residual": "3b6dfe761b51ecdb2ad3a7a7bda10cf1f30e37c7ec6742b7b5d9a92230cedc64645b8e67"
+    },
+    {
+      "name": "Ana Craciun",
+      "crossing": 395988,
+      "residual": "a36a32d16910164ddb263bd602f019b67f0839ea8aa3428f98ef06370f09a9a98ca6f41b"
+    },
+    {
+      "name": "Kristoff Toth",
+      "crossing": 311667,
+      "residual": "b66ce2ad35134b759ee25a2ecaf52d15289fc064e3003994dfa51a4ddbc86ba0f4928e52"
+    },
+    {
+      "name": "Cynthia Antonescu",
+      "crossing": 671653,
+      "residual": "9bfd7051b9dad9ca76b192e62739afa8904c374dc4846e907fd26ad9f4045cda0f582f53"
+    },
+    {
+      "name": "Maren Lang",
+      "crossing": 365040,
+      "residual": "f7d34dbd0e18d13e71d7dcdf03eebcc7de54055d8cee6c7b3d58268eb7711d22db6424ca"
+    },
+    {
+      "name": "Maren Barbu",
+      "crossing": 818008,
+      "residual": "34329bb2db3d455eb79c629a13fe34b7d9c23c9f7b8f7cca280adf1a743a0162168fa95d"
+    },
+    {
+      "name": "Lukas Strange",
+      "crossing": 439366,
+      "residual": "cbaa05d4eb221c109da30c47a5f6225f823ee6fc129e5b935a8eddf080d070f1e5c4301d"
+    },
+    {
+      "name": "Orlek Barbu",
+      "crossing": 224431,
+      "residual": "e8cec14f70f07825214e9081e0908c2d756f7072f7706f0be1db966a4bc5694972dc3e25"
+    },
+    {
+      "name": "Lena Vural",
+      "crossing": 616799,
+      "residual": "72ddcb868a8d2ba6a1506fba5a3eafe9837edcc3b8c50b79c637a0a14dbdc8c3066a42e2"
+    },
+    {
+      "name": "Dalia Novak",
+      "crossing": 860714,
+      "residual": "8ff1d6715f0a06a857d782eca944df992def4690aecc0a1894a9e0d66009e57bf11bfe25"
+    },
+    {
+      "name": "Ilya Barbu",
+      "crossing": 230948,
+      "residual": "91267662f033a6e25548d2bc8c5d3cd044f28fd921b27f09ccbd618acc811c6e42bb8871"
+    },
+    {
+      "name": "Dalia Vernard",
+      "crossing": 145566,
+      "residual": "22b8784a56107fb4c9eb7503cee3aab5e72cc60914b6b2a46963b87c6af42432bf4334f1"
+    },
+    {
+      "name": "Orlek Horvat",
+      "crossing": 207465,
+      "residual": "d21cebdb331ff1cafcb1882e47dfd9e51b82b69c3b8b46e5887f1234da3c00db93a1c65a"
+    },
+    {
+      "name": "Elke Radu",
+      "crossing": 823941,
+      "residual": "ce23b43bfaf15f88b62fa1df10aa488ca5b60e7bb1473aee83e33eff180526b9b1bb57cb"
+    },
+    {
+      "name": "Katarina Radu",
+      "crossing": 575037,
+      "residual": "4a7ee69744817a128829fdcc177f73a3845c76682da36b46f90b93bd07ad071834048839"
+    },
+    {
+      "name": "Tomas Horvat",
+      "crossing": 601394,
+      "residual": "50168e0f28796433ae27e9612e14a975bc5543edd53e68247637b2c3a72653e35b2cd2a3"
+    },
+    {
+      "name": "Reed Moldovan",
+      "crossing": 501448,
+      "residual": "cdbe487e421c86305598fc8143c56245c24cd062c5a3fee87d756c6ab1e16ce4a9d92113"
+    },
+    {
+      "name": "Maren Costa",
+      "crossing": 314114,
+      "residual": "97bd77b501b069528770b021170087f85cc6b8fad853b757b61be637fdf0b2417bda5109"
+    },
+    {
+      "name": "Yelena Costa",
+      "crossing": 578925,
+      "residual": "fca6b34bfdb9d29b5ea9f526fc8d06253b46cd4233906177bd7a064960db6b4e121c6f6c"
+    },
+    {
+      "name": "Katarina Lukic",
+      "crossing": 348839,
+      "residual": "aa87189d6f36db0c4842140e454ac04b93ae482bd7bc68481b3ea8a447b4adc845b5cdf6"
+    },
+    {
+      "name": "Vesna Petrov",
+      "crossing": 796542,
+      "residual": "61b4297e839655ef7bfc125ed65d9e08404960d2dd19bd048743a70e69b334f3c2b7bc01"
+    },
+    {
+      "name": "Vesna Pavic",
+      "crossing": 259518,
+      "residual": "95e797d65e41a6707eed44d0298fcc90ddba511ff014a8e395abf4b4341054d79a4a2f14"
+    },
+    {
+      "name": "Kristoff Vural",
+      "crossing": 827977,
+      "residual": "3596f009c2c63b5b03cb98967a19a4e6a3ff6c78ca998a5503efd1a87fd37000801294b7"
+    },
+    {
+      "name": "Cynthia Varga",
+      "crossing": 697094,
+      "residual": "2ce97e77c09a956f3cfc86b6378ebc74de2ab05b75d115db891b51562abee975b472c8f7"
+    },
+    {
+      "name": "Lena Moldovan",
+      "crossing": 371699,
+      "residual": "90a41023844e9b382d70df07457f4317dcdc2d7b71446621cadfb5e3a6b6aaebc06349c0"
+    },
+    {
+      "name": "Ilya Radu",
+      "crossing": 364379,
+      "residual": "f51e3ca4503a9669a1f94e3efdc36874e8bfe06752d9e795509ed4079f134b04e0ec44ae"
+    },
+    {
+      "name": "Ana Novac",
+      "crossing": 457853,
+      "residual": "4435dc858f188bb22cd9a4dea39e01fe18cad0057de4098edb7924535822512926196796"
+    },
+    {
+      "name": "Ana Vural",
+      "crossing": 357918,
+      "residual": "0c9922e0143651dd66c077a35dc27c7ce211e40b34ed5fa5980a1f95eb09d66a908f0870"
+    },
+    {
+      "name": "Maren Voss",
+      "crossing": 788812,
+      "residual": "3c22e5b55137d7ea4e1d11f5a0f48ffe231facb30eda717878dcc2884f9e77ea419380f7"
+    },
+    {
+      "name": "Mira Barbu",
+      "crossing": 815130,
+      "residual": "3d98279fe5598efb961ebed7c3bfaef46b420e6ee803f9dcb2117e0dd955d3c6cde21f42"
+    },
+    {
+      "name": "Dalia Petrov",
+      "crossing": 835327,
+      "residual": "7945a6679ed02a5b1bca5ccbf40880122ee49ed0f96525acb46f5673232904a8720f8353"
+    },
+    {
+      "name": "Orlek Ostrov",
+      "crossing": 580951,
+      "residual": "b9ce7435cb1396bcdcb5f4f6946e500851a11324dea111694fbedb65b2e25fba46c5c637"
+    },
+    {
+      "name": "Wanda Lukic",
+      "crossing": 963212,
+      "residual": "8f98876005321e326adff78cfda933438dbd9bec2e2591f4066b98b6662de68a2407c8d3"
+    },
+    {
+      "name": "Katarina Richards",
+      "crossing": 603574,
+      "residual": "5739af11c025d6231f2678725e0ef4533e9174623039587a3afd5527040c07b03f3713d2"
+    },
+    {
+      "name": "Orlek Vural",
+      "crossing": 406541,
+      "residual": "a32c7920848212fa84db2139aaf836e7eb9e5934893952bfb3b9886f71e5cbc6e66f3bbb"
+    },
+    {
+      "name": "Ana Dumitru",
+      "crossing": 508016,
+      "residual": "39fdc10b002478fb264d824ab7fad2e5eea2057c63659b2e96f5965715c7b5712d2fc12d"
+    },
+    {
+      "name": "Katarina Novac",
+      "crossing": 652148,
+      "residual": "b308c818bc40c861525e96cb32606272be6785759e89182be5409113d8a60eee1c40a99e"
+    },
+    {
+      "name": "Katarina Horvat",
+      "crossing": 735680,
+      "residual": "34406e70f4c175175648cb800f7137cf33e2ad5dc7627d493ac01e319f1d48ded31fccad"
+    },
+    {
+      "name": "Petra Vernard",
+      "crossing": 832593,
+      "residual": "5572f90afd2c8a08a9241b1ef44bc30d8bff9681c1b49bb283dc1d48db3a6e08e2b95075"
+    },
+    {
+      "name": "Victor Toth",
+      "crossing": 188440,
+      "residual": "5abf3ff2a159356cc0c7b0990b8ebab7ebd2ab7df9129b213a3ed54ddc822d0a1614f5b8"
+    },
+    {
+      "name": "Lena Radu",
+      "crossing": 138512,
+      "residual": "9205861509b1e4e9611b1e564ec758bfce91b3b1ac2262aa9f870b773525e22ae28d5283"
+    },
+    {
+      "name": "Victor Varga",
+      "crossing": 171556,
+      "residual": "df8673cda9becca965819315d1e81f2c935332b6aa9a15c6797d9396d3e60377d11eb273"
+    },
+    {
+      "name": "Ruta Rusu",
+      "crossing": 875173,
+      "residual": "f2b0c1220ddff754ecaa1f0b46e7b2a40cc6ac109bd359594ec3eeacf9105cb59ad6712d"
+    },
+    {
+      "name": "Dalia Lang",
+      "crossing": 480360,
+      "residual": "29c1e1d3af79b3740c854e7ae1159694b15dcb8ba80830196728beaf23122dbffd6e3a3b"
+    },
+    {
+      "name": "Stephen Strange",
+      "crossing": 174270,
+      "residual": "0d16ff39433184af8c7735b5328dcc8b8fd46e7c924edaad3fb95a139b084ad559e8b732"
+    },
+    {
+      "name": "Stephen Rusu",
+      "crossing": 802766,
+      "residual": "a3d4e8413523f9daf7ec499b1778b0a073920c8965cf27b2d1f553dad5e4dd5a22c06b5d"
+    },
+    {
+      "name": "Stephen Horvat",
+      "crossing": 456315,
+      "residual": "f1a44b47420feaea46b5b0c9ba7c6aecdaabcb6dd01e476bfb2658de1e5b07860ef76ffe"
+    },
+    {
+      "name": "Victor Antonescu",
+      "crossing": 198553,
+      "residual": "03ba8c9d9925f6f401358d4092ca3895ecd0a9d5a6b495d36e4be9a3bae52e6462e4f44e"
+    },
+    {
+      "name": "Lukas Radu",
+      "crossing": 762134,
+      "residual": "f160d388637e9cb25a2f944767763b00126d55fdd20bcd65262d758d3e5e47284729407a"
+    },
+    {
+      "name": "Ivo Maximoff",
+      "crossing": 361949,
+      "residual": "2cf6de4d0375b6007e34a1684019149b18baf99d3342c54d831c9d7c90e6cb7ac026c788"
+    },
+    {
+      "name": "Yelena Craciun",
+      "crossing": 201337,
+      "residual": "635b91c9e599724b74285e53d60c4c0cf2217b74695276efbce5f4efb4b166776e76ca56"
+    },
+    {
+      "name": "Ana Maximoff",
+      "crossing": 248554,
+      "residual": "f77ceb4cf29d7bbd17f66ccf82a3b6f651a54b2485ce8c5da052b36d065b5b4cc221f5f1"
+    },
+    {
+      "name": "Pavel Balan",
+      "crossing": 972102,
+      "residual": "6d752a3e15a8afe26e472fff67868d10b3ecf6596e3b209668faa4e94a3cef51c3ecfdec"
+    },
+    {
+      "name": "Ilya Toth",
+      "crossing": 667803,
+      "residual": "ff8a5c6b79707766ed9fe3210f1c891fa951a7396b8740ce640fac417f31829de1117c27"
+    },
+    {
+      "name": "Victor Petrov",
+      "crossing": 386739,
+      "residual": "0f23909afa60e94b2dd36ac94744aaeb4d22a533567306836013f5786ffda08abc69929c"
+    },
+    {
+      "name": "Dragan Lukic",
+      "crossing": 108339,
+      "residual": "ee79eacba4170a94f935d5c7225bbb264776d0a21f611dd1e9782fc96854097f41ea4354"
+    },
+    {
+      "name": "Katarina Maximoff",
+      "crossing": 919054,
+      "residual": "cbf8ea08bbb6c599a8f7ddef5631b74dd08fc4f1ce19bc2cac62c51d1955cb42371f0a01"
+    },
+    {
+      "name": "Dalia Maximoff",
+      "crossing": 517876,
+      "residual": "46328c88c3f86d692a81d2dc7a5a7137e7d217070c01c8d5d8f82b36fd4748c42751ffb4"
+    },
+    {
+      "name": "Sasha Lang",
+      "crossing": 811005,
+      "residual": "f2e12e6a3a9c8ae2c5b2288d6263d91c9b22f8c144d4a3e572acc69fefbb8972fc0c5cd2"
+    },
+    {
+      "name": "Lena Horvat",
+      "crossing": 170337,
+      "residual": "93c3e73f7bd84405e8ef18ecf51eee9bb1f5f1f40739ada6729747dda31c419dfbf3d340"
+    },
+    {
+      "name": "Kristoff Voss",
+      "crossing": 637159,
+      "residual": "8857121984a96999eafc58aee85ced967af108534c9498ea4f4ef544c79813ad6273067f"
+    },
+    {
+      "name": "Pavel Maximoff",
+      "crossing": 446139,
+      "residual": "7d89ed248b3d09ec78b8fc6320f53945641c3df36eda3d905b137f61d53e3bff7d6a4860"
+    },
+    {
+      "name": "Ana Novak",
+      "crossing": 131644,
+      "residual": "ac940760af6be29b79ec450d784d203c9e9bf711943a8cd091035990b54c75058daa46d3"
+    },
+    {
+      "name": "Yelena Pavic",
+      "crossing": 417816,
+      "residual": "cc2c279faccfba70531933d793e3911ff1704f602b716ff0674c337219413bf39cb507c5"
+    },
+    {
+      "name": "Pavel Moldovan",
+      "crossing": 429129,
+      "residual": "c4315fead8dd79a8f2c40a011e974eb0bfa213dd5e8bb85fce6e71dd62861e0df8bc8dc2"
+    },
+    {
+      "name": "Reed Stan",
+      "crossing": 457468,
+      "residual": "8948e8b244f5effa90ac22aedafe2455e8f88e8d7d2e4d27cc17242571024187623adf84"
+    },
+    {
+      "name": "Nadia Pavic",
+      "crossing": 725224,
+      "residual": "04844c25ec6cc1acb09918ed05e2ecffbaf88a8ba9c10261f65374b0280aae129b02ab57"
+    },
+    {
+      "name": "Reed Toth",
+      "crossing": 865546,
+      "residual": "448ec30dbd21ec8b9d50de9c36653eecb632d7568cdf253e953d6c7f781682637031472d"
+    },
+    {
+      "name": "Lena Ilic",
+      "crossing": 160525,
+      "residual": "80097047f60bebed81379ff7bc14f252cb7bea00b8bd3a303d7f338d89f2a24d4dbe195b"
+    },
+    {
+      "name": "Katarina Dumitru",
+      "crossing": 660329,
+      "residual": "f5e2373578afd033d1ced90ba96704fdea496dcd2504e2331bcb1d8462fc81115e2bc36f"
+    },
+    {
+      "name": "Pavel Richards",
+      "crossing": 581722,
+      "residual": "cbf6cbcb08050ebf95db5a164b9c72cfb178d19045b911d592e0b1f0b071d295d9e2f580"
+    },
+    {
+      "name": "Lukas Ilic",
+      "crossing": 804567,
+      "residual": "ce25b9a35254f972e0243114a639b0eafefb9fc28443281c03b2e874e16db46a5ac8ce4e"
+    },
+    {
+      "name": "Nadia Barbu",
+      "crossing": 536877,
+      "residual": "50c225ee06d7f6905ce7e2f72ca0c3aec12cc22d35ba9bd33a9d1e57e4baa2ea9361a879"
+    },
+    {
+      "name": "Sasha Pavic",
+      "crossing": 311587,
+      "residual": "431eb93e11c109585d777f5c3a9f0bc4f583608bde6e66d58244c8a6e7d85ae7787005aa"
+    },
+    {
+      "name": "Stephen Costa",
+      "crossing": 524541,
+      "residual": "4ec72130dfc03688ccf341737891d6cba10732253b4927ea33dd7d4135cb0adf09a9819b"
+    },
+    {
+      "name": "Marek Antonescu",
+      "crossing": 718707,
+      "residual": "6c1433d4f3a3edb7107e087fa8bb7287e0b4e61be15d23512e8b674d668171eb5ca86e72"
+    },
+    {
+      "name": "Maren Marek",
+      "crossing": 599794,
+      "residual": "aae13601493120b011f4a512105d8c5b3b88ac2178cee7e20c7fe968cb3d820a6eb6560a"
+    },
+    {
+      "name": "Pavel Novac",
+      "crossing": 294472,
+      "residual": "ce996c37e91e6eb20313152f625b8652c83e9bc74bb5b7e43bdd4368eb0fb5b05c40fd50"
+    },
+    {
+      "name": "Ivo Dumitru",
+      "crossing": 382440,
+      "residual": "35c3605a3f12fe9d786d0ec6c76a330a8486e3e9dd33caa0bd13b758948e7697d756176b"
+    },
+    {
+      "name": "Tomas Kerras",
+      "crossing": 355234,
+      "residual": "c71e205d674e56064cb24a4c47e75a4d1ec5bb724c52497c1453f6087a0a0a0f68701b51"
+    },
+    {
+      "name": "Nadia Kerras",
+      "crossing": 804500,
+      "residual": "19b8069cf7c45f2f108700c0d72475647d42415f4413e3d0b763caa0a7e8bf3071cd785c"
+    },
+    {
+      "name": "Sasha Voss",
+      "crossing": 633242,
+      "residual": "c56fe45b9b5f4aa6789013dff6bf829afe639188d2b8314f5095941fc5ac69f7579ed36e"
+    },
+    {
+      "name": "Goran Maximoff",
+      "crossing": 644421,
+      "residual": "7f78d5fafbb7eaeaeb258efbacac3a53b241a405c3543b0da6b2c26a57d03bf672d0ef02"
+    },
+    {
+      "name": "Yelena Rusu",
+      "crossing": 721779,
+      "residual": "dd2671a8abfc3bee2d0efb4fbead16ff9cfaeca2d8746ee99998b6f48d2dfe652126e2ea"
+    },
+    {
+      "name": "Yelena Novac",
+      "crossing": 822113,
+      "residual": "3a63e50e0f70ca9907bfa95608dc3a8f7727064e94e59e9b4e044c0422772aec115e390a"
+    },
+    {
+      "name": "Vesna Horvat",
+      "crossing": 429785,
+      "residual": "b69dd38d37427c035ac293f72c5b3637e57ba68c6e75af81cef64d0ff7f3b4292e93d2ca"
+    },
+    {
+      "name": "Victor Maximoff",
+      "crossing": 211639,
+      "residual": "20b2d9227c2e718698666925ecb42bf6e79392d165bf00409036c2928633d8abcc09a69d"
+    },
+    {
+      "name": "Tomas Novak",
+      "crossing": 260634,
+      "residual": "9a879d852e1b636a5cc85294d25895e61f7c6126a7b8de39d4feeb5305d81dd30c5664f9"
+    },
+    {
+      "name": "Victor Moldovan",
+      "crossing": 160104,
+      "residual": "77da1b61f121594b0995d7e05b03678b6a75ac37568fbbadea71b44ce9bd29997a5a719e"
+    },
+    {
+      "name": "Wanda Ostrov",
+      "crossing": 652770,
+      "residual": "54dc1849ed41dcc238aabfe427c1939d124071f09e0c2488a03311d3a1debb8acf2654da"
+    },
+    {
+      "name": "Victor Pavic",
+      "crossing": 237059,
+      "residual": "ceef8000a5c63f60b56606adb2a786af42347d614f5b9050c2bad9e1eeda1a6f119c7cd7"
+    },
+    {
+      "name": "Dragan Kerras",
+      "crossing": 469938,
+      "residual": "5eea1af0555cb824972d5a7ea0fadf7ba2868835963c6a2bca0a051a1cbe17fdbb2c611c"
+    },
+    {
+      "name": "Stephen Lukic",
+      "crossing": 577637,
+      "residual": "02416ff044f7e26cad7a15a89f877a02af379d9af45228b288e2e556233fcb3ddb8b5ee5"
+    },
+    {
+      "name": "Emil Antonescu",
+      "crossing": 428044,
+      "residual": "c44e52b105d893873000bf8ba8d15917afb2e765e679f786c5cc61f5638e873b0833f904"
+    },
+    {
+      "name": "Lena Dumitru",
+      "crossing": 402466,
+      "residual": "83c05976e1fe000dd960a93aa208379f38297510fc1a1b973e2062ed0b5ff077daf0a33d"
+    },
+    {
+      "name": "Tomas Antonescu",
+      "crossing": 642415,
+      "residual": "85080a4006396ac8f38ff55ad3cae967574983e8036a45e4c68e8f95f78613415436110b"
+    },
+    {
+      "name": "Ivo Antonescu",
+      "crossing": 686299,
+      "residual": "c0ad1cf8554deaa9310fbf22d49912fed12ede036c3f8c45698342a82b52ce0ec025e333"
+    },
+    {
+      "name": "Dragan Petrov",
+      "crossing": 420625,
+      "residual": "4259c5759f408aecc62d1fafe3f8e344d50dd1f298a92cedb9995429779e7982b1fe764b"
+    },
+    {
+      "name": "Maren Novac",
+      "crossing": 175965,
+      "residual": "3ac03ed9c8b34683760bc74248d072e88aa944b80ceeeeff5b223db9f54acfed426a0e34"
+    },
+    {
+      "name": "Cynthia Kerras",
+      "crossing": 704903,
+      "residual": "0da57402967d4aa1471836f445c49c13a10e58c778621e970eb70ee1d6d1271178e512ac"
+    },
+    {
+      "name": "Elke Rusu",
+      "crossing": 199218,
+      "residual": "e0fa12fcf253ba51160a8b29cfdc17bfc9105f2425ce26fff262ab189e423db8ab25e7f9"
+    },
+    {
+      "name": "Orlek Vernard",
+      "crossing": 450210,
+      "residual": "4de12a0b19b37f891a6da190f9a5b43f79baf6da38584914a99211797b1da0208caadd3d"
+    },
+    {
+      "name": "Cynthia Costa",
+      "crossing": 773149,
+      "residual": "eca08d0cd5e74fccdf333e69a5a154cd04510a925b84564d550a63811b1c1f3712e5cf75"
+    },
+    {
+      "name": "Lukas Pavic",
+      "crossing": 692195,
+      "residual": "5de8d2de8af78a5dfe9771bf98f9959e577342d4ff09ef01fbf9e96f37eda80a512b1c7d"
+    },
+    {
+      "name": "Vesna Lukic",
+      "crossing": 233229,
+      "residual": "c36db7d3844736998b1710dc42e871a67e63c226161d862d2f7fda845ed7b91624396692"
+    },
+    {
+      "name": "Reed Barbu",
+      "crossing": 864828,
+      "residual": "135fb15a3bb0d800c74f3ee8b4bf8edee47eef21d97b023ed0a8b6c01c580238ec03ae31"
+    },
+    {
+      "name": "Elke Marek",
+      "crossing": 910774,
+      "residual": "f8794849e33295cf1f2744eec72672e87df4b930d0fa6d0cf36a85b34592d9e2938a79ec"
+    },
+    {
+      "name": "Petra Kerras",
+      "crossing": 671041,
+      "residual": "991a2f33530ebb9912237b68a3be074984f8a29a9321451869ca7a212ae70a26d77773de"
+    },
+    {
+      "name": "Dragan Sandor",
+      "crossing": 349885,
+      "residual": "51b9e1de31aebb764849a29dd50b492fc263e2301560069b40cf8cfe74c710483c51aed8"
+    },
+    {
+      "name": "Reed Maximoff",
+      "crossing": 785684,
+      "residual": "d6753735ff3ab658bdf86593ef8d588d48d7c1e2ebec312ad7ab8bcd2591e0a58477fe1e"
+    },
+    {
+      "name": "Orlek Pavic",
+      "crossing": 593249,
+      "residual": "6a46625a29d524d8105a73cfe394c438499ce8fa8d3252e08c79015be731af797e11f98f"
+    },
+    {
+      "name": "Ilya Moldovan",
+      "crossing": 857876,
+      "residual": "25490477a23683fb0788dad005e47a33341d1ae97e557f211d2905880d8df39e485808ce"
+    },
+    {
+      "name": "Lena Balan",
+      "crossing": 586864,
+      "residual": "3536c9a65d7fec464eafae212c555b1f183e33e1998d760f467e6cd86f55f69e9a6e2095"
+    },
+    {
+      "name": "Ilya Craciun",
+      "crossing": 122409,
+      "residual": "d4bc83a95e2c6dde7f373a871a3f04285d66e87099f210355f3afd926bd5ecf1bbb766bf"
+    },
+    {
+      "name": "Lukas Richards",
+      "crossing": 739807,
+      "residual": "b627007003d7cc3bf613c0f57f9f26242273e33840cdda08f70acf40934f5ecbc8132766"
+    },
+    {
+      "name": "Maren Antonescu",
+      "crossing": 308387,
+      "residual": "4f50555d9ce709a59198521688f9b2f9122857187c3aedaef754d37ca7f42d4ce1f57c12"
+    },
+    {
+      "name": "Elke Pavic",
+      "crossing": 803635,
+      "residual": "2221ba9a125ce7801b9f2b065c27109041d83cd060824c520af5c6368689293eb0ee04f8"
+    },
+    {
+      "name": "Petra Richards",
+      "crossing": 708884,
+      "residual": "2b9f2fe03c216474216aa40879d41f0c30f42bcdb24da316d1f9be51862899625d80847f"
+    },
+    {
+      "name": "Stephen Pavic",
+      "crossing": 656685,
+      "residual": "8e9f3f464bee6e3d7ef3106f0345d9a198356dd77a49e8be4feec0bcbd489d334084f613"
+    },
+    {
+      "name": "Wanda Balan",
+      "crossing": 669394,
+      "residual": "76debe0cfc894c837d6bf950fc8da655d8aba50231d66c79e52c4706dbc074c631aa6faa"
+    },
+    {
+      "name": "Marek Vernard",
+      "crossing": 327908,
+      "residual": "f1e6cd67d0d1a526eb867e1a898350e54c5abe106969c3599a4e3f4ff90d7c52f3a2d782"
+    },
+    {
+      "name": "Ruta Petrov",
+      "crossing": 673843,
+      "residual": "68a6de91bdfd2238a9a9c3a96010fb58dbe31d6892a498de1f428316fbb396649fce2620"
+    },
+    {
+      "name": "Nadia Craciun",
+      "crossing": 481397,
+      "residual": "2ab5ee2a1b77be14636636039467448f6c5560d043d13cb9262299341ced6de65e1798a4"
+    },
+    {
+      "name": "Dragan Moldovan",
+      "crossing": 440875,
+      "residual": "11a7b57888d3432d1ab76139d56cd911cc4728cfd3d0450e1aab754d1003b5511e1867a3"
+    },
+    {
+      "name": "Orlek Dumitru",
+      "crossing": 435942,
+      "residual": "2f9bef0cadfb10358ec68749012d79965ca5de968f07ce3b9cd2b2b3ca0a250ed5690747"
+    },
+    {
+      "name": "Sasha Maximoff",
+      "crossing": 396041,
+      "residual": "e56b844c0635c688b897d2deefcb2a974920fc446d49b0dc44b843f35a1ddd960e4f0eae"
+    },
+    {
+      "name": "Petra Moldovan",
+      "crossing": 227792,
+      "residual": "24a2286a3846bc839c31fa6cfbb966102d51288068d40071dfd7f98685a02cda7d42e63e"
+    },
+    {
+      "name": "Mira Horvat",
+      "crossing": 865709,
+      "residual": "db02b93d9f966aa32ee0eee18ecf2c11950af4ab8ed553e4006326b2cc8d4e0fa59fab40"
+    },
+    {
+      "name": "Victor Vural",
+      "crossing": 981866,
+      "residual": "efac8fb58013c69013f7d753564226d3bd39191efd55182c2c2f3124982502b18c6abafd"
+    },
+    {
+      "name": "Stephen Lang",
+      "crossing": 270042,
+      "residual": "4d58cac119e344112011a98117e6b93dfce5013a518afe83e22a0dc70f38c4960f49a5e1"
+    },
+    {
+      "name": "Ilya Kerras",
+      "crossing": 463626,
+      "residual": "b4a2141fe2f308955859084268014bbb83c7d4baa7f4e13e8beaafd885d5d5325be58a8a"
+    },
+    {
+      "name": "Cynthia Pavic",
+      "crossing": 715748,
+      "residual": "5c0d7689d8c7259ef294a6c39a0289a1da69d99d2564f0cc00caf7f482e13264ff76574b"
+    },
+    {
+      "name": "Lukas Costa",
+      "crossing": 627557,
+      "residual": "4bf7f8aeb8886999e03f8b1a67aa4179550c2be5e19238f0b2fee531a64ad0e22601c945"
+    },
+    {
+      "name": "Ruta Antonescu",
+      "crossing": 276704,
+      "residual": "6e28e3e3478eac716c423fcf5bf7141832f7eb45483038c4aede761024db92070d5cc9c5"
+    },
+    {
+      "name": "Elke Vernard",
+      "crossing": 820640,
+      "residual": "cada57654982c78188186f0b0dd9e76e0939f4f6d929eb963ddde35029dede0401b7b3e8"
+    },
+    {
+      "name": "Vesna Balan",
+      "crossing": 130284,
+      "residual": "22994581a315a4620a639a2bf0e6405a9e9a0a2a31074f4dfaf059571fff629057ff6d89"
+    },
+    {
+      "name": "Lukas Varga",
+      "crossing": 987673,
+      "residual": "7723d24d4109f6a6453e5661e2bd91adafdca3b51163e137bddc3b0ec35b4830c6200671"
+    },
+    {
+      "name": "Katarina Varga",
+      "crossing": 824006,
+      "residual": "998c952d1dddc46052eb5a0caefb238d54f59794788a4f6ee0cccd1a1c4572bf97a4ac25"
+    },
+    {
+      "name": "Kristoff Strange",
+      "crossing": 456612,
+      "residual": "80eccc1077cfe454392d5e1e437df575cfa31b9b77776d17bb4b1fb9c56026463f1a0623"
+    },
+    {
+      "name": "Mira Richards",
+      "crossing": 457982,
+      "residual": "7df903e02c395432aaab8e718ec62117dc70a1b23d1d6a07c44052abc0df04eb9d226b3a"
+    },
+    {
+      "name": "Stephen Toth",
+      "crossing": 448115,
+      "residual": "51668bdbc2553d14da763f7aec9ee9c4942888907c33ac2533c7a8a8bf749fc65509c1e7"
+    },
+    {
+      "name": "Maren Pavic",
+      "crossing": 802169,
+      "residual": "2743a292782b89fd1aa5a4b1110d32461f030c3936a588ee724fe143e7dd6d31cae250de"
+    },
+    {
+      "name": "Tomas Toth",
+      "crossing": 396780,
+      "residual": "38db44f51fb31dd3602b5d6f5c40bc171dc522b00e61b9257e86d7123d3e9816d49768fc"
+    },
+    {
+      "name": "Tomas Ostrov",
+      "crossing": 565649,
+      "residual": "175d7691bbcd6abee411a466ae315a263bdbb55e14eaa7c496700612cc1952ec447cc5b9"
+    },
+    {
+      "name": "Bogdan Pavic",
+      "crossing": 542952,
+      "residual": "71f91278432bf35f612b24ca929aad7ffb12782a874f090707d9ea6aca10b65cf61a0f39"
+    },
+    {
+      "name": "Yelena Petrov",
+      "crossing": 539939,
+      "residual": "f4857a92e5b36b641b8e6d34e346e80330cdc5b86822ba8606f5733a0af7a668ac381314"
+    },
+    {
+      "name": "Sasha Radu",
+      "crossing": 746566,
+      "residual": "7529d064a951d3e51fd1fe43ca3f311c88660e0b7d354c2c3970f09cc51a8d6e002ec95b"
+    },
+    {
+      "name": "Reed Radu",
+      "crossing": 238341,
+      "residual": "d3c58d174b0e69b25b0164c6897fc8d124928d89b070f2ca2750a74582b202b6c3c31669"
+    },
+    {
+      "name": "Orlek Varga",
+      "crossing": 740622,
+      "residual": "14d05407d653cfabb3c744e165339e6e5cc1046bb3aac025c1b7a87179d060e5bdaf23e8"
+    },
+    {
+      "name": "Bogdan Marek",
+      "crossing": 640711,
+      "residual": "470c3c49bc0a123d4e243f7647307d1a5ea7ec1c1f123672924a5e687ae2c8d048f5c188"
+    },
+    {
+      "name": "Ivo Pavic",
+      "crossing": 997279,
+      "residual": "84ac75fdbd388b9942759b07cdb7a2e6b2093d941dda05db47aeb22fd57e1c3a6e8cfadb"
+    },
+    {
+      "name": "Wanda Horvat",
+      "crossing": 767379,
+      "residual": "8b79bbb491c02468114d590f421c551c89014a1331c2746905fea6a019e4e6441b4c0d20"
+    },
+    {
+      "name": "Pavel Kerras",
+      "crossing": 836422,
+      "residual": "97ae4e72f8ae30b81892ea67c9e0e17be535081949385ff73b74553cdb87ecad6e17fbde"
+    },
+    {
+      "name": "Lukas Novak",
+      "crossing": 907579,
+      "residual": "9d4a9ecaff5e89cdeff78766331d4bdb086ba5d9f80cbd1e9391303f33bf6d6fefc451fc"
+    },
+    {
+      "name": "Vesna Marek",
+      "crossing": 192836,
+      "residual": "cddf65ab0ee29b97578e9b5c0a44b2bf6763411d2ce567e90319f1f422caa7d66479671d"
+    },
+    {
+      "name": "Dalia Voss",
+      "crossing": 964052,
+      "residual": "057f20baf028761fc2abc79e42b030590d208123e22576ebc3cfaf65662b7b5d431ad3d7"
+    },
+    {
+      "name": "Pavel Voss",
+      "crossing": 486989,
+      "residual": "5f711e21757397f6582fbd8769178aaabf6ca2e421f167a5ac03ca86ef2a958caaa95315"
+    },
+    {
+      "name": "Ivo Petrov",
+      "crossing": 643874,
+      "residual": "ce82dc707a9f4334800a8d9c98c0a7ab0a7aa72c2f6ddd3cc94226f09efd5ffe849c017d"
+    },
+    {
+      "name": "Lena Strange",
+      "crossing": 882780,
+      "residual": "48d4e8219727cd0a5bbe6999bd43435647ebb503df7fbb99ae1901fab295a1745dc5c681"
+    },
+    {
+      "name": "Petra Craciun",
+      "crossing": 860036,
+      "residual": "ada419d5868ce2e193ef2a093673c011c8b8078e69c9962370c56ef6a4f93a92146e26f6"
+    },
+    {
+      "name": "Tomas Sandor",
+      "crossing": 353975,
+      "residual": "15d39ab99bced25ef63e289eb33d98b2e786cb2f80da578817d990bbeaffa593c5a35eaf"
+    },
+    {
+      "name": "Tomas Voss",
+      "crossing": 586827,
+      "residual": "5249c64b1576bf586f007d260db3af968026fe165f317b625ee9688462c3ea642d37d564"
+    },
+    {
+      "name": "Cynthia Ilic",
+      "crossing": 891204,
+      "residual": "7bb4b48ea20dfde5def4edc7503b24c1ff13dd0222ad20cf61776a4906af39c2363b6551"
+    },
+    {
+      "name": "Emil Moldovan",
+      "crossing": 278602,
+      "residual": "2a660ff8885a42b51f0fea8dfb86bcd6c025277e60a085e524d78fc55c7a4a21acc44057"
+    },
+    {
+      "name": "Dragan Balan",
+      "crossing": 612963,
+      "residual": "cb8649c740d8bcf5317cb47e3b87e2d0f54721322521804b3144f68e8bd59537d3adc824"
+    },
+    {
+      "name": "Kristoff Lang",
+      "crossing": 452253,
+      "residual": "b22c6ad0d409c2b27c9aba75a50fb3231621bb36bc7784ba59f70457d43355b30b8c73c4"
+    },
+    {
+      "name": "Kristoff Craciun",
+      "crossing": 392687,
+      "residual": "84ea7325a6819058964c3149f60dce4cb171c481f2b0212e37d26d94373a5720a98a07a7"
+    },
+    {
+      "name": "Nadia Novac",
+      "crossing": 839345,
+      "residual": "496af19d001f4d355a3824bc2354b7fc05099b1df29624e6129fa26f0e92d865f000a486"
+    },
+    {
+      "name": "Bogdan Craciun",
+      "crossing": 302794,
+      "residual": "e3386370f2e203f9d1591288027f92ceb17f6e0933d859ad723bba5e96e476b9e9faafd0"
+    },
+    {
+      "name": "Bogdan Novak",
+      "crossing": 553624,
+      "residual": "2522dc168760b896d5186990050deee4a9cd20f3f1324c74751a581ca7611da58a6c5e17"
+    },
+    {
+      "name": "Lukas Vernard",
+      "crossing": 999600,
+      "residual": "0567275cd00aca03f65454a37692e6d593bd40e4059f30fdddf03486cbc7c0fd4467397a"
+    },
+    {
+      "name": "Wanda Costa",
+      "crossing": 969476,
+      "residual": "7453ed5590adde5f5bc2bb274afbe08955d58c40be672db79b021bda7a00ebdc41ac4649"
+    },
+    {
+      "name": "Elke Varga",
+      "crossing": 254444,
+      "residual": "0bd387d6367656a8063c844c3948a017fa3a26323068c9af13f36a85b490eb20fcc85cb5"
+    },
+    {
+      "name": "Tomas Pavic",
+      "crossing": 973069,
+      "residual": "6921c2627e111b298dcf9c068d2338b771c406913a61d3f0fc9da26986a83150480d0d5a"
+    },
+    {
+      "name": "Ana Toth",
+      "crossing": 519948,
+      "residual": "175d3deff673238c240021d21281ff46657a17292c3fcfab6c1600d2531264286ca77a1c"
+    },
+    {
+      "name": "Tomas Vural",
+      "crossing": 132081,
+      "residual": "a515ba6368040d5168f43ff80b927c10132045ec87b3c723862418414c8e582a5e4d2667"
+    },
+    {
+      "name": "Mira Antonescu",
+      "crossing": 337846,
+      "residual": "68e3585ab28845190bda686ac3f1a11dfa83b8fca5c52b558c55560f87381980675b3d33"
+    },
+    {
+      "name": "Cynthia Novac",
+      "crossing": 969836,
+      "residual": "b3f362ac31f8c332a4eb622b483fa34f46a9160d99346823e3bf8460ad764099f6641ad1"
+    },
+    {
+      "name": "Lena Antonescu",
+      "crossing": 918981,
+      "residual": "c97279f9ffad39262bfd4e7f296ece0a79ee2b7450cff9e93bbe18cb460fbba9bc0d28a1"
+    },
+    {
+      "name": "Ruta Lukic",
+      "crossing": 125274,
+      "residual": "2afb666463668319ab7d2ba9ed0ac70fcd65addd2d1190f7c9be79525f8bdeefe44221ca"
+    },
+    {
+      "name": "Ruta Craciun",
+      "crossing": 714834,
+      "residual": "bef4892c9a89bc75cad76aa4a30b8ed1c06cd49c61d36738f72eb3a801093d5bd3ecb2de"
+    },
+    {
+      "name": "Ruta Marek",
+      "crossing": 292488,
+      "residual": "791444a44a62776a5a1dbbfcbfb224a79d8b26201f27cdfb88d834ca69bfa202bc3c7b38"
+    },
+    {
+      "name": "Nadia Ostrov",
+      "crossing": 245656,
+      "residual": "e2b12851fdf80ca9274e11dbc2a70fc0c03e11aaa0c1a88c8548ced20b34a75e80cebfa8"
+    },
+    {
+      "name": "Katarina Antonescu",
+      "crossing": 474528,
+      "residual": "c22b832dc513b8fa0cbcec0e5717f5c84ffd3deecd300eb0ecd1c06bd65c773bac7545dd"
+    },
+    {
+      "name": "Mira Varga",
+      "crossing": 583048,
+      "residual": "99c505e0031b802d238a440fc865c7fdac49061492f9cbb156f7269c6c49d5c0646781c6"
+    },
+    {
+      "name": "Ilya Ostrov",
+      "crossing": 800195,
+      "residual": "14b9e5677953f80fb5dafade905a7e2ae3f13666ef5723e915aa8dd70722c97d86cd13a4"
+    },
+    {
+      "name": "Victor Ilic",
+      "crossing": 326367,
+      "residual": "4a895e42b7ea09b70865adb0fe020fa1f5151d5fcf27cf624817f6a164cfa46b4fd09a1a"
+    },
+    {
+      "name": "Petra Dumitru",
+      "crossing": 368028,
+      "residual": "b68e684caf02f1e15ad2f22c3e177e52f31c324913beb35057da2354df8d648a25a182e1"
+    },
+    {
+      "name": "Reed Voss",
+      "crossing": 704315,
+      "residual": "f47a7b7adbd6a6aaa73698067092b2e04cc348ffa06dc9b4edcaef79dfca3f31f1b1efa8"
+    },
+    {
+      "name": "Yelena Kerras",
+      "crossing": 199226,
+      "residual": "58a4a1db3c63bb5e01622954c52cbee4e479e3b9488d890a32bcf9155018ff94d4d72d52"
+    },
+    {
+      "name": "Emil Voss",
+      "crossing": 777697,
+      "residual": "918043919e85d047908717903e149d9afc6e2185e50a7cf6f7f52ebd14f227beb8d4d1b3"
+    },
+    {
+      "name": "Tomas Radu",
+      "crossing": 593917,
+      "residual": "45de7e53b8c887792abc846d0065414a2b97703ba59be2d4bb6d2c7d040ff6dc62dd10b2"
+    },
+    {
+      "name": "Ana Sandor",
+      "crossing": 141466,
+      "residual": "7c9f5e5216065c0d5ad65ebb6f9c9e0cf3661dce998f7ab886875b86debd11dc4619c12b"
+    },
+    {
+      "name": "Dragan Ostrov",
+      "crossing": 513815,
+      "residual": "14c93f11cc6f516419864504618647f25d5007a396877ad649d05b45f1debefdc4794e92"
+    },
+    {
+      "name": "Goran Ostrov",
+      "crossing": 232754,
+      "residual": "a62662d5bf55160c31a168b2d303ac0d9e02903ef8d02b4ac0edba66fc11a765f4f3abd2"
+    },
+    {
+      "name": "Kristoff Stan",
+      "crossing": 990717,
+      "residual": "63aff9bf7e04f948a9782c73a76b4034847ac1cfc6dcadc9b01a728617ee6e6e7febe417"
+    },
+    {
+      "name": "Goran Horvat",
+      "crossing": 498656,
+      "residual": "0db16a50b5f6e43d86f81134c609904892b147812943b5d18fece7c5030ba2b81b3180cc"
+    },
+    {
+      "name": "Vesna Antonescu",
+      "crossing": 114894,
+      "residual": "a5928332f78f7a61843594b4e7abdb9a81ba01e9c0191bfa98c065669e9b7771ba5d3a46"
+    },
+    {
+      "name": "Yelena Moldovan",
+      "crossing": 573616,
+      "residual": "7c7e1f5acc621b9d2ce994275c3e91041cc7f73b9f50ae05d11ca30959452d5ccbeebdaf"
+    },
+    {
+      "name": "Marek Barbu",
+      "crossing": 974612,
+      "residual": "f07dee996fa123c2d0a06b9281bb300b54551a6db3bb518d322265c35a05f4023e295e28"
+    },
+    {
+      "name": "Kristoff Kerras",
+      "crossing": 998916,
+      "residual": "8c223526a8895fe7d9e57332bed7cfb06bcaac2a89c8872c71b447d08a1a24b1a8189d77"
+    },
+    {
+      "name": "Dalia Ilic",
+      "crossing": 930716,
+      "residual": "7d3f82f0ae17d8b27741f0d1b8ff3165f653c3ceb3d7401a8f7304d4b4411f913d07840d"
+    },
+    {
+      "name": "Yelena Richards",
+      "crossing": 363892,
+      "residual": "34656aef1180f0bdecd1d91840154added6bf85783faea882d63ff4feccafcc063fd295b"
+    },
+    {
+      "name": "Wanda Stan",
+      "crossing": 668777,
+      "residual": "9c6a930e2ffde0a71d9b74fc0d11cc2e263465311765a0b001328b21ce9c8a186f01e875"
+    },
+    {
+      "name": "Sasha Horvat",
+      "crossing": 236021,
+      "residual": "ffadad6e3a030750fd9170ee1507ccc758e2dbbf517d16a11d4280c305051bd14b62e059"
+    },
+    {
+      "name": "Ivo Vural",
+      "crossing": 845476,
+      "residual": "b9546956d5e46ac042dbfd49a2c50fab2fd8344bffad717d52d605457c2d5b9426eb188b"
+    },
+    {
+      "name": "Orlek Toth",
+      "crossing": 426812,
+      "residual": "bcb3bcf3acb71c0291f59ae096cf8147d0dcc70c95364fa6ddbbd304d37206fe69e034e5"
+    },
+    {
+      "name": "Lukas Petrov",
+      "crossing": 686776,
+      "residual": "649203a08ba8b156ed270d9187774796fabee292a4e646184e7a04e4f858d5d8f764d55c"
+    },
+    {
+      "name": "Stephen Vural",
+      "crossing": 213360,
+      "residual": "86f8686d2d5544738416a400ec0c7184cda4d2284664e4365725ed7f3f59fa9683eb04fe"
+    },
+    {
+      "name": "Dragan Vernard",
+      "crossing": 687711,
+      "residual": "b82e54b7fc844447156e7a7a843d2b12026e7c84cd18d6970830c51496756948c3a0b284"
+    },
+    {
+      "name": "Maren Strange",
+      "crossing": 628948,
+      "residual": "7d94926f57d1ffb34cdf60b798ccc4c6e5fd98d79ad5eb901aed7bbd39cc788ad04319f3"
+    },
+    {
+      "name": "Ivo Lang",
+      "crossing": 789112,
+      "residual": "347457f2ee887133e0109657e276f9ad622e944903a988b185f3b4e20dbd3c7ade65ad7d"
+    },
+    {
+      "name": "Emil Sandor",
+      "crossing": 224679,
+      "residual": "f6a17157f4c3e3670ab2b4b3d2b7582e661ceec40ce6275d233a0fabf9d6cb00eb084e5f"
+    },
+    {
+      "name": "Dalia Radu",
+      "crossing": 665512,
+      "residual": "6204dddb9aac7ed56bc98f510c1dec41402cc47e7808ee2b981207c1b9a5df87855976a3"
+    },
+    {
+      "name": "Cynthia Richards",
+      "crossing": 335610,
+      "residual": "c0843a3e867ccc73214cfa5eae973e26185964783ea8f4ef00f0ddbb5260c21cf3a30552"
+    },
+    {
+      "name": "Kristoff Novac",
+      "crossing": 608486,
+      "residual": "21c067d3c572b81fafdcb88b2621932bd3a2ae62611713326a1386e75d5c48bd612634cc"
+    },
+    {
+      "name": "Ruta Maximoff",
+      "crossing": 876483,
+      "residual": "47d0b7f1185a3cba0348d23543135cd93721a53c172fba1a3eb080ba08594795a3fbc680"
+    },
+    {
+      "name": "Emil Dumitru",
+      "crossing": 326737,
+      "residual": "dff39d05a2d5b167ae25a289525aa44b871f55d4ce64bea62a9dd6244fb80f016d0136cd"
+    },
+    {
+      "name": "Elke Barbu",
+      "crossing": 763847,
+      "residual": "2f3b4c9ca06f672ca992ff6b8ba088e0e90c4a3bb32acf46ce6c753546abb79d842dee45"
+    },
+    {
+      "name": "Vesna Richards",
+      "crossing": 649037,
+      "residual": "1e7e706af50cb226286dc1fd150f298cbd77af0f512ea3278179bbf6560f12f023c709ed"
+    },
+    {
+      "name": "Elke Lang",
+      "crossing": 320512,
+      "residual": "eca391022f6ca33473fdfbf8418811810428b962151ec3f494f5e9f4e44d882c858edb9a"
+    },
+    {
+      "name": "Sasha Antonescu",
+      "crossing": 718725,
+      "residual": "606ca8576d8927fc467a63d9cbe413a17b6dfb08ae78ed83c50dd604d37d69f0e849f9da"
+    },
+    {
+      "name": "Pavel Varga",
+      "crossing": 112832,
+      "residual": "dc06f3e3269b5dd8d0ace1b4e8563ddf04b397bf44beb22d4c3c502f44b1cb83e20c0dee"
+    },
+    {
+      "name": "Maren Stan",
+      "crossing": 418750,
+      "residual": "0fe2f85e249d5ff9d958089b5d981f1174152062a9d6ac57b89f2c1ff108d6f0f8cb218b"
+    },
+    {
+      "name": "Mira Craciun",
+      "crossing": 102435,
+      "residual": "ff2c034b0bbb0945de63c032af3965c525c3dd5e7aaa8cc555bce53289a061d37b718063"
+    },
+    {
+      "name": "Cynthia Petrov",
+      "crossing": 172349,
+      "residual": "ad6d59025c9aa46cc2a1c1af26e13c72b486ed329638278fd42472cb793a9bad12a47baa"
+    },
+    {
+      "name": "Ivo Voss",
+      "crossing": 778220,
+      "residual": "b82b76cc5d473aa70a53dfea75b013e12c72ee173877848c11160a0438cb666f3dcec456"
+    },
+    {
+      "name": "Ilya Dumitru",
+      "crossing": 739561,
+      "residual": "15651c77ac7085b808eaf3c890abdab022ec22d247f3790fb065d384542c31ac53d8ff8a"
+    },
+    {
+      "name": "Mira Rusu",
+      "crossing": 559731,
+      "residual": "19c93befe90f13b4e7d15a8cbd2c354e023ed89a0978dcd87c958eb6cc731aca8698f09e"
+    },
+    {
+      "name": "Dragan Vural",
+      "crossing": 892829,
+      "residual": "f127a4e24d1512b0ca76a2eb0387caa8f0852656f287624b54cac6043028a43907aac7ae"
+    },
+    {
+      "name": "Ana Vernard",
+      "crossing": 316879,
+      "residual": "ae41b47f50627d5c26540aea5ae579f1472c9f3e00831c3f8fa5a0e44f623c1178203215"
+    },
+    {
+      "name": "Marek Richards",
+      "crossing": 184369,
+      "residual": "fcb59bba3668e1e100f335d4fac0d70561eccb1fcaf4116288b01195496e99c385e9006a"
+    },
+    {
+      "name": "Victor Sandor",
+      "crossing": 160074,
+      "residual": "0152c93e82abb3f205821bdcad6c193f74ca84a8446c2a1efc082638c09bddcd5d3bffac"
+    },
+    {
+      "name": "Victor Dumitru",
+      "crossing": 265418,
+      "residual": "8c3cfce264cb0cb5084da8021a66f0e736c573440433a4ec7491664705275a37fd2e3326"
+    },
+    {
+      "name": "Cynthia Marek",
+      "crossing": 418280,
+      "residual": "c0dc6b7f17b4d06b4c23b2bf3b2a93473bbfdd5617c2c5d38150866aa78e63a7ffbe0b30"
+    },
+    {
+      "name": "Wanda Vernard",
+      "crossing": 892168,
+      "residual": "e85358fc899a21417669ecb15027c3b743079b9353d80dcf8ceaab8cfe6b258fbdbaa5ed"
+    },
+    {
+      "name": "Ilya Strange",
+      "crossing": 307910,
+      "residual": "7f44cd4e5da74c3fb3acdee686fd9a593ee5602410b2d566a76ab41ef54c2a2d5382c3cd"
+    },
+    {
+      "name": "Petra Novak",
+      "crossing": 814670,
+      "residual": "e969755af50c8c4d556478bea99d7fe0146dcbe84de6be8950ee16beee4138e4e875901b"
+    },
+    {
+      "name": "Vesna Varga",
+      "crossing": 716885,
+      "residual": "29725b6c4a8c0554bbe56bbe4dd2d1ee77998a8b62c276f9836f716848917001fddd970f"
+    },
+    {
+      "name": "Pavel Lang",
+      "crossing": 558307,
+      "residual": "77a638ed84444bfbf2eacbb1f0e3b56f8f7a9d0310138d2b99e93a958bb6013934dbf00b"
+    },
+    {
+      "name": "Lukas Marek",
+      "crossing": 603733,
+      "residual": "9b80216f07427e65e42e70c6989987481abfde2a142859b457d2ecba6d728ba1939f95f6"
+    },
+    {
+      "name": "Katarina Rusu",
+      "crossing": 549161,
+      "residual": "002dd3418781428fbc15a1436b2d3b3897525415d439666ed62e555cc12914e00a113f98"
+    },
+    {
+      "name": "Marek Novak",
+      "crossing": 105408,
+      "residual": "a01e68383d2d2c15daa4995b51d5c95bc3a06173e4c62371c20ecd948d5747aaa10b812c"
+    },
+    {
+      "name": "Wanda Maximoff",
+      "crossing": 696369,
+      "residual": "51d3175bbed13eb1fdd26a14f3df708af67751773531388560a2bd2ddb82bad76581fbfd"
+    },
+    {
+      "name": "Ana Ilic",
+      "crossing": 980314,
+      "residual": "fd5029abbb69316efec75fcae3f57f6f867c66bb58f7f2ebe2970d7bcc34d65b75bf5c04"
+    },
+    {
+      "name": "Reed Lukic",
+      "crossing": 161756,
+      "residual": "104168e54f3d1c6f84906d165e9934b8012ce6c2a52fc307ac2b957c3e3c901cd4b32077"
+    },
+    {
+      "name": "Mira Dumitru",
+      "crossing": 841186,
+      "residual": "3222829bd2fd68087deb889e2dc141444ef4b02fc4cf638273c8e72ed4d810f52b05f3c1"
+    },
+    {
+      "name": "Cynthia Barbu",
+      "crossing": 919607,
+      "residual": "33290f7915a1478eb1454c301a7534a9f7254ffca9fea8e7beba7b58f0e8e79fd77496ed"
+    },
+    {
+      "name": "Wanda Richards",
+      "crossing": 218703,
+      "residual": "91ee7151d9af82f9ff51bb7fc0827dab6a83b0b389dce36c007ea5af397c07cefaaac889"
+    },
+    {
+      "name": "Kristoff Horvat",
+      "crossing": 612032,
+      "residual": "4b3cb7d1707443e6ff7387b89c084273d137d14e5023ad3f4f791143296c62e25d1972fc"
+    },
+    {
+      "name": "Ana Rusu",
+      "crossing": 839576,
+      "residual": "53df2a2a1e4ac31685657bf669f7088c110cc50f1e135139d8b2fa99b4d418b445f1540a"
+    },
+    {
+      "name": "Stephen Barbu",
+      "crossing": 850123,
+      "residual": "8c05b0fb7c2845e8aee247cb0f92a8ecf7841fb37f5e48e6042d7f43205182b6b0bcaa3c"
+    },
+    {
+      "name": "Reed Pavic",
+      "crossing": 151810,
+      "residual": "5ffcf37158ddaff56ad9707a0ac40c0d1d8c20ed79949bc5b7c2d3278ffdc2580ce93a18"
+    },
+    {
+      "name": "Elke Voss",
+      "crossing": 369394,
+      "residual": "0dc1e08cb32fa0fac6f6929615dc4a1d6b2fa7174348b294bb2868bbc4050ede8d3e0b25"
+    },
+    {
+      "name": "Ivo Novac",
+      "crossing": 680416,
+      "residual": "56c4a89f6bcf263482059f6ae5176d22df0b2e672fb921d879cf6409de77f5b217fc6ce7"
+    },
+    {
+      "name": "Goran Sandor",
+      "crossing": 163380,
+      "residual": "bcac4bad7a1bd6d7caee267a56ffb7dd6851ed9c23d638127bf30f14aea0e726fd0ed712"
+    },
+    {
+      "name": "Victor Novak",
+      "crossing": 509503,
+      "residual": "8b30d1ea5a5bb7230a8acbacd4e47a0f218f020d00566ee497b47bbc15e5ba3a45b19ade"
+    },
+    {
+      "name": "Wanda Toth",
+      "crossing": 102084,
+      "residual": "54102bad80128bf425ec4176967c9bd7ff4eddd6b2095d7b4e957158b670f3d4a740a6eb"
+    },
+    {
+      "name": "Stephen Vernard",
+      "crossing": 919818,
+      "residual": "eda76a5a03bb536eb2baa8d52c17e5f50ba7282985c7eb8494792fa86a9e5cb47204290e"
+    },
+    {
+      "name": "Katarina Petrov",
+      "crossing": 883434,
+      "residual": "8abe486dfba90cc3b06aa267f3070df14968a8b5b5a5073d012a8015bf1951e1a19c434d"
+    },
+    {
+      "name": "Reed Antonescu",
+      "crossing": 287039,
+      "residual": "c56c864ab3b4673dc73a96da530bccafa8367e975c7601907e2ebf3f75bce91a608a622b"
+    },
+    {
+      "name": "Goran Kerras",
+      "crossing": 758542,
+      "residual": "57449e17c88b80b710807977ee1fb82a49bb90d0d5bd48a679442c3b5f2d81de405d82f7"
+    },
+    {
+      "name": "Wanda Sandor",
+      "crossing": 845461,
+      "residual": "79a3753f5c77417de4fdef64d84b4acf9bd13bf08aaf37f151e50780838f4904657bda2b"
+    },
+    {
+      "name": "Goran Varga",
+      "crossing": 990253,
+      "residual": "820cee9f3946cf8f689b9bef19298244f50d9c04667dc4dc16bd1f2b35f1c9a8b46da36c"
+    },
+    {
+      "name": "Nadia Lang",
+      "crossing": 120509,
+      "residual": "f971d636b83c536962dd1b6a8a825cbfe85f402c6471bab87255f542a4c23cb30e9d62ed"
+    },
+    {
+      "name": "Mira Lukic",
+      "crossing": 767416,
+      "residual": "0fb1f69e183f14fa7c6c7651b6f38977397e2d4f00a3037122d531c4d0b7399c0369b401"
+    },
+    {
+      "name": "Petra Strange",
+      "crossing": 170984,
+      "residual": "0ce1a22deae728bd69540fb93e3e052edd0951ede00255868794d84128421923d61525c9"
+    },
+    {
+      "name": "Marek Novac",
+      "crossing": 602830,
+      "residual": "5cf95b979a18c8a86a25859005e8fcfd61aaadbce64ea774157ff5330fa96af2a17c0271"
+    },
+    {
+      "name": "Vesna Costa",
+      "crossing": 703442,
+      "residual": "6419fcb7a413b84392f2318c975af80ad3845f9d6d7c1b94985f19cf38cc29d0503e552c"
+    },
+    {
+      "name": "Dalia Costa",
+      "crossing": 776003,
+      "residual": "9160d79ca4adf2bcdaf023e0258a7ef9a6c34aa3c7a31e5e2cee4b0e3ba61f758ed9c4a0"
+    },
+    {
+      "name": "Pavel Novak",
+      "crossing": 595202,
+      "residual": "26bff95a6253dfb3171f9ae640919493d118d9c424732b16c8c991d254ea1e69558ff33e"
+    },
+    {
+      "name": "Dalia Sandor",
+      "crossing": 551409,
+      "residual": "09d4683173db48f4cea1d1faa06a37626dad52d8cc4fd8cff305bf5727d13112fe6729ee"
+    },
+    {
+      "name": "Yelena Ilic",
+      "crossing": 184863,
+      "residual": "680326fd6335ff2b3647d507ce73667b915c3317253bab4ff79254625551186b26370d5c"
+    },
+    {
+      "name": "Vesna Moldovan",
+      "crossing": 495340,
+      "residual": "b78f6d9f7959b41be856780bee6f780e5309cd3417eec88ecfa183156c09803b042559bc"
+    },
+    {
+      "name": "Ruta Dumitru",
+      "crossing": 816377,
+      "residual": "65a665ee6247a68fe16c13abe0206add0bc74019a95b85f4adb37f2008c41a959bca6e49"
+    },
+    {
+      "name": "Bogdan Ostrov",
+      "crossing": 347820,
+      "residual": "03db90610050d025d25321158c886b0a37b75f69f6a8906966ac619e48c9e0a9fb2d82a8"
+    },
+    {
+      "name": "Dragan Novac",
+      "crossing": 455676,
+      "residual": "b54721681f3d599dd40965f24c693e7d3057cddae29125789549b368588ec7c889d269b5"
+    },
+    {
+      "name": "Vesna Sandor",
+      "crossing": 447891,
+      "residual": "00683148d3884048b10b465c7ee95ad4e59651b203dded726f51c5a4c24c607dd683d3ca"
+    },
+    {
+      "name": "Orlek Ilic",
+      "crossing": 811674,
+      "residual": "2c08b62999e41bedc8dbb29acebcce711ecbc68996a850d7bb8936206be95d89547a3041"
+    },
+    {
+      "name": "Katarina Balan",
+      "crossing": 369149,
+      "residual": "9e35432b6ef998745b52fcf7f8f58dd5a8f8cd64283d9d444d180cd30ebdb898ee328234"
+    },
+    {
+      "name": "Yelena Barbu",
+      "crossing": 917408,
+      "residual": "68b892aa5a596fd65e0731e9d681a14538ebfa4ae5921d713f12bd9d0b083a549ee247bb"
+    },
+    {
+      "name": "Pavel Radu",
+      "crossing": 271816,
+      "residual": "2c7ff0b413a34ee01a5c3f01c790ae7545868f44b4ea6711fc07ae1f3fe51987617bca54"
+    },
+    {
+      "name": "Wanda Petrov",
+      "crossing": 430826,
+      "residual": "7b3fbed23bbf7fbe6b60fc4be1297e9bd54dd02254e3ebff40e8655ab875d5a139e258e9"
+    },
+    {
+      "name": "Elke Dumitru",
+      "crossing": 646036,
+      "residual": "42ef19a6b3001a455a34e698153e44aa7c36c132f4e46d3bde911496d3e0061ee8d45783"
+    },
+    {
+      "name": "Dalia Marek",
+      "crossing": 573152,
+      "residual": "cf38710d0c28e2d7cc19f1f25fd52f70eb9115d2cbf2b500213f80fee4b11bbc48d587d4"
+    },
+    {
+      "name": "Katarina Strange",
+      "crossing": 377167,
+      "residual": "614b1b5bb95597ce83c5a38720d425c4e76bed6d84a408a5419461feb17bf97abe522779"
+    },
+    {
+      "name": "Ivo Richards",
+      "crossing": 650500,
+      "residual": "59eb123439306607dec81eca1dad1a79807b71873d24ad7e2b52330b5a7cafe1b1a5bccd"
+    },
+    {
+      "name": "Emil Maximoff",
+      "crossing": 136268,
+      "residual": "bb51099ff655e0c103356fba12ba97c7b62b93b6c761cb817f1dccbcd03897d4f4b739fd"
+    },
+    {
+      "name": "Mira Lang",
+      "crossing": 215703,
+      "residual": "ddfbe0e891d26c0592f6ab2054fd805f98955e717725aed72de6c235779f22fb95d60a4c"
+    },
+    {
+      "name": "Maren Vernard",
+      "crossing": 538960,
+      "residual": "7025fb19a2f58a4ed3e57d2e4ee46e38e3526e720b91953390ac524b02844f06098aba92"
+    },
+    {
+      "name": "Vesna Ilic",
+      "crossing": 897391,
+      "residual": "45eda185fee281263864991f8b1710c4e134da48bbc1a2bb90d06ca77ecdae22bed6259b"
+    },
+    {
+      "name": "Maren Horvat",
+      "crossing": 819497,
+      "residual": "594e2bc8d4e69874d81b06dd0046315c92852a5fcfc2918cfb3ef219d79e5e182a009fcb"
+    },
+    {
+      "name": "Kristoff Rusu",
+      "crossing": 878914,
+      "residual": "ca9fa9ed666e39d248711723fd9c0053f57aeb52bcc1d9302c851faf73887bcf7ac9df57"
+    },
+    {
+      "name": "Pavel Craciun",
+      "crossing": 810403,
+      "residual": "41d520694b319df4e3656fc305a0a0530d520cb70f10a14e9df7790ae2513875b4cd34a2"
+    },
+    {
+      "name": "Bogdan Vernard",
+      "crossing": 563250,
+      "residual": "199d9580bb8f08b57e3b6bc0cb18fd73da5c95c972e419f5e2923878f150690946e9162d"
+    },
+    {
+      "name": "Vesna Ostrov",
+      "crossing": 107779,
+      "residual": "d0919530254eb92c43f2e22a8cf002123379f43e38dce3737d8f238d08c6ba4a5e1268f9"
+    },
+    {
+      "name": "Katarina Novak",
+      "crossing": 184524,
+      "residual": "37e1616716c5d0cbb182370e4fd16c6bc3f0ee49267cc9dcd5c9b7fd1edaa712788ebb8f"
+    },
+    {
+      "name": "Stephen Ilic",
+      "crossing": 990605,
+      "residual": "6696aae753888a90ab528032c3c90a33c16655c0710bfd662cbb1b89812e86a947994747"
+    },
+    {
+      "name": "Wanda Kerras",
+      "crossing": 616327,
+      "residual": "92ded6dad359e8b8c8137150a7df07265af25e787669bedc1e360be66b14f5ca447624b6"
+    },
+    {
+      "name": "Cynthia Stan",
+      "crossing": 525132,
+      "residual": "44cc485c08915372579c9374b4fec888d26350da525e7d8ce6f34944794c578854763385"
+    },
+    {
+      "name": "Lukas Barbu",
+      "crossing": 538184,
+      "residual": "9ccc554f734c4fdbd636cb353c62e34d2c6d0e311e6a825dff2975881e3e4ec245251488"
+    },
+    {
+      "name": "Ana Horvat",
+      "crossing": 436338,
+      "residual": "118ff33f5726c802428604fac493b2c801c7d62831aadcc06aa4714b4b2fcd5401eade94"
+    },
+    {
+      "name": "Tomas Balan",
+      "crossing": 964295,
+      "residual": "574a09181238735a83bf459c07e60ab8435727650c0175efd1a66e245fbfe0781b41a7a9"
+    },
+    {
+      "name": "Bogdan Antonescu",
+      "crossing": 116714,
+      "residual": "e1b5e2a8a34c5fe097aaec46d07d5570209e0aae44d3682ff653f8ff3d11b071114dde99"
+    },
+    {
+      "name": "Tomas Costa",
+      "crossing": 158464,
+      "residual": "946e313d43b755634d772e29d42ea0b199780762d5fa78488a7d6f4020179c08b973279f"
+    },
+    {
+      "name": "Bogdan Dumitru",
+      "crossing": 367438,
+      "residual": "5819337dd4e81a05693ec5c15404a6a0759c6b674f6680813dd05fa2ffe21cba09f6dddd"
+    },
+    {
+      "name": "Reed Petrov",
+      "crossing": 323917,
+      "residual": "d746d54f6da2a6f17c22b6fe11d3dfc3283c88e2faade2c98dc00ea468a0b0bf271ce55e"
+    },
+    {
+      "name": "Petra Lang",
+      "crossing": 477896,
+      "residual": "933870fef84be68a0f41cd52f0e5e31146474f34ce845e58988e1886adafe2d66e050c13"
+    },
+    {
+      "name": "Yelena Ostrov",
+      "crossing": 765890,
+      "residual": "2f1df5da8706a6d27d85ee945c18e4745632336057cfb76c9ea1206d5014b008f1ca47ec"
+    }
+  ]
+}

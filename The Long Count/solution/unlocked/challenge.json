@@ -1,0 +1,9 @@
+{
+  "scheme": "chained PoW: block i nonce has BITS leading-zero SHA256 over prev key; keystream = concat(key_i[:PER]); ct = flag XOR keystream.",
+  "root": "notary-root-3301",
+  "bits": 18,
+  "steps": 6,
+  "per": 7,
+  "ct": "7a6574e439582875725dcaf7b5fe62725fd46c16f8307273319eb8ec6e6778bb44a6e6747d",
+  "note": "Brute each block in order; the chain forbids shortcuts. Wrong nonce -> wrong key."
+}

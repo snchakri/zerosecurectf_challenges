@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecurectf{tumbler_21c558a87337}"
+    ],
+    "elapsed_seconds": 1.26
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

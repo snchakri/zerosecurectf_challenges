@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecurectf{lopsided_5c398e080a35}"
+    ],
+    "elapsed_seconds": 11.19
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

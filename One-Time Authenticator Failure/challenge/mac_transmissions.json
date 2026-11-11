@@ -1,0 +1,11 @@
+{
+  "p": "1361129467683753853853498429727072845819",
+  "m1_hex": "07085c14bf1549e9e5753635ce4a89a055d57e4046c1f3c97980d81eca0c1299",
+  "tag1": "33017925952650625993375163973063927512",
+  "m2_hex": "c409b1ffe211f0229db4e1e4843938aa54d9976baf65780bae0c013a1bd4d96e",
+  "tag2": "1198584636414697061247537182287368892527",
+  "target_hex": "52454c454153452d5641554c542d4b4559532d544f2d4245415245523b415554483d444f4f4d00000000000000000000",
+  "sealed_flag_hex": "0477e755f2450776da7ef9f5fd0d5f02854c2d247e5ce4cdfba08f5de3b71f4cfde3d71063f9e28f84c67534bb85648ee44c4f8c1e22357d46969ada346e85e62f1bfcf2f496352629d1ee7d31",
+  "mac": "One-time polynomial MAC over GF(2^130-5): split message into 16-byte big-endian blocks c_1..c_k; acc=0; for each block acc=(acc+c_i)*r mod p; tag=(acc+s) mod p. m1 and m2 were both signed with the SAME (r,s).",
+  "sealing": "flag = AES-256-GCM decrypt of (nonce||ct||tag)=sealed_flag_hex; key=SHA256(b'zsctf-poly1305|key|'+ascii(decimal(T))); nonce=SHA256(b'zsctf-poly1305|nonce|'+ascii(decimal(T)))[:12]; T = the forged MAC tag of target_hex under the recovered (r,s)."
+}

@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "continuation checks",
+    "returncode": 0,
+    "observed_flags": [
+      "flag{close_primes_leave_shallow_graves}"
+    ],
+    "elapsed_seconds": 0.06
+  },
+  "archive_note": "archived reference; not rerun",
+  "event_answer_file": null
+}

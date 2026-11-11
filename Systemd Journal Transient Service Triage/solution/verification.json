@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecure{systemd_cgroup_environ_transient_leak_55da}"
+    ],
+    "elapsed_seconds": 0.06
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

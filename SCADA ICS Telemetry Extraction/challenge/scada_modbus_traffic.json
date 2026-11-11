@@ -1,0 +1,33 @@
+{
+  "protocol": "Modbus/TCP",
+  "unit_id": 1,
+  "function_code": "0x10 (Write Multiple Registers)",
+  "starting_address": 40001,
+  "register_count": 24,
+  "registers_hex": [
+    "0x7A65",
+    "0x726F",
+    "0x7365",
+    "0x6375",
+    "0x7265",
+    "0x7B6D",
+    "0x6F64",
+    "0x6275",
+    "0x735F",
+    "0x7363",
+    "0x6164",
+    "0x615F",
+    "0x686F",
+    "0x6C64",
+    "0x696E",
+    "0x675F",
+    "0x7265",
+    "0x6769",
+    "0x7374",
+    "0x6572",
+    "0x735F",
+    "0x3531",
+    "0x6161",
+    "0x7D00"
+  ]
+}

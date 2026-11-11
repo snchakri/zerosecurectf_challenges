@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecure{merkle_hellman_superincreasing_lattice_10f2}"
+    ],
+    "elapsed_seconds": 1.06
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

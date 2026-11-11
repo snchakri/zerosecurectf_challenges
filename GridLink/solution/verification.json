@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecurectf{gridlink_a8fdb403349d}"
+    ],
+    "elapsed_seconds": 0.11
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

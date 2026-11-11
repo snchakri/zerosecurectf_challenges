@@ -1,0 +1,20 @@
+{
+  "layer": 18,
+  "id": "layer-18",
+  "title": "Trusted Tool, Breach Tool",
+  "act": 3,
+  "timer_seconds": 210,
+  "public_asset": "service_worker.js",
+  "canonical_key": "cache_is_the_confession",
+  "canonical_aliases": [
+    "cache_is_the_confession",
+    "cache-is-the-confession"
+  ],
+  "false_positive_key": "console_warnings_matter",
+  "false_positive_aliases": [
+    "console_warnings_matter",
+    "console-warnings-matter"
+  ],
+  "verified_fragment": "shard::18::cache-prism",
+  "poison_fragment": "shard::18::warning-prism"
+}

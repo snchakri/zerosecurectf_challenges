@@ -1,0 +1,14 @@
+# Osint Event Trace
+
+**Category:** Osint
+
+Category: OSINT
+Difficulty: Beginner
+
+This challenge requires internet access.
+Use the official public ZeroSecure event website to identify the city named in the LOCATION VECTOR section:
+https://www.zerosecurectf.online/
+
+Wrap the city name in the flag format below, using lowercase letters:
+ZeroSecure_CTF{part5_cityname}
+

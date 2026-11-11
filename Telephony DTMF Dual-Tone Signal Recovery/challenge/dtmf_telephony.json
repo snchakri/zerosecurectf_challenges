@@ -1,0 +1,34 @@
+{
+  "codec": "G.711 PCMU",
+  "dtmf_tones_detected": [
+    {
+      "tone": "1",
+      "freqs": [
+        697,
+        1209
+      ]
+    },
+    {
+      "tone": "3",
+      "freqs": [
+        697,
+        1477
+      ]
+    },
+    {
+      "tone": "3",
+      "freqs": [
+        697,
+        1477
+      ]
+    },
+    {
+      "tone": "7",
+      "freqs": [
+        852,
+        1209
+      ]
+    }
+  ],
+  "message": "Decoded PIN authorizes token: zerosecure{dtmf_dual_tone_frequencies_telephony_18bb}"
+}

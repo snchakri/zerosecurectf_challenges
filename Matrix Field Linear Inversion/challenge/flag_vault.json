@@ -1,0 +1,4 @@
+{
+  "sealed_flag_hex": "8cfd9264d12909799d1cb6b1590bb8415584b6db90606824d8ca11ad7aa6a242b02b0fe437ffb4be944b50ec06fef4ac7fe6086617164c76253bd2efbc7858961bc57b0ef18fcd193735246b",
+  "sealing": "flag = AES-256-GCM decrypt of (nonce||ct||tag)=sealed_flag_hex; key = SHA256(b'zsctf-hill|key|' + Kbytes); nonce = SHA256(b'zsctf-hill|nonce|' + Kbytes)[:12]; Kbytes = bytes(K[0][0],K[0][1],K[0][2],K[1][0],...,K[2][2]) with the 3x3 Z_26 encryption key K (ciphertext column = K * plaintext column mod 26)."
+}

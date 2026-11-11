@@ -1,0 +1,491 @@
+{
+  "challenge": {
+    "id": "project-null",
+    "title": "PROJECT: NULL // 30-Layer Cryptographic Initiation",
+    "version": "0.1.0",
+    "flag_format": "zerosec{...}"
+  },
+  "generated_at": "2026-04-17T19:00:58.118338+00:00",
+  "layers": [
+    {
+      "layer": 1,
+      "id": "layer-01",
+      "title": "The Notice",
+      "act": 1,
+      "timer_seconds": 180,
+      "public_asset": "/layers/layer-01/boot_vector.txt",
+      "canonical_aliases": [
+        "noticed_by_null",
+        "noticed-by-null"
+      ],
+      "false_positive_aliases": [
+        "you_have_been_noticed",
+        "you-have-been-noticed"
+      ]
+    },
+    {
+      "layer": 2,
+      "id": "layer-02",
+      "title": "The Comment Never Died",
+      "act": 1,
+      "timer_seconds": 180,
+      "public_asset": "/layers/layer-02/stacktrace.log",
+      "canonical_aliases": [
+        "dom_is_never_dead",
+        "dom-is-never-dead"
+      ],
+      "false_positive_aliases": [
+        "comment_is_the_key",
+        "comment-is-the-key"
+      ]
+    },
+    {
+      "layer": 3,
+      "id": "layer-03",
+      "title": "Breath Discipline",
+      "act": 1,
+      "timer_seconds": 195,
+      "public_asset": "/layers/layer-03/pulse_field.txt",
+      "canonical_aliases": [
+        "breath_means_break",
+        "breath-means-break"
+      ],
+      "false_positive_aliases": [
+        "follow_the_pulse",
+        "follow-the-pulse"
+      ]
+    },
+    {
+      "layer": 4,
+      "id": "layer-04",
+      "title": "Case of Quiet Capitals",
+      "act": 1,
+      "timer_seconds": 180,
+      "public_asset": "/layers/layer-04/ascii_dossier.txt",
+      "canonical_aliases": [
+        "ivory_quiets_the_alarm",
+        "ivory-quiets-the-alarm"
+      ],
+      "false_positive_aliases": [
+        "bacon_reveals_truth",
+        "bacon-reveals-truth"
+      ]
+    },
+    {
+      "layer": 5,
+      "id": "layer-05",
+      "title": "Verification Ritual",
+      "act": 1,
+      "timer_seconds": 180,
+      "public_asset": "/layers/layer-05/verification_memo.txt",
+      "canonical_aliases": [
+        "verify_before_belief",
+        "verify-before-belief"
+      ],
+      "false_positive_aliases": [
+        "integrity_is_optional",
+        "integrity-is-optional"
+      ]
+    },
+    {
+      "layer": 6,
+      "id": "layer-06",
+      "title": "Pattern Is a Confession",
+      "act": 2,
+      "timer_seconds": 180,
+      "public_asset": "/layers/layer-06/operator_grid.txt",
+      "canonical_aliases": [
+        "chronology_beats_authority",
+        "chronology-beats-authority"
+      ],
+      "false_positive_aliases": [
+        "trust_the_director",
+        "trust-the-director"
+      ]
+    },
+    {
+      "layer": 7,
+      "id": "layer-07",
+      "title": "The Margins Still Speak",
+      "act": 2,
+      "timer_seconds": 180,
+      "public_asset": "/layers/layer-07/doctrine_index.txt",
+      "canonical_aliases": [
+        "metadata_keeps_score",
+        "metadata-keeps-score"
+      ],
+      "false_positive_aliases": [
+        "page_numbers_obey_truth",
+        "page-numbers-obey-truth"
+      ]
+    },
+    {
+      "layer": 8,
+      "id": "layer-08",
+      "title": "Offset Loyalty",
+      "act": 2,
+      "timer_seconds": 180,
+      "public_asset": "/layers/layer-08/byte_order.hex",
+      "canonical_aliases": [
+        "little_endian_stays_loyal",
+        "little-endian-stays-loyal"
+      ],
+      "false_positive_aliases": [
+        "big_endian_is_cleaner",
+        "big-endian-is-cleaner"
+      ]
+    },
+    {
+      "layer": 9,
+      "id": "layer-09",
+      "title": "The Path Hidden in Coordinates",
+      "act": 2,
+      "timer_seconds": 180,
+      "public_asset": "/layers/layer-09/coordinate_sprite.csv",
+      "canonical_aliases": [
+        "coordinates_draw_the_route",
+        "coordinates-draw-the-route"
+      ],
+      "false_positive_aliases": [
+        "pixels_form_the_lie",
+        "pixels-form-the-lie"
+      ]
+    },
+    {
+      "layer": 10,
+      "id": "layer-10",
+      "title": "Surface Confidence",
+      "act": 2,
+      "timer_seconds": 210,
+      "public_asset": "/layers/layer-10/pulse_subtitles.vtt",
+      "canonical_aliases": [
+        "silence_marks_the_words",
+        "silence-marks-the-words"
+      ],
+      "false_positive_aliases": [
+        "subtitles_are_enough",
+        "subtitles-are-enough"
+      ]
+    },
+    {
+      "layer": 11,
+      "id": "layer-11",
+      "title": "Architects of NULL",
+      "act": 3,
+      "timer_seconds": 180,
+      "public_asset": "/layers/layer-11/relay_photo.exif.txt",
+      "canonical_aliases": [
+        "exif_names_the_cell",
+        "exif-names-the-cell"
+      ],
+      "false_positive_aliases": [
+        "caption_names_the_cell",
+        "caption-names-the-cell"
+      ]
+    },
+    {
+      "layer": 12,
+      "id": "layer-12",
+      "title": "Foreign Voice",
+      "act": 3,
+      "timer_seconds": 180,
+      "public_asset": "/layers/layer-12/relay_message.eml",
+      "canonical_aliases": [
+        "received_headers_tell_truth",
+        "received-headers-tell-truth"
+      ],
+      "false_positive_aliases": [
+        "dkim_means_internal",
+        "dkim-means-internal"
+      ]
+    },
+    {
+      "layer": 13,
+      "id": "layer-13",
+      "title": "Homoglyph Doctrine",
+      "act": 3,
+      "timer_seconds": 180,
+      "public_asset": "/layers/layer-13/glyph_set.txt",
+      "canonical_aliases": [
+        "normalize_nothing_twice",
+        "normalize-nothing-twice"
+      ],
+      "false_positive_aliases": [
+        "translation_is_authority",
+        "translation-is-authority"
+      ]
+    },
+    {
+      "layer": 14,
+      "id": "layer-14",
+      "title": "Object Stream Heresy",
+      "act": 3,
+      "timer_seconds": 210,
+      "public_asset": "/layers/layer-14/redaction_map.txt",
+      "canonical_aliases": [
+        "objects_outlive_redaction",
+        "objects-outlive-redaction"
+      ],
+      "false_positive_aliases": [
+        "redactions_are_truth",
+        "redactions-are-truth"
+      ]
+    },
+    {
+      "layer": 15,
+      "id": "layer-15",
+      "title": "Mask of the Correct Cipher",
+      "act": 3,
+      "timer_seconds": 210,
+      "public_asset": "/layers/layer-15/memory_frame.svg",
+      "canonical_aliases": [
+        "clean_extracts_can_lie",
+        "clean-extracts-can-lie"
+      ],
+      "false_positive_aliases": [
+        "brightest_frame_is_real",
+        "brightest-frame-is-real"
+      ]
+    },
+    {
+      "layer": 16,
+      "id": "layer-16",
+      "title": "Route That Should Not Exist",
+      "act": 3,
+      "timer_seconds": 180,
+      "public_asset": "/layers/layer-16/route_manifest.json",
+      "canonical_aliases": [
+        "routes_leak_the_staged_path",
+        "routes-leak-the-staged-path"
+      ],
+      "false_positive_aliases": [
+        "first_200_is_truth",
+        "first-200-is-truth"
+      ]
+    },
+    {
+      "layer": 17,
+      "id": "layer-17",
+      "title": "Parameter Doubt",
+      "act": 3,
+      "timer_seconds": 180,
+      "public_asset": "/layers/layer-17/mirror_query.txt",
+      "canonical_aliases": [
+        "duplicate_params_split_intent",
+        "duplicate-params-split-intent"
+      ],
+      "false_positive_aliases": [
+        "longest_reply_is_real",
+        "longest-reply-is-real"
+      ]
+    },
+    {
+      "layer": 18,
+      "id": "layer-18",
+      "title": "Trusted Tool, Breach Tool",
+      "act": 3,
+      "timer_seconds": 210,
+      "public_asset": "/layers/layer-18/service_worker.js",
+      "canonical_aliases": [
+        "cache_is_the_confession",
+        "cache-is-the-confession"
+      ],
+      "false_positive_aliases": [
+        "console_warnings_matter",
+        "console-warnings-matter"
+      ]
+    },
+    {
+      "layer": 19,
+      "id": "layer-19",
+      "title": "Profile Drift",
+      "act": 3,
+      "timer_seconds": 180,
+      "public_asset": "/layers/layer-19/profile_trace.json",
+      "canonical_aliases": [
+        "telemetry_scores_the_target",
+        "telemetry-scores-the-target"
+      ],
+      "false_positive_aliases": [
+        "highest_score_is_safe",
+        "highest-score-is-safe"
+      ]
+    },
+    {
+      "layer": 20,
+      "id": "layer-20",
+      "title": "Scripted Prophecy",
+      "act": 3,
+      "timer_seconds": 210,
+      "public_asset": "/layers/layer-20/oracle_replay.log",
+      "canonical_aliases": [
+        "replay_reveals_the_script",
+        "replay-reveals-the-script"
+      ],
+      "false_positive_aliases": [
+        "live_messages_predict",
+        "live-messages-predict"
+      ]
+    },
+    {
+      "layer": 21,
+      "id": "layer-21",
+      "title": "Broken Arithmetic of Trust",
+      "act": 4,
+      "timer_seconds": 210,
+      "public_asset": "/layers/layer-21/reserve_key.txt",
+      "canonical_aliases": [
+        "rsa_failed_before_factoring",
+        "rsa-failed-before-factoring"
+      ],
+      "false_positive_aliases": [
+        "modulus_must_fall",
+        "modulus-must-fall"
+      ]
+    },
+    {
+      "layer": 22,
+      "id": "layer-22",
+      "title": "Chain of Convenient Truths",
+      "act": 4,
+      "timer_seconds": 210,
+      "public_asset": "/layers/layer-22/xor_chain.csv",
+      "canonical_aliases": [
+        "order_proves_the_chain",
+        "order-proves-the-chain"
+      ],
+      "false_positive_aliases": [
+        "clean_phrase_means_correct",
+        "clean-phrase-means-correct"
+      ]
+    },
+    {
+      "layer": 23,
+      "id": "layer-23",
+      "title": "Length Extends the Lie",
+      "act": 4,
+      "timer_seconds": 210,
+      "public_asset": "/layers/layer-23/apology_mac.txt",
+      "canonical_aliases": [
+        "length_extension_breaks_trust",
+        "length-extension-breaks-trust"
+      ],
+      "false_positive_aliases": [
+        "signed_prefixes_hold",
+        "signed-prefixes-hold"
+      ]
+    },
+    {
+      "layer": 24,
+      "id": "layer-24",
+      "title": "Ciphertext Courtesy",
+      "act": 4,
+      "timer_seconds": 210,
+      "public_asset": "/layers/layer-24/recovery_channel.txt",
+      "canonical_aliases": [
+        "recovery_channel_is_the_oracle",
+        "recovery-channel-is-the-oracle"
+      ],
+      "false_positive_aliases": [
+        "ciphertext_is_private",
+        "ciphertext-is-private"
+      ]
+    },
+    {
+      "layer": 25,
+      "id": "layer-25",
+      "title": "Provenance or Obedience",
+      "act": 4,
+      "timer_seconds": 210,
+      "public_asset": "/layers/layer-25/provenance_chain.json",
+      "canonical_aliases": [
+        "provenance_outranks_completeness",
+        "provenance-outranks-completeness"
+      ],
+      "false_positive_aliases": [
+        "largest_dossier_wins",
+        "largest-dossier-wins"
+      ]
+    },
+    {
+      "layer": 26,
+      "id": "layer-26",
+      "title": "Synchrony Test",
+      "act": 5,
+      "timer_seconds": 240,
+      "public_asset": "/layers/layer-26/sync_notes.txt",
+      "canonical_aliases": [
+        "alignment_beats_single_modes",
+        "alignment-beats-single-modes"
+      ],
+      "false_positive_aliases": [
+        "audio_alone_is_enough",
+        "audio-alone-is-enough"
+      ]
+    },
+    {
+      "layer": 27,
+      "id": "layer-27",
+      "title": "Assigned Before Named",
+      "act": 5,
+      "timer_seconds": 210,
+      "public_asset": "/layers/layer-27/symbol_manifest.txt",
+      "canonical_aliases": [
+        "five_symbols_make_the_seed",
+        "five-symbols-make-the-seed"
+      ],
+      "false_positive_aliases": [
+        "every_symbol_belongs",
+        "every-symbol-belongs"
+      ]
+    },
+    {
+      "layer": 28,
+      "id": "layer-28",
+      "title": "Planted Fragments",
+      "act": 5,
+      "timer_seconds": 210,
+      "public_asset": "/layers/layer-28/fragment_audit.log",
+      "canonical_aliases": [
+        "poisoned_shards_sound_smoother",
+        "poisoned-shards-sound-smoother"
+      ],
+      "false_positive_aliases": [
+        "oldest_fragment_is_safe",
+        "oldest-fragment-is-safe"
+      ]
+    },
+    {
+      "layer": 29,
+      "id": "layer-29",
+      "title": "Recursive Candidate",
+      "act": 5,
+      "timer_seconds": 180,
+      "public_asset": "/layers/layer-29/activation_order.txt",
+      "canonical_aliases": [
+        "state_order_unlocks_truth",
+        "state-order-unlocks-truth"
+      ],
+      "false_positive_aliases": [
+        "linear_progress_is_required",
+        "linear-progress-is-required"
+      ]
+    },
+    {
+      "layer": 30,
+      "id": "layer-30",
+      "title": "Initiation Never Ends",
+      "act": 5,
+      "timer_seconds": 240,
+      "public_asset": "/layers/layer-30/lineage_board.txt",
+      "canonical_aliases": [
+        "lineage_orders_the_final",
+        "lineage-orders-the-final"
+      ],
+      "false_positive_aliases": [
+        "mathematics_crowns_the_voice",
+        "mathematics-crowns-the-voice"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+zerosecure{wasm_linear_memory_stack_validator_31cb}
+zerosecurectf{wasm_linear_memory_stack_validator_31cb}

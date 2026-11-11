@@ -1,0 +1,171 @@
+{
+  "scheme": "27-cell lattice. Render the right cells, in the right order, through orchestrator.py. The key is the temperature pattern of the real cells.",
+  "n": 27,
+  "fragments": 5,
+  "magic": "HEAT",
+  "note": "The Concord counts in primes; heat rises. Wrong cells deadlock and leak decoys.",
+  "containers": [
+    {
+      "id": 0,
+      "cell": "U00",
+      "temp": 238,
+      "payload": "83bfe173ea49d75b3a5b451e"
+    },
+    {
+      "id": 1,
+      "cell": "U01",
+      "temp": 227,
+      "payload": "a24ec7c0e48625d634c3bd8d"
+    },
+    {
+      "id": 2,
+      "cell": "U02",
+      "temp": 31,
+      "payload": "f04e8bd00a53b9af1d9f0e9d"
+    },
+    {
+      "id": 3,
+      "cell": "U10",
+      "temp": 191,
+      "payload": "7df302f3062a981af86bf3cc"
+    },
+    {
+      "id": 4,
+      "cell": "U11",
+      "temp": 33,
+      "payload": "093ea2685c6665fee3a9227f"
+    },
+    {
+      "id": 5,
+      "cell": "U12",
+      "temp": 129,
+      "payload": "252cc004a44a827fade8d9cf"
+    },
+    {
+      "id": 6,
+      "cell": "U20",
+      "temp": 104,
+      "payload": "7f75134d7bf41bc1a296d67f"
+    },
+    {
+      "id": 7,
+      "cell": "U21",
+      "temp": 133,
+      "payload": "f9b40c4b30c5981e69c87ead"
+    },
+    {
+      "id": 8,
+      "cell": "U22",
+      "temp": 115,
+      "payload": "3263253592ac83831a067898"
+    },
+    {
+      "id": 9,
+      "cell": "D00",
+      "temp": 25,
+      "payload": "dce625495b6c48a982dae552"
+    },
+    {
+      "id": 10,
+      "cell": "D01",
+      "temp": 174,
+      "payload": "7f9521ab169c836c12052c44"
+    },
+    {
+      "id": 11,
+      "cell": "D02",
+      "temp": 128,
+      "payload": "144419ec08a7bdc9987cb12a"
+    },
+    {
+      "id": 12,
+      "cell": "D10",
+      "temp": 224,
+      "payload": "832f1272e24c52adf2a3efbf"
+    },
+    {
+      "id": 13,
+      "cell": "D11",
+      "temp": 27,
+      "payload": "a06b52fa629d8449ddb72365"
+    },
+    {
+      "id": 14,
+      "cell": "D12",
+      "temp": 160,
+      "payload": "8cffcaff30336d0b55e3213b"
+    },
+    {
+      "id": 15,
+      "cell": "D20",
+      "temp": 63,
+      "payload": "e44227b1a19a3978bfd588ad"
+    },
+    {
+      "id": 16,
+      "cell": "D21",
+      "temp": 147,
+      "payload": "ae5cd1a5c7a6125ce898ea49"
+    },
+    {
+      "id": 17,
+      "cell": "D22",
+      "temp": 231,
+      "payload": "fc59c57b25efb000951f7646"
+    },
+    {
+      "id": 18,
+      "cell": "L00",
+      "temp": 220,
+      "payload": "52597545fcbfadb6dbde78b6"
+    },
+    {
+      "id": 19,
+      "cell": "L01",
+      "temp": 34,
+      "payload": "674c5dcf422db9377eaf2141"
+    },
+    {
+      "id": 20,
+      "cell": "L02",
+      "temp": 219,
+      "payload": "781d25b96ae35b684e90457b"
+    },
+    {
+      "id": 21,
+      "cell": "L10",
+      "temp": 91,
+      "payload": "65a75c8ad0663adcd9ace80d"
+    },
+    {
+      "id": 22,
+      "cell": "L11",
+      "temp": 54,
+      "payload": "2922862eac15075e34b6635a"
+    },
+    {
+      "id": 23,
+      "cell": "L12",
+      "temp": 37,
+      "payload": "5afdf6d9a120d642e3a4c4d5"
+    },
+    {
+      "id": 24,
+      "cell": "L20",
+      "temp": 247,
+      "payload": "d74ac2995aca633287d8962d"
+    },
+    {
+      "id": 25,
+      "cell": "L21",
+      "temp": 188,
+      "payload": "37d814c8698601a929bdcc0b"
+    },
+    {
+      "id": 26,
+      "cell": "L22",
+      "temp": 149,
+      "payload": "535eac51f71f863bdba19a14"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+zerosecure{staged_memory_code_decryption_runtime_04de}
+zerosecurectf{staged_memory_code_decryption_runtime_04de}

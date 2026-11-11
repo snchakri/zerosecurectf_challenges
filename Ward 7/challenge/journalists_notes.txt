@@ -1,0 +1,42 @@
+PERSONAL ARCHIVE — M. HORAKOVA
+recovered from storage unit, Brno, 2023
+
+------------------------------------------------------------
+notes re: WARD 7 documents (received from Novak, Nov 2003)
+------------------------------------------------------------
+
+Nov 14 2003
+Novak called. Said he found something during the Svratka
+decommission. Keystore file from the old relay system.
+Two admin keys. Same document encrypted twice.
+He said the guy who built it was sloppy. "Same inputs,
+same machine, one afternoon. He probably used the same
+seed." I don't know what that means.
+
+Nov 17 2003
+Tried to open the ciphertext files. No luck. They're just
+long numbers. Novak said the keys are in the keystore and
+that's all you need. "You don't need the private key if
+you know what you're looking for." He wouldn't explain
+further.
+
+Nov 21 2003
+Novak not answering. Went to his apartment. Neighbour said
+he left suddenly. Left most of his things.
+
+Nov 28 2003
+I've been staring at these numbers for a week.
+The two public exponents are different. The modulus is the
+same. Is that normal? Is that supposed to happen?
+I don't know enough to know if this is a mistake or
+something else.
+
+[undated -- much later, handwritten on a sticky note attached to the file]
+CASE-1943-29
+He said the case number was the only thing that survived
+outside the system. I wrote it down in case it mattered.
+I never found out what it referred to.
+
+------------------------------------------------------------
+End of notes
+------------------------------------------------------------

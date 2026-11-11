@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecurectf{morse_bba1ee57d77e}"
+    ],
+    "elapsed_seconds": 0.1
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

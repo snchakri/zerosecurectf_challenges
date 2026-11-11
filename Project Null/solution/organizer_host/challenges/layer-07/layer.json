@@ -1,0 +1,20 @@
+{
+  "layer": 7,
+  "id": "layer-07",
+  "title": "The Margins Still Speak",
+  "act": 2,
+  "timer_seconds": 180,
+  "public_asset": "doctrine_index.txt",
+  "canonical_key": "metadata_keeps_score",
+  "canonical_aliases": [
+    "metadata_keeps_score",
+    "metadata-keeps-score"
+  ],
+  "false_positive_key": "page_numbers_obey_truth",
+  "false_positive_aliases": [
+    "page_numbers_obey_truth",
+    "page-numbers-obey-truth"
+  ],
+  "verified_fragment": "shard::07::index-ember",
+  "poison_fragment": "shard::07::page-ember"
+}

@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "continuation checks",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecurectf{you_keygend_me!}"
+    ],
+    "elapsed_seconds": 0.02
+  },
+  "archive_note": "archived reference; not rerun",
+  "event_answer_file": null
+}

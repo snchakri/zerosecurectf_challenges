@@ -1,0 +1,8 @@
+Analyst note:
+
+- The suspicious access happened after the front desk login.
+- Build the flag from the suspicious username and the more sensitive copied file.
+- Use lowercase and remove only the file extension.
+
+Example pattern:
+ZeroSecure_CTF{someuser_somefile}

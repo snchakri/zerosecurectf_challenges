@@ -1,0 +1,2 @@
+zerosecure{rust_enum_pattern_match_transitions_91da}
+zerosecurectf{rust_enum_pattern_match_transitions_91da}

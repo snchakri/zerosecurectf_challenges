@@ -1,0 +1,9 @@
+HTTP/2 200 OK
+content-type: application/json
+server: nginx/1.24.0
+
+{
+  "status": "success",
+  "secret_token": "zerosecure{sslkeylog_master_secret_decrypted_11bc}",
+  "authorizer": "cluster-admin"
+}

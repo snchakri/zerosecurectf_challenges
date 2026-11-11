@@ -1,0 +1,26 @@
+{
+  "dataset": {
+    "meta": "/mnt/c/Users/chakr/Documents/zerosecurectf_challenges/challenge_4/build/generated/void_dataset.meta.json",
+    "path": "/mnt/c/Users/chakr/Documents/zerosecurectf_challenges/challenge_4/build/generated/void_dataset.npz",
+    "sha256": "9af80562115840554188f65a180ce2507d4dcac4e575a56d1aa2c93ebf608a80"
+  },
+  "final_boss": {
+    "path": "/mnt/c/Users/chakr/Documents/zerosecurectf_challenges/challenge_4/build/generated/final_boss.json",
+    "sha256": "8521bac8713db8260b52f064f7c21882ed803324067b9eaa52b37016c1c46ab1"
+  },
+  "runtime_header": "/mnt/c/Users/chakr/Documents/zerosecurectf_challenges/challenge_4/src/generated_challenge_data.h",
+  "shares": {
+    "files": {
+      "1": "/mnt/c/Users/chakr/Documents/zerosecurectf_challenges/challenge_4/build/generated/share_1.bin",
+      "2": "/mnt/c/Users/chakr/Documents/zerosecurectf_challenges/challenge_4/build/generated/share_2.bin",
+      "3": "/mnt/c/Users/chakr/Documents/zerosecurectf_challenges/challenge_4/build/generated/share_3.bin",
+      "4": "/mnt/c/Users/chakr/Documents/zerosecurectf_challenges/challenge_4/build/generated/share_4.bin"
+    },
+    "manifest": "/mnt/c/Users/chakr/Documents/zerosecurectf_challenges/challenge_4/build/generated/shares_manifest.json"
+  },
+  "weights": {
+    "parity_fixture": "/mnt/c/Users/chakr/Documents/zerosecurectf_challenges/challenge_4/build/generated/parity_fixture.json",
+    "path": "/mnt/c/Users/chakr/Documents/zerosecurectf_challenges/challenge_4/build/generated/weights_reference.npz",
+    "sha256": "bfd7aa69ddcc0269fd9f10cd0892b78267d6dd5bd5b5b8445c9fd73c3c84da0a"
+  }
+}

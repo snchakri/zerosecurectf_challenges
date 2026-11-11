@@ -1,0 +1,28 @@
+rev_08 -- eBPF XDP packet filter (hand-encoded bytecode)
+========================================================
+
+FILES
+  filter.bpf   Raw eBPF program: a flat array of 8-byte instructions.
+  ebpf_vm.py   A small emulator for the eBPF subset filter.bpf uses
+               (no bpftool is required).
+
+INSTRUCTION ENCODING (classic eBPF, little-endian)
+  struct bpf_insn {
+      u8  code;                 // opcode
+      u8  regs;                 // (src_reg << 4) | dst_reg
+      s16 off;                  // branch offset, in instructions, from PC+1
+      s32 imm;                  // immediate
+  };
+
+HARNESS ABI
+  On entry R1 -> ctx, a 16-byte struct:  u64 data at +0, u64 data_end at +8.
+  The bytes from data up to data_end are the "packet" = the candidate key.
+  The program returns an XDP action in R0:
+      1 = XDP_DROP  (key rejected)
+      2 = XDP_PASS  (key accepted)
+
+RUN
+  python ebpf_vm.py '<candidate-key>'        # candidate as argv, or:
+  printf '%s' '<candidate-key>' | python ebpf_vm.py
+
+The filter accepts exactly one packet. Recover it.

@@ -1,0 +1,2 @@
+zerosecure{thompson_nfa_epsilon_transition_regex_99cb}
+zerosecurectf{thompson_nfa_epsilon_transition_regex_99cb}

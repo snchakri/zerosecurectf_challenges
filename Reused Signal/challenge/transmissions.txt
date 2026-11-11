@@ -1,0 +1,4 @@
+frame_01_plaintext = status=greenlight::ok
+frame_01_ciphertext_hex = 3c26233d21467235302c315b233b2521200f753d29
+frame_02_ciphertext_hex = 293e232e696f2a202d1a31563a20270a0073343c273f31471020273c2750102a2d3b0b5e2a2b3134
+operator_note = same stream seed reused every 6 bytes

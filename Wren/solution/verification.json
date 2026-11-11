@@ -1,0 +1,14 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecurectf{WREN_7F423F690287}",
+      "zerosecurectf{wren_7f423f690287}"
+    ],
+    "elapsed_seconds": 0.26
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

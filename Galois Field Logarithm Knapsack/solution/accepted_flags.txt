@@ -1,0 +1,2 @@
+zerosecure{finite_field_log_algebra_chor_rivest_22ad}
+zerosecurectf{finite_field_log_algebra_chor_rivest_22ad}

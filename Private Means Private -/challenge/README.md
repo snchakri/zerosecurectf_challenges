@@ -1,0 +1,14 @@
+# Private Means Private?
+
+**Category:** Blockchain
+
+Title: Private Means Private?
+Category: Blockchain
+Points: 130
+
+The developer insists the rescue code is safe because the variables are marked private in Solidity. That confidence is misplaced.
+
+Use the provided contract and storage dump to recover what was never truly hidden.
+
+Flag format: ZeroSecureCTF{...}
+

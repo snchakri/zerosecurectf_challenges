@@ -1,0 +1,14 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "continuation checks",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecurectf{w34k_f14t_sh4m1r_f0rg3ry}",
+      "zerosecure{w34k_f14t_sh4m1r_f0rg3ry}"
+    ],
+    "elapsed_seconds": 0.09
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

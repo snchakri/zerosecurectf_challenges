@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "layers": [
+    {
+      "layer_id": "sha256:1111...",
+      "command": "FROM alpine:3.19"
+    },
+    {
+      "layer_id": "sha256:2222...",
+      "command": "ENV SECRET_FLAG=zerosecure{docker_intermediate_layer_diff_63c2}"
+    },
+    {
+      "layer_id": "sha256:3333...",
+      "command": "RUN unset SECRET_FLAG && rm -rf /tmp/*"
+    }
+  ]
+}

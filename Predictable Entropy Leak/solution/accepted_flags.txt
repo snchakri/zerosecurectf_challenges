@@ -1,0 +1,2 @@
+zerosecure{mersenne_twister_untemper_state_33bb}
+zerosecurectf{mersenne_twister_untemper_state_33bb}

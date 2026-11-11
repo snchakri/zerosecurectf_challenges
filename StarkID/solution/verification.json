@@ -1,0 +1,6 @@
+{
+  "status": "incomplete source",
+  "execution": null,
+  "archive_note": "incomplete runtime: lib/keys, JWKS route, and key-generation script missing; full author exploit sketch preserved",
+  "event_answer_file": null
+}

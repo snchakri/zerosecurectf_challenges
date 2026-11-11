@@ -1,0 +1,6 @@
+{
+  "status": "incomplete source",
+  "execution": null,
+  "archive_note": "incomplete author material: The archive preserves the kernel and image, but no sector layout, key derivation, or extraction implementation. The cycle is reproducible; decoding the image to the accepted answer was not verified.",
+  "event_answer_file": "accepted_flags.txt"
+}

@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Northstar Staff Console</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #07111f;
+        --card: rgba(8, 15, 28, 0.78);
+        --text: #e5eefc;
+        --muted: #94a3b8;
+        --accent: #22c55e;
+        --accent2: #38bdf8;
+        --border: rgba(148, 163, 184, 0.18);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        background:
+          radial-gradient(circle at top left, rgba(56, 189, 248, 0.22), transparent 28%),
+          radial-gradient(circle at bottom right, rgba(34, 197, 94, 0.15), transparent 30%),
+          linear-gradient(160deg, #020617, var(--bg));
+        font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+        color: var(--text);
+      }
+
+      main {
+        width: min(760px, calc(100vw - 24px));
+        padding: 30px;
+        border-radius: 24px;
+        border: 1px solid var(--border);
+        background: var(--card);
+        box-shadow: 0 30px 90px rgba(2, 6, 23, 0.55);
+        backdrop-filter: blur(16px);
+      }
+
+      h1 {
+        margin: 0 0 10px;
+        font-size: clamp(1.8rem, 4.5vw, 3rem);
+      }
+
+      p {
+        margin: 0 0 12px;
+        color: var(--muted);
+        line-height: 1.6;
+      }
+
+      .bar {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin: 18px 0 22px;
+      }
+
+      .pill {
+        padding: 9px 12px;
+        border-radius: 999px;
+        border: 1px solid rgba(148, 163, 184, 0.2);
+        background: rgba(15, 23, 42, 0.72);
+        color: var(--text);
+        font-size: 0.95rem;
+      }
+
+      .card {
+        border-radius: 18px;
+        padding: 18px;
+        border: 1px solid var(--border);
+        background: rgba(2, 6, 23, 0.42);
+      }
+
+      .lock {
+        display: grid;
+        gap: 14px;
+      }
+
+      .lock strong,
+      .unlock strong {
+        display: block;
+        margin-bottom: 4px;
+      }
+
+      .tiles {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+        gap: 12px;
+        margin-top: 14px;
+      }
+
+      .tile {
+        padding: 14px;
+        border-radius: 16px;
+        background: rgba(15, 23, 42, 0.88);
+        border: 1px solid rgba(148, 163, 184, 0.16);
+        min-height: 92px;
+      }
+
+      .tile span {
+        display: block;
+        color: var(--muted);
+        font-size: 0.92rem;
+        margin-bottom: 8px;
+      }
+
+      .flag {
+        margin-top: 18px;
+        padding: 16px;
+        border-radius: 14px;
+        border: 1px solid rgba(34, 197, 94, 0.35);
+        background: rgba(34, 197, 94, 0.08);
+        color: #dcfce7;
+        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+        overflow-wrap: anywhere;
+      }
+
+      .hidden {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Northstar Staff Console</h1>
+      <p>
+        This page is hidden from the public path. It only opens the release dashboard when the
+        URL asks for the correct view.
+      </p>
+
+      <div class="bar">
+        <div class="pill">route: /staff-only.html</div>
+        <div class="pill">mode: release</div>
+        <div class="pill">source: local only</div>
+      </div>
+
+      <section id="locked" class="card lock">
+        <strong>Access locked</strong>
+        <p>
+          The console is waiting for the release query parameter. Check the page URL and try the
+          correct view before this panel unlocks.
+        </p>
+      </section>
+
+      <section id="unlocked" class="card unlock hidden" aria-live="polite">
+        <strong>Release dashboard ready</strong>
+        <p>
+          The answer is assembled from the tiles below. Read left to right and let the page decoder
+          apply the small offset to each tile.
+        </p>
+
+        <div class="tiles">
+          <div class="tile" data-order="1" data-blob="95.107.121.119.92.111.110.129.127.115.110">
+            <span>Tile 1</span>
+            Encoded prefix
+          </div>
+          <div class="tile" data-order="2" data-blob="72.90.77.131.123.121.109.123.129.129">
+            <span>Tile 2</span>
+            Encoded route clue
+          </div>
+          <div class="tile" data-order="3" data-blob="100.122.127.124.104.126.122.107">
+            <span>Tile 3</span>
+            Encoded robots clue
+          </div>
+          <div class="tile" data-order="4" data-blob="119.107.115.109.106.125.112.107.131.119.116.135.142">
+            <span>Tile 4</span>
+            Encoded suffix
+          </div>
+        </div>
+
+        <div id="flag" class="flag"></div>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

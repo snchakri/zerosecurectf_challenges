@@ -1,0 +1,8 @@
+This is not a broadcast. This is a transmission.
+
+Open the official ZeroSecure website and inspect the LOCATION VECTOR section.
+If the site is unreachable, use the local snapshot in location_vector_snapshot.txt.
+Use the venue's plus code exactly as shown, including the + symbol.
+
+Flag format:
+ZeroSecure_CTF{...}

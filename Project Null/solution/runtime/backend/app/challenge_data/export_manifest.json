@@ -1,0 +1,22 @@
+{
+  "build_id": "20260417190058",
+  "generated_at": "2026-04-17T19:00:58.230091+00:00",
+  "source": {
+    "layers_master": "organizer_host/challenges/layers.master.json",
+    "final_assembly": "organizer_host/fragments/final-assembly.json"
+  },
+  "artifacts": {
+    "layers_compiled": {
+      "path": "participant/backend/app/challenge_data/layers_compiled.json",
+      "sha256": "0850aa81d9e8396db59edeb4f0c5cbf7489e8522618bddcdfb6513d28821759c"
+    },
+    "fragments_compiled": {
+      "path": "participant/backend/app/challenge_data/fragments_compiled.json",
+      "sha256": "f4ddd12ba70659a86c191d35a770c6da143c759e705ac4e09b5bdf5541c0338b"
+    },
+    "final_compiled": {
+      "path": "participant/backend/app/challenge_data/final_compiled.json",
+      "sha256": "a37e69359a8900cf27daa8531be9c9a66bf6785cbc16c428bff73b83b7374a87"
+    }
+  }
+}

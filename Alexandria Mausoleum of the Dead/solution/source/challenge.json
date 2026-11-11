@@ -1,0 +1,10 @@
+{
+  "name": "Alexandria Mausoleum of the Dead",
+  "description": "It is said the lost library holds secrets encoded deep within its walls. Can you retrieve the 5 sigils to unlock the ancient sanctum?",
+  "author": "zerosecure",
+  "difficulty": "Hard",
+  "category": "Web",
+  "flags": [
+    "zerosec{cinder-echo-vellum-veil-glass_m4st3r_Of_th3_Maus0leum}"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "layer": 22,
+  "id": "layer-22",
+  "title": "Chain of Convenient Truths",
+  "act": 4,
+  "timer_seconds": 210,
+  "public_asset": "xor_chain.csv",
+  "canonical_key": "order_proves_the_chain",
+  "canonical_aliases": [
+    "order_proves_the_chain",
+    "order-proves-the-chain"
+  ],
+  "false_positive_key": "clean_phrase_means_correct",
+  "false_positive_aliases": [
+    "clean_phrase_means_correct",
+    "clean-phrase-means-correct"
+  ],
+  "verified_fragment": "shard::22::chain-iron",
+  "poison_fragment": "shard::22::smooth-iron"
+}

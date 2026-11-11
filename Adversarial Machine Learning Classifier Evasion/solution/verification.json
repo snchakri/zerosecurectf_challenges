@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecure{adversarial_perturbation_classifier_evasion_32ba}"
+    ],
+    "elapsed_seconds": 0.23
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

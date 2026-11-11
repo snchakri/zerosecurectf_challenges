@@ -1,0 +1,1 @@
+ZeroSecure_CTF{tcp_knock_knock_rst_ack}

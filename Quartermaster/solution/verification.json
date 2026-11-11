@@ -1,0 +1,14 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecurectf{quartermaster_daab80420377}",
+      "zerosecurectf{94b0ac51f5464db0-leak}"
+    ],
+    "elapsed_seconds": 2.82
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

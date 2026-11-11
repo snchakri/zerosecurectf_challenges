@@ -1,0 +1,2 @@
+zerosecure{squashfs_shadow_backup_recovery_77fe}
+zerosecurectf{squashfs_shadow_backup_recovery_77fe}

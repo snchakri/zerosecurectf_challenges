@@ -1,0 +1,20 @@
+{
+  "layer": 1,
+  "id": "layer-01",
+  "title": "The Notice",
+  "act": 1,
+  "timer_seconds": 180,
+  "public_asset": "boot_vector.txt",
+  "canonical_key": "noticed_by_null",
+  "canonical_aliases": [
+    "noticed_by_null",
+    "noticed-by-null"
+  ],
+  "false_positive_key": "you_have_been_noticed",
+  "false_positive_aliases": [
+    "you_have_been_noticed",
+    "you-have-been-noticed"
+  ],
+  "verified_fragment": "shard::01::ivory-veil",
+  "poison_fragment": "shard::01::ghost-veil"
+}

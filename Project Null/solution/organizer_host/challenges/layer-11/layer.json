@@ -1,0 +1,20 @@
+{
+  "layer": 11,
+  "id": "layer-11",
+  "title": "Architects of NULL",
+  "act": 3,
+  "timer_seconds": 180,
+  "public_asset": "relay_photo.exif.txt",
+  "canonical_key": "exif_names_the_cell",
+  "canonical_aliases": [
+    "exif_names_the_cell",
+    "exif-names-the-cell"
+  ],
+  "false_positive_key": "caption_names_the_cell",
+  "false_positive_aliases": [
+    "caption_names_the_cell",
+    "caption-names-the-cell"
+  ],
+  "verified_fragment": "shard::11::ivory-cell",
+  "poison_fragment": "shard::11::choir-cell"
+}

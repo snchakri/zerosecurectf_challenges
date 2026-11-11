@@ -1,0 +1,2 @@
+zerosecure{event_4104_powershell_scriptblock_83a1}
+zerosecurectf{event_4104_powershell_scriptblock_83a1}

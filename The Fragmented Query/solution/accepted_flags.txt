@@ -1,0 +1,2 @@
+zerosecurectf{dns_fragments_reveal_truth}
+zerosecurectf{dns-fragments-reveal-truth}

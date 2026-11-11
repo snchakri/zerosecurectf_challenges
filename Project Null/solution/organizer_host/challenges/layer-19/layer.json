@@ -1,0 +1,20 @@
+{
+  "layer": 19,
+  "id": "layer-19",
+  "title": "Profile Drift",
+  "act": 3,
+  "timer_seconds": 180,
+  "public_asset": "profile_trace.json",
+  "canonical_key": "telemetry_scores_the_target",
+  "canonical_aliases": [
+    "telemetry_scores_the_target",
+    "telemetry-scores-the-target"
+  ],
+  "false_positive_key": "highest_score_is_safe",
+  "false_positive_aliases": [
+    "highest_score_is_safe",
+    "highest-score-is-safe"
+  ],
+  "verified_fragment": "shard::19::profile-needle",
+  "poison_fragment": "shard::19::leader-needle"
+}

@@ -1,0 +1,14 @@
+# Invisible Ink
+
+**Category:** Surprise
+
+Title: Invisible Ink
+Category: Surprise
+Points: 145
+
+The memo looks ordinary at first glance, and that is exactly the point. If you only read what is visible, you will miss the drop entirely.
+
+Inspect the text beyond what the eye can see and recover the hidden flag.
+
+Flag format: ZeroSecureCTF{...}
+

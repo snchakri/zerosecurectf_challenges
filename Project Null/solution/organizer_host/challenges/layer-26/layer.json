@@ -1,0 +1,20 @@
+{
+  "layer": 26,
+  "id": "layer-26",
+  "title": "Synchrony Test",
+  "act": 5,
+  "timer_seconds": 240,
+  "public_asset": "sync_notes.txt",
+  "canonical_key": "alignment_beats_single_modes",
+  "canonical_aliases": [
+    "alignment_beats_single_modes",
+    "alignment-beats-single-modes"
+  ],
+  "false_positive_key": "audio_alone_is_enough",
+  "false_positive_aliases": [
+    "audio_alone_is_enough",
+    "audio-alone-is-enough"
+  ],
+  "verified_fragment": "shard::26::sync-spine",
+  "poison_fragment": "shard::26::audio-spine"
+}

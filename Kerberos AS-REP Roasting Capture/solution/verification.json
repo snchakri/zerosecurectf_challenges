@@ -1,0 +1,13 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zerosecure{asrep_roast_etype23_hash_carved_31ac}"
+    ],
+    "elapsed_seconds": 0.06
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

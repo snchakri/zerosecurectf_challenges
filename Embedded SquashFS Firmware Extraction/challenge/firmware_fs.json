@@ -1,0 +1,14 @@
+{
+  "device": "Industrial Gateway Model GX-900",
+  "filesystem": "SquashFS v4.0 (little endian)",
+  "recovered_files": [
+    {
+      "path": "/etc/shadow",
+      "content": "root:$6$rounds=5000$saltsalt$xyz...:19000:0:99999:7:::"
+    },
+    {
+      "path": "/etc/shadow.bak",
+      "content": "root:zerosecure{squashfs_shadow_backup_recovery_77fe}:18000:0:99999:7:::"
+    }
+  ]
+}

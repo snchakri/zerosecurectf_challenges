@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block body %}
+<h1>RECORD #{{ rid }}</h1>
+<p>owner: {{ rec.owner }}</p>
+<p>label: {{ rec.label }}</p>
+<pre>{{ rec.body }}</pre>
+<p><a href="/">back</a></p>
+{% endblock %}

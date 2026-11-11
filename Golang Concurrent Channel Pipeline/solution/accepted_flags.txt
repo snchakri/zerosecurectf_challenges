@@ -1,0 +1,2 @@
+zerosecure{golang_concurrent_channel_pipeline_82cd}
+zerosecurectf{golang_concurrent_channel_pipeline_82cd}

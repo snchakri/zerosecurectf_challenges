@@ -1,0 +1,20 @@
+{
+  "layer": 17,
+  "id": "layer-17",
+  "title": "Parameter Doubt",
+  "act": 3,
+  "timer_seconds": 180,
+  "public_asset": "mirror_query.txt",
+  "canonical_key": "duplicate_params_split_intent",
+  "canonical_aliases": [
+    "duplicate_params_split_intent",
+    "duplicate-params-split-intent"
+  ],
+  "false_positive_key": "longest_reply_is_real",
+  "false_positive_aliases": [
+    "longest_reply_is_real",
+    "longest-reply-is-real"
+  ],
+  "verified_fragment": "shard::17::mirror-branch",
+  "poison_fragment": "shard::17::verbose-branch"
+}

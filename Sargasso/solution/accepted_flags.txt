@@ -1,0 +1,3 @@
+zerosecurectf{doombot_sargasso_d9c9cbcb6e9a}
+zer0securectf{decoy_export_b6ff246a}
+zerosecurectf{DECOY-NO-FLAG-B6FF246A}

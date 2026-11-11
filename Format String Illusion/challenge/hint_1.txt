@@ -1,0 +1,2 @@
+Hint 1:
+Ignore the literal log message content. The formatting pattern carries the signal.

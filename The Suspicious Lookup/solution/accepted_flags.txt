@@ -1,0 +1,2 @@
+zerosecurectf{dns_query_reveals_secret}
+zerosecurectf{dns-query-reveals-secret}

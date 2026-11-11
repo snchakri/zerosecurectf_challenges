@@ -1,0 +1,2 @@
+zerosecure{rule30_1d_cellular_automaton_step_82bd}
+zerosecurectf{rule30_1d_cellular_automaton_step_82bd}

@@ -1,0 +1,17 @@
+#!/bin/sh
+
+p1="ZeroSecure"
+p2="_CTF{"
+p3="part3"
+p4="_tiny"
+p5="_lock}"
+flag="${p1}${p2}${p3}${p4}${p5}"
+
+printf "Enter the flag:\n"
+IFS= read -r input
+
+if [ "$input" = "$flag" ]; then
+  printf "Correct!\n"
+else
+  printf "Nope.\n"
+fi

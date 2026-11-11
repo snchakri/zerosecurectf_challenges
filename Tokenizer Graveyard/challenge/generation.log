@@ -1,0 +1,4 @@
+sample_id=42
+note=trace recorded before cleanup
+special_token_trace=50031 -> 50009 -> 50044 -> 50012 -> 50027 -> 50066 -> 50018
+output=[REDACTED]

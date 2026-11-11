@@ -1,0 +1,2 @@
+Hint 1:
+Literal line text is noise. The hidden channel is formatting, not words.

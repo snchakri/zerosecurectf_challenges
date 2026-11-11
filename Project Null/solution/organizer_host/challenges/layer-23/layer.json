@@ -1,0 +1,20 @@
+{
+  "layer": 23,
+  "id": "layer-23",
+  "title": "Length Extends the Lie",
+  "act": 4,
+  "timer_seconds": 210,
+  "public_asset": "apology_mac.txt",
+  "canonical_key": "length_extension_breaks_trust",
+  "canonical_aliases": [
+    "length_extension_breaks_trust",
+    "length-extension-breaks-trust"
+  ],
+  "false_positive_key": "signed_prefixes_hold",
+  "false_positive_aliases": [
+    "signed_prefixes_hold",
+    "signed-prefixes-hold"
+  ],
+  "verified_fragment": "shard::23::prefix-ash",
+  "poison_fragment": "shard::23::prefix-calm"
+}

@@ -1,0 +1,39 @@
+ZeroSecure CTF 2024 — Broadcast: Hints
+=======================================
+(For challenge organizers / hint release system)
+
+HINT 1  [cost: 10 pts]
+----------------------
+Notice the public exponent: e = 3.
+The same message was sent to THREE different people.
+What happens mathematically when you raise a number to the power 3
+and reduce it mod three different values?
+
+HINT 2  [cost: 20 pts]
+----------------------
+Look up "Håstad's Broadcast Attack".
+When the same plaintext m is encrypted with e=3 to three recipients:
+
+    c1 ≡ m³  (mod n1)
+    c2 ≡ m³  (mod n2)
+    c3 ≡ m³  (mod n3)
+
+If the three moduli n1, n2, n3 are pairwise coprime (they are),
+a famous theorem in number theory lets you solve this system of
+congruences for a UNIQUE value modulo n1*n2*n3.
+
+HINT 3  [cost: 30 pts]
+----------------------
+The theorem from Hint 2 is the Chinese Remainder Theorem (CRT).
+
+CRT gives you x such that:
+    x ≡ c1 (mod n1)
+    x ≡ c2 (mod n2)
+    x ≡ c3 (mod n3)
+
+Here x = m³ over the integers (not reduced mod anything).
+Because m is small enough that m³ < n1*n2*n3, you recover m³ exactly.
+Now just take the integer cube root — no modular arithmetic needed.
+
+Python: from sympy import integer_nthroot
+        m, exact = integer_nthroot(x, 3)

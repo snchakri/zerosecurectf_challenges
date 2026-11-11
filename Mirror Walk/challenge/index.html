@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ZeroSecure CTF - Mirror Walk</title>
+    <style>
+      :root {
+        --bg: #f4efe7;
+        --card: #fffaf2;
+        --text: #2c241d;
+        --muted: #7c6d60;
+        --accent: #8a4b2a;
+        --line: #dfcfbf;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        background:
+          radial-gradient(circle at top, rgba(138, 75, 42, 0.12), transparent 28%),
+          linear-gradient(145deg, #f7f1e8, #eee2d3);
+        color: var(--text);
+        font-family: Georgia, "Times New Roman", serif;
+      }
+
+      main {
+        width: min(92vw, 620px);
+        padding: 36px;
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: 20px;
+        box-shadow: 0 20px 50px rgba(44, 36, 29, 0.12);
+      }
+
+      .eyebrow {
+        margin: 0 0 10px;
+        color: var(--accent);
+        text-transform: uppercase;
+        letter-spacing: 0.18em;
+        font-size: 0.78rem;
+      }
+
+      h1 {
+        margin: 0 0 14px;
+        font-size: clamp(2rem, 5vw, 3rem);
+      }
+
+      p {
+        margin: 0 0 14px;
+        line-height: 1.7;
+        font-size: 1.03rem;
+      }
+
+      code {
+        padding: 0.15rem 0.35rem;
+        background: #f3e6d8;
+        border-radius: 6px;
+      }
+
+      .note {
+        padding-top: 8px;
+        color: var(--muted);
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <p class="eyebrow">Beginner Crypto</p>
+      <h1>Mirror Walk</h1>
+      <p>
+        Two local files hold the whole challenge: one contains a short clue, the other contains the ciphertext.
+      </p>
+      <p>
+        The solve is intentionally small, but it is not a direct lookup. Read the clue, decode the text, and recover the flag in the format <code>ZeroSecure_CTF{...}</code>.
+      </p>
+      <p class="note">
+        Hint: the alphabet did not stay still.
+      </p>
+    </main>
+  </body>
+</html>

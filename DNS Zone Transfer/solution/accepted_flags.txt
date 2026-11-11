@@ -1,0 +1,2 @@
+zerosecure{dns_axfr_zone_file_loc_and_txt_88ef}
+zerosecurectf{dns_axfr_zone_file_loc_and_txt_88ef}

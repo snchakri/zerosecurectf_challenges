@@ -1,0 +1,2 @@
+Hint 2:
+Keep only letters, preserve order, and map uppercase/lowercase into a two-symbol stream. Decode in groups of 5.

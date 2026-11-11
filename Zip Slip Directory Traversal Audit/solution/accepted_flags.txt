@@ -1,0 +1,2 @@
+zerosecure{zip_slip_path_traversal_symlink_72cd}
+zerosecurectf{zip_slip_path_traversal_symlink_72cd}

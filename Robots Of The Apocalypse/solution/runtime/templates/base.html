@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{% block title %}BUNKER TERMINAL{% endblock %}</title>
+  <style>
+    body{background:#0b0d0f;color:#9fb4a0;font-family:monospace;margin:0;padding:2rem}
+    a{color:#6fd08c}
+    .box{border:1px solid #223;padding:1rem;max-width:640px}
+    h1{color:#cfe}
+    .muted{color:#556}
+  </style>
+</head>
+<body>
+  <div class="box">
+  {% block body %}{% endblock %}
+  </div>
+  <p class="muted">BUNKER-OS v0.3 // decommissioned</p>
+</body>
+</html>

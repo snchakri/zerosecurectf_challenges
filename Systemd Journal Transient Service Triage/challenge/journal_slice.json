@@ -1,0 +1,8 @@
+{
+  "__CURSOR": "s=123456789...",
+  "_SYSTEMD_UNIT": "backup-worker.service",
+  "_PID": 4092,
+  "_COMM": "backup-runner",
+  "MESSAGE": "Service executed successfully.",
+  "CUSTOM_ENV_INJECTION": "EXPORTED_SECRET_FLAG=zerosecure{systemd_cgroup_environ_transient_leak_55da}"
+}

@@ -1,0 +1,6 @@
+{
+  "status": "incomplete source",
+  "execution": null,
+  "archive_note": "incomplete author material: The player handout gives dependencies but omits the exact key derivation, nonce layout, and fragment envelope. No author implementation or complete writeup was found locally. The accepted answer is retained, but an independent artifact-to-flag solve was not verified.",
+  "event_answer_file": "accepted_flags.txt"
+}

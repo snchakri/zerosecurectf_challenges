@@ -1,0 +1,14 @@
+# Reused Signal
+
+**Category:** Crypto
+
+Title: Reused Signal
+Category: Cryptography
+Points: 100
+
+Two encrypted frames were intercepted from the same operator. One plaintext is already known, and the analyst who captured the traffic left a note that the stream seed repeats every 6 bytes.
+
+Can you recover the hidden message from the second frame?
+
+Flag format: ZeroSecureCTF{...}
+

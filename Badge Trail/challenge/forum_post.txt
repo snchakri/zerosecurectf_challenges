@@ -1,0 +1,8 @@
+Thread: reused handles are bad OPSEC
+User: owlwatcher
+
+I know, I know... I still use the same alias on every public platform.
+It is always built as:
+1. my metro stop (remove spaces and punctuation)
+2. the part of the day when I do my best work
+3. my graduating year

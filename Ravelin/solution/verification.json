@@ -1,0 +1,15 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "prior session",
+    "returncode": 0,
+    "observed_flags": [
+      "zer0securectf{ARCHIVED_AD16D06B7E}",
+      "zerosecurectf{WRONG_ORDER_dd6558fb093c}",
+      "zerosecurectf{ravelin_177339b472d5}"
+    ],
+    "elapsed_seconds": 0.4
+  },
+  "archive_note": null,
+  "event_answer_file": "accepted_flags.txt"
+}

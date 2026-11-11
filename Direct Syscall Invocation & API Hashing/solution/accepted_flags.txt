@@ -1,0 +1,2 @@
+zerosecure{direct_system_call_djb2_hashing_47ba}
+zerosecurectf{direct_system_call_djb2_hashing_47ba}

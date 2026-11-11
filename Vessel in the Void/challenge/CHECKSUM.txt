@@ -1,0 +1,1 @@
+5c40cff0f99d64b66866d463654a52f70fb4b67d8863aeb31f652d219f4fe686  challenge/vessel.tar.gz

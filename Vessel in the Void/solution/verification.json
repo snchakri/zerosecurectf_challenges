@@ -1,0 +1,14 @@
+{
+  "status": "reference run completed",
+  "execution": {
+    "phase": "continuation checks",
+    "returncode": 0,
+    "observed_flags": [
+      "32mzerosecurectf{caught_final_void}",
+      "zerosecurectf{caught_final_void}"
+    ],
+    "elapsed_seconds": 0.1
+  },
+  "archive_note": "archived reference; not rerun",
+  "event_answer_file": null
+}
